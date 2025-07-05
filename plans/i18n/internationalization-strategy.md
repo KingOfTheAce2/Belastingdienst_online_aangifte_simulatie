@@ -15,8 +15,17 @@ This document outlines a comprehensive internationalization (i18n) strategy for 
 - **French (fr-FR)**: EU official language
 - **Spanish (es-ES)**: Growing expat community
 - **Italian (it-IT)**: Significant business presence
+- **Polish (pl-PL)**: Significant exapt community
 
-### 1.3 Language Detection
+### 1.3 Non EU Languages
+These cover key expat and migrant groups living in the Netherlands:
+- **Russian (ru-RU)**
+- **Ukrainian (uk-UA)**
+- **Turkish (tr-TR)**
+- **Arabic (ar)**
+- **Hindi (hi-IN)**
+- 
+### 1.4 Language Detection
 ```javascript
 // Browser language detection hierarchy
 1. User preference (stored in localStorage)
@@ -26,7 +35,7 @@ This document outlines a comprehensive internationalization (i18n) strategy for 
 5. Default to Dutch (nl-NL)
 ```
 
-### 1.4 Fallback Mechanisms
+### 1.5 Fallback Mechanisms
 ```javascript
 // Language fallback chain
 nl-NL → nl → en-GB → en → default keys
@@ -376,9 +385,9 @@ const changeLanguage = async (newLang: string) => {
       "nl": "IB - Inkomstenbelasting",
       "en": "IB - Income Tax"
     },
-    "VP": {
-      "nl": "VP - Vennootschapsbelasting",
-      "en": "VP - Corporate Tax"
+    "VA": {
+      "nl": "VA - Voorlopige aanslag",
+      "en": "VA - Provisional Tax Assessment"
     }
   }
 }
