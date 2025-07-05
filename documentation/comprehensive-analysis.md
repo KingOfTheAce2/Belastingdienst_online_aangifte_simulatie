@@ -10,7 +10,7 @@ This comprehensive analysis examines the Dutch tax forms repository (`Belastingd
 
 **Key Statistics**:
 - **Language**: 100% JavaScript
-- **Total Size**: ~16MB across 6 files
+- **Total Size**: ~22MB across 13 files
 - **Technology Stack**: Google Web Toolkit (GWT) 2.9.0
 - **Architecture**: Client-side single-page application
 - **Tax Years**: 2024-2025
@@ -22,11 +22,18 @@ This comprehensive analysis examines the Dutch tax forms repository (`Belastingd
 | File | Size | Purpose | Tax Year |
 |------|------|---------|----------|
 | `ca-24.js` | 3.2MB | Income tax return for foreign taxpayers | 2024 |
-| `ib_owr-24.js` | 882KB | Declaration of actual investment returns | 2024 |
+| `ib_owr-17.js` | 882KB | Actual investment returns declaration | 2017 |
+| `ib_owr-18.js` | 882KB | Actual investment returns declaration | 2018 |
+| `ib_owr-19.js` | 882KB | Actual investment returns declaration | 2019 |
+| `ib_owr-20.js` | 882KB | Actual investment returns declaration | 2020 |
+| `ib_owr-21.js` | 882KB | Actual investment returns declaration | 2021 |
+| `ib_owr-22.js` | 882KB | Actual investment returns declaration | 2022 |
+| `ib_owr-23.js` | 882KB | Actual investment returns declaration | 2023 |
+| `ib_owr-24.js` | 882KB | Actual investment returns declaration | 2024 |
 | `ma-24.js` | 3.5MB | Migration tax return | 2024 |
 | `pa-24.js` | 3.5MB | Income tax return for resident taxpayers | 2024 |
-| `va-25-btl.js` | 2.5MB | Provisional assessment for non-resident taxpayers | 2024 |
-| `va-25-nld.js` | 2.5MB | Provisional assessment for resident taxpayers | 2024 |
+| `va-25-btl.js` | 2.5MB | Provisional assessment for non-resident taxpayers | 2025 |
+| `va-25-nld.js` | 2.5MB | Provisional assessment for resident taxpayers | 2025 |
 
 ### Module Architecture Pattern
 

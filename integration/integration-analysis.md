@@ -9,35 +9,55 @@ This document provides a comprehensive analysis of the Dutch tax forms repositor
 - **Repository Name**: Belastingdienst_online_aangifte_simulatie
 - **Language**: 100% JavaScript
 - **Primary Technology**: Google Web Toolkit (GWT) 2.9.0
-- **Files**: 6 JavaScript modules
+- **Files**: 13 JavaScript modules
 - **Purpose**: Dutch tax online declaration simulation
 
 ### Core Tax Form Modules
 
-1. **ca-24.js** (3.19 MB)  
-   - Income tax return for **non-resident taxpayers** (2024)  
-   - Compiled GWT JavaScript  
-   - Contains form validation and calculation logic  
+1. **ca-24.js** (3.19 MB)
+   - Income tax return for **non-resident taxpayers** (2024)
+   - Compiled GWT JavaScript
+   - Contains form validation and calculation logic
 
-2. **ib_owr-24.js** (882 KB)  
-   - Declaration of **actual investment returns** (Box 3, 2024)  
-   - Focused module for reporting actual yield on assets  
+2. **ib_owr-17.js** (882 KB)
+   - Actual investment returns declaration (2017)
 
-3. **ma-24.js** (3.49 MB)  
-   - **Migration tax return** for individuals moving into or out of the Netherlands (2024)  
-   - Includes complex logic to handle partial-year residency  
+3. **ib_owr-18.js** (882 KB)
+   - Actual investment returns declaration (2018)
 
-4. **pa-24.js** (3.46 MB)  
-   - Income tax return for **resident taxpayers** (2024)  
-   - Covers full-year Dutch income and asset declarations  
+4. **ib_owr-19.js** (882 KB)
+   - Actual investment returns declaration (2019)
 
-5. **va-25-btl.js** (2.49 MB)  
-   - **Provisional assessment** for **non-resident taxpayers** (2025)  
-   - Pre-filled estimates based on past income/assets  
+5. **ib_owr-20.js** (882 KB)
+   - Actual investment returns declaration (2020)
 
-6. **va-25-nld.js** (2.49 MB)  
-   - **Provisional assessment** for **resident taxpayers** (2025)  
-   - Tailored to domestic income and deductions
+6. **ib_owr-21.js** (882 KB)
+   - Actual investment returns declaration (2021)
+
+7. **ib_owr-22.js** (882 KB)
+   - Actual investment returns declaration (2022)
+
+8. **ib_owr-23.js** (882 KB)
+   - Actual investment returns declaration (2023)
+
+9. **ib_owr-24.js** (882 KB)
+   - Actual investment returns declaration (2024)
+
+10. **ma-24.js** (3.49 MB)
+    - **Migration tax return** for individuals moving into or out of the Netherlands (2024)
+    - Includes complex logic to handle partial-year residency
+
+11. **pa-24.js** (3.46 MB)
+    - Income tax return for **resident taxpayers** (2024)
+    - Covers full-year Dutch income and asset declarations
+
+12. **va-25-btl.js** (2.49 MB)
+    - **Provisional assessment** for **non-resident taxpayers** (2025)
+    - Pre-filled estimates based on past income/assets
+
+13. **va-25-nld.js** (2.49 MB)
+    - **Provisional assessment** for **resident taxpayers** (2025)
+    - Tailored to domestic income and deductions
 
 ## Integration Patterns Identified
 

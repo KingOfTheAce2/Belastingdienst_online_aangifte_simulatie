@@ -7,7 +7,7 @@ This security assessment analyzes the Belastingdienst (Dutch Tax Service) online
 ## Repository Overview
 
 - **Repository**: KingOfTheAce2/Belastingdienst_online_aangifte_simulatie
-- **Files Analyzed**: 6 JavaScript files (ca-24.js, ib_owr-24.js, ma-24.js, pa-24.js, va-25-btl.js, va-25-nld.js)
+- **Files Analyzed**: 13 JavaScript files (ca-24.js, ib_owr-17.js, ib_owr-18.js, ib_owr-19.js, ib_owr-20.js, ib_owr-21.js, ib_owr-22.js, ib_owr-23.js, ib_owr-24.js, ma-24.js, pa-24.js, va-25-btl.js, va-25-nld.js)
 - **Assessment Date**: July 4, 2025
 - **Assessment Type**: Remote code analysis
 
