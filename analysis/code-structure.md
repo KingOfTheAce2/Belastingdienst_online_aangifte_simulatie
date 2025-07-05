@@ -10,22 +10,22 @@ The repository `KingOfTheAce2/Belastingdienst_online_aangifte_simulatie` contain
 
 | File | Size | Purpose |
 |------|------|---------|
-| `ca-24.js` | 3.2MB | Corporate tax form handling (2024) |
-| `ib_owr-24.js` | 882KB | Income tax and property tax form (2024) |
-| `ma-24.js` | 3.5MB | Monthly declaration form (2024) |
-| `pa-24.js` | 3.5MB | Payroll administration form (2024) |
-| `va-25-btl.js` | 2.5MB | VAT declaration form BTL variant (2025) |
-| `va-25-nld.js` | 2.5MB | VAT declaration form NLD variant (2025) |
+| `ca-24.js` | 3.2MB | Income tax return for foreign taxpayers (2024) |
+| `ib_owr-24.js` | 882KB | Declaration of actual investment returns (2024) |
+| `ma-24.js` | 3.5MB | Migration tax return (2024) |
+| `pa-24.js` | 3.5MB | Income tax return for resident taxpayers (2024) |
+| `va-25-btl.js` | 2.5MB | Provisional assessment for non-resident taxpayers (2025) |
+| `va-25-nld.js` | 2.5MB | Provisional assessment for resident taxpayers (2025) |
 
 ### File Naming Convention Analysis
 
 **Format**: `{form-type}-{year}-{variant}.js`
 
-- **CA**: Corporate tax (Corporatie Aangifte)
-- **IB_OWR**: Income tax and property tax (Inkomstenbelasting en Onroerende Werkingsrecht)
-- **MA**: Monthly declarations (Maandelijkse Aangifte)
-- **PA**: Payroll administration (Personeel Administratie)
-- **VA**: VAT declarations (Belasting over de Toegevoegde Waarde)
+- **CA**: Income tax return for foreign taxpayers (Cross-border aangifte)
+- **IB_OWR**: Declaration of actual investment returns (Inkomstenbelasting Opgaaf Werkelijk Rendement)
+- **MA**: Migration tax return (Migratie aanslag)
+- **PA**: Income tax return for resident taxpayers (Particuliere aanslag)
+- **VA**: Provisional assessment (Verlopige aanslag)
 
 ## Technical Architecture
 
@@ -79,11 +79,14 @@ $strongName = "[unique-hash]";
 ### Dutch Tax Domain Specifics
 
 #### 1. **Form Types Identified**
-- **Corporate Tax (CA)**: Business tax declarations
-- **Income Tax (IB_OWR)**: Individual income and property tax
-- **Monthly Declarations (MA)**: Regular business reporting
-- **Payroll Administration (PA)**: Employee tax handling
-- **VAT Declarations (VA)**: Value-added tax reporting
+- **CA (Cross-border Aangifte)**: Income tax return for **foreign (non-resident) taxpayers**
+- **IB_OWR (Inkomstenbelasting Opgaaf Werkelijk Rendement)**: Declaration of **actual investment returns** for **Box 3** assets
+- **MA (Migratie Aangifte)**: **Migration tax return** for individuals who moved into or out of the Netherlands during the tax year
+- **PA (Particuliere Aangifte)**: Income tax return for **resident (domestic) taxpayers**
+- **VA (Voorlopige Aanslag)**: **Provisional assessment** of income tax, split into:
+  - **VA-…-BTL**: For **non-resident taxpayers**
+  - **VA-…-NLD**: For **resident taxpayers**
+
 
 #### 2. **Localization Elements**
 - Dutch language strings embedded in code
@@ -92,7 +95,7 @@ $strongName = "[unique-hash]";
 
 #### 3. **Regulatory Compliance**
 - Form structure aligned with Dutch tax authority requirements
-- Multi-variant support (BTL/NLD for VAT forms)
+- Multi-variant support (BTL/NLD for (non-)resident tax returns)
 - Year-specific implementations for changing regulations
 
 ## Data Models and Validation
