@@ -12,34 +12,32 @@ This document provides a comprehensive analysis of the Dutch tax forms repositor
 - **Files**: 6 JavaScript modules
 - **Purpose**: Dutch tax online declaration simulation
 
-## File Structure Analysis
-
 ### Core Tax Form Modules
 
-1. **ca-24.js** (3.19 MB)
-   - Corporate tax form for 2024
-   - Compiled GWT JavaScript
-   - Contains form validation and calculation logic
+1. **ca-24.js** (3.19 MB)  
+   - Income tax return for **non-resident taxpayers** (2024)  
+   - Compiled GWT JavaScript  
+   - Contains form validation and calculation logic  
 
-2. **ib_owr-24.js** (882 KB)
-   - Individual tax and property tax form for 2024
-   - Smaller module focusing on personal income tax
+2. **ib_owr-24.js** (882 KB)  
+   - Declaration of **actual investment returns** (Box 3, 2024)  
+   - Focused module for reporting actual yield on assets  
 
-3. **ma-24.js** (3.49 MB)
-   - Monthly/periodic tax declaration form for 2024
-   - Largest module suggesting comprehensive calculations
+3. **ma-24.js** (3.49 MB)  
+   - **Migration tax return** for individuals moving into or out of the Netherlands (2024)  
+   - Includes complex logic to handle partial-year residency  
 
-4. **pa-24.js** (3.46 MB)
-   - Personnel tax form for 2024
-   - Employee-related tax calculations
+4. **pa-24.js** (3.46 MB)  
+   - Income tax return for **resident taxpayers** (2024)  
+   - Covers full-year Dutch income and asset declarations  
 
-5. **va-25-btl.js** (2.49 MB)
-   - VAT form for 2025 (BTL - Belasting over de Toegevoegde Waarde)
-   - Business tax integration
+5. **va-25-btl.js** (2.49 MB)  
+   - **Provisional assessment** for **non-resident taxpayers** (2025)  
+   - Pre-filled estimates based on past income/assets  
 
-6. **va-25-nld.js** (2.49 MB)
-   - VAT form for 2025 (Netherlands version)
-   - Dutch-specific VAT calculations
+6. **va-25-nld.js** (2.49 MB)  
+   - **Provisional assessment** for **resident taxpayers** (2025)  
+   - Tailored to domestic income and deductions
 
 ## Integration Patterns Identified
 
