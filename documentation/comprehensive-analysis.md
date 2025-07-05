@@ -21,12 +21,12 @@ This comprehensive analysis examines the Dutch tax forms repository (`Belastingd
 
 | File | Size | Purpose | Tax Year |
 |------|------|---------|----------|
-| `ca-24.js` | 3.19 MB | Corporate Tax (Vennootschapsbelasting) | 2024 |
-| `ib_owr-24.js` | 882 KB | Individual Tax & Property Tax | 2024 |
-| `ma-24.js` | 3.49 MB | Monthly/Periodic Tax Declaration | 2024 |
-| `pa-24.js` | 3.46 MB | Personnel Tax (Loonheffing) | 2024 |
-| `va-25-btl.js` | 2.49 MB | VAT Form (BTW) | 2025 |
-| `va-25-nld.js` | 2.49 MB | VAT Form (Netherlands-specific) | 2025 |
+| `ca-24.js` | 3.2MB | Income tax return for foreign taxpayers | 2024 |
+| `ib_owr-24.js` | 882KB | Declaration of actual investment returns | 2024 |
+| `ma-24.js` | 3.5MB | Migration tax return | 2024 |
+| `pa-24.js` | 3.5MB | Income tax return for resident taxpayers | 2024 |
+| `va-25-btl.js` | 2.5MB | Provisional assessment for non-resident taxpayers | 2024 |
+| `va-25-nld.js` | 2.5MB | Provisional assessment for resident taxpayers | 2024 |
 
 ### Module Architecture Pattern
 
