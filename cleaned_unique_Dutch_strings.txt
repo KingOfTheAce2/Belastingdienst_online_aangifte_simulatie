@@ -1,7 +1,4 @@
-%<\/span> van <span class="nonowrap">
-%<\/span> van <span class="nowrap">
-%<\/span> van het rentebedrag. Volgens het belastingverdrag is <span class="nowrap">
-%<\/span> verrekenbaar. Het bedrag dat wij verrekenen ziet u aan het einde van de aangifte bij de berekening van de inkomstenbelasting.
+Het bedrag dat wij verrekenen ziet u aan het einde van de aangifte bij de berekening van de inkomstenbelasting.
 &nbsp;de buitenlandse bronbelasting verrekenen volgens de afzonderlijke methode, in plaats van de gezamenlijke methode?
 &nbsp;invult, kunt u dit aan het einde van dit formulier vergelijken met het werkelijk rendement. Het is niet&nbsp;verplicht het fictief rendement in te vullen.
 &nbsp;nog een verrekenbare bronbelasting uit een ander land?
@@ -11,15 +8,12 @@
 ').<br>Modify your application's host HTML page doctype, or update your custom
 'document.compatMode' configuration property settings.
 (<ul class="bullet-list")|(<span class="nowrap")|(<span class="sr-only")|(<span lang="\\w+")|(<span aria-hidden="true" class="icon blue ease--right pr-1")|(<[b-zB-Z]+\\w*)[^>]*(>)
-(?=(.*\\d){2})(?=(.*[A-Za-z]){2})[A-Za-z0-9]{6}
-(?=(?:[^A-Za-z]*[A-Za-z]){2})(?=(?:[^0-9]*[0-9]){2})[A-Za-z0-9]{6}
 (Bedrijfs)gebouwen die ter beschikking zijn gesteld en waarop wordt afgeschreven (met bodemwaarde)
 (Bedrijfs)gebouwen en terreinen
 (Bedrijfs)gebouwen in eigen gebruik waarop wordt afgeschreven (met bodemwaarde)
 (Bedrijfs)gebouwen waarop niet wordt afgeschreven
 (Deel van) het verkoopbedrag dat&nbsp;<span class="nowrap">
 (Niet-gebruikte) jaarruimte in
-([/\\\\\\.\\*\\+\\?\\|\\(\\)\\[\\]\\{\\}$^])
 ) -- check the network connection
 ), kunt u misschien in een volgend jaar verrekenen.
 ), kunt u volgend jaar aftrekken.
@@ -5719,10 +5713,6 @@ gelijk zijn aan het totaal van de activa
 h4:contains('Verzoek of wijziging')
 het perceel overgedragen aan uitsluitend 1 of meer agrari&euml;rs?
 het restant van deze uitgaven alsnog aftrekken in 2024.
-hlpmaanvgegvarwprniettonenaang
-hlpmaanvgegvarwprniettonenpart
-hlpvaanvgegvarwprniettonenaang
-hlpvaanvgegvarwprniettonenpart
 huurder of pachter van 1 of meer van de percelen voordat&nbsp;
 huurder of pachter van het perceel voordat&nbsp;
 in <span class="nowrap">2025<\/span> naast de rente nog andere kosten, zoals afsluitkosten?
@@ -5737,15 +5727,6 @@ is geen SoortenSituatieOnroerendeZaakPeriode
 is invalid or violates the same-origin security restriction
 is langer dan 256 tekens. Pas de naam aan en voeg de bijlage opnieuw toe.
 is te groot. Zorg ervoor dat de bijlage niet groter is dan
-java.util.ArrayList/4159755760
-java.util.Arrays$ArrayList/2507071751
-java.util.Collections$EmptyList/4157118744
-java.util.Collections$EmptyMap/4174664486
-java.util.Collections$SingletonList/1586180994
-java.util.IdentityHashMap/1839153020
-java.util.LinkedHashMap/3008245022
-java.util.LinkedList/3953877921
-javascript/ola-forms-9ecdf01.js
 kan niet gevonden worden in de LandenLijst.
 kan niet gevonden worden in deLandenlijstIH.
 kan niet worden toegevoegd omdat het bestand geen
@@ -5755,49 +5736,7 @@ kunt u niet toevoegen omdat wij die niet kunnen controleren op virussen. Probeer
 mag niet groter dan 100% zijn.
 min de vrijstelling van \u20AC 1.306)
 min de vrijstelling van \u20AC 653)
-modal-dialog modal-dialog-centered modal-container
 niet-vrijgesteld deel kapitaalverzekeringen
-nl.belastingdienst.ola.ih.service.zoeken.shared.AnbiDTO/645183756
-nl.belastingdienst.ola.shared.util.LandComparator/2239278086
-nl.belastingdienst.ola.shared.util.ValutaComparator/4056748072
-nl.belastingdienst.ola.vrzsch.client.view.widget.huisstijl.SuggestieBoxNavigatieMenuItem/2396246754
-nl.belastingdienst.ola.vrzsch.service.shared.domein.exception.OpenApplicatieException/3099826378
-nl.belastingdienst.ola.vrzsch.service.shared.domein.exception.VerstuurAangifteException/1116763163
-nl.belastingdienst.ola.vrzsch.service.shared.domein.exception.ViaToHtmlException/3524028313
-nl.belastingdienst.ola.vrzsch.shared.model.base.entity.implementation.AanvullendMetagegeven/3004603235
-nl.belastingdienst.ola.vrzsch.shared.model.base.entity.implementation.AanvullendeGegevens/3195785353
-nl.belastingdienst.ola.vrzsch.shared.model.base.entity.implementation.AuthenticatieInfo/3418664636
-nl.belastingdienst.ola.vrzsch.shared.model.base.entity.implementation.Autorisatiestatus/150156102
-nl.belastingdienst.ola.vrzsch.shared.model.base.entity.implementation.Belanghebbende/607314894
-nl.belastingdienst.ola.vrzsch.shared.model.base.entity.implementation.GegevensSet/361834399
-nl.belastingdienst.ola.vrzsch.shared.model.base.entity.implementation.GegevensType/2452708251
-nl.belastingdienst.ola.vrzsch.shared.model.base.entity.implementation.Identificatiesoort/3112625245
-nl.belastingdienst.ola.vrzsch.shared.model.base.entity.implementation.MedeBelanghebbende/3887120802
-nl.belastingdienst.ola.vrzsch.shared.model.base.entity.implementation.Relatie/149001649
-nl.belastingdienst.ola.vrzsch.shared.model.data.DataRequest/1325661306
-nl.belastingdienst.ola.vrzsch.shared.model.data.DataResponse/686624725
-nl.belastingdienst.ola.vrzsch.shared.model.data.LijstResponse/4140065136
-nl.belastingdienst.ola.vrzsch.shared.model.data.ReferentieEntiteit/4062829333
-nl.belastingdienst.ola.vrzsch.shared.model.data.ReferentieLijst/1425383639
-nl.belastingdienst.ola.vrzsch.shared.model.data.ReferentieVeld/2176969712
-nl.belastingdienst.ola.vrzsch.shared.model.dto.BijlageDTO/310389868
-nl.belastingdienst.ola.vrzsch.shared.model.dto.EntityDTO/1852468604
-nl.belastingdienst.ola.vrzsch.shared.model.dto.FieldDTO/2737079954
-nl.belastingdienst.ola.vrzsch.shared.model.dto.FormulierDTO/2121217775
-nl.belastingdienst.ola.vrzsch.shared.model.dto.GebruikersGedragConfigData/3812412310
-nl.belastingdienst.ola.vrzsch.shared.model.dto.LogistiekeGegevensDTO/2513079727
-nl.belastingdienst.ola.vrzsch.shared.model.dto.MfcDTO/480759844
-nl.belastingdienst.ola.vrzsch.shared.model.dto.RedenGegevensNietBeschikbaar/1239066546
-nl.belastingdienst.ola.vrzsch.shared.model.dto.SluitApplicatieReden/1466016755
-nl.belastingdienst.ola.vrzsch.shared.model.dto.SuggestieDTO/2140410966
-nl.belastingdienst.ola.vrzsch.shared.model.dto.Tijdvak/1844088179
-nl.belastingdienst.ola.vrzsch.shared.model.dto.response.BeheerBelanghebbendenDTOResponse/533349058
-nl.belastingdienst.ola.vrzsch.shared.model.dto.response.GeefLijstLogistiekeGegevensDTOResponse/3497120480
-nl.belastingdienst.ola.vrzsch.shared.model.dto.response.GeefVoorinvulInformatieEnZetInFormulierResponse/2892776320
-nl.belastingdienst.ola.vrzsch.shared.model.dto.response.MfcDTOResponse/3563438061
-nl.belastingdienst.ola.vrzsch.shared.model.dto.response.OpenApplicatieDTOResponse/3535696027
-nl.belastingdienst.ola.vrzsch.shared.tekst.EnumValueComparator/1881739655
-nl.belastingdienst.ola.vrzsch.shared.voorinvullen.util.VoorinvulContext/218132463
 nog een vrijgesteld winstbestanddeel in een ander land?
 nog inkomsten uit het beschikbaar stellen van bezittingen in een ander land?
 nog partneralimentatie van iemand anders?
@@ -5824,12 +5763,3 @@ user-defined.FileUpload_VirusDetected
 validation top-validation-message
 voor buitenlandse belastingplichtigen
 waarvan eerder gebruik is gemaakt
-x <span class="nowrap">1,44%<\/span> =
-x <span class="nowrap">2,61%<\/span> =
-x <span class="nowrap">2,62%<\/span> =
-x <span class="nowrap">5,88%<\/span> =
-x <span class="nowrap">6,04%<\/span> =
-x <span class="nowrap">BDRGPERCBX3RENDKLASSE1%<\/span> =
-x <span class="nowrap">BDRGPERCBX3RENDKLASSE2%<\/span> =
-x&nbsp;<span class="nowrap">1,44%<\/span>&nbsp;=
-{pgaangnaam} en {pgpartnaam} samen
