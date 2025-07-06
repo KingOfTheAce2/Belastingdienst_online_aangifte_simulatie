@@ -1,17 +1,42 @@
-Het bedrag dat wij verrekenen ziet u aan het einde van de aangifte bij de berekening van de inkomstenbelasting.
+{
+  "bsn": "BSN → Citizen Service Number",
+  "voorlopige aanslag": "Provisional Tax Assessment",
+  "loonheffing": "Payroll Withholding Tax",
+  "inkomstenbelasting": "Personal Income Tax",
+  "btw": "VAT",
+  "eigen_woning": "Owner-occupied home"
+  "Het bedrag dat wij verrekenen ziet u aan het einde van de aangifte bij de berekening van de inkomstenbelasting.": "You’ll see the amount we’ve offset (or credited) at the end of your tax return, as part of the income tax calculation.",
+  "Het is niet verplicht het fictief rendement in te vullen.": "You’re not required to enter the deemed (or notional) return — it’s optional.",
+  "(Bedrijfs)gebouwen die ter beschikking zijn gesteld en waarop wordt afgeschreven (met bodemwaarde)": "(Business) buildings made available to a business and being depreciated (subject to a residual value not below the WOZ value)"
+  "(Bedrijfs)gebouwen en terreinen": "(Business) buildings and land"
+  "(Bedrijfs)gebouwen in eigen gebruik waarop wordt afgeschreven (met bodemwaarde)": "(Business) buildings used personally and being depreciated (subject to a residual value not below the WOZ value)"
+  "(Bedrijfs)gebouwen waarop niet wordt afgeschreven": "(Business) buildings that are not being depreciated"
+  "Vul hier dus niet de willekeurige afschrijvingen van derden in.": "Don’t enter random or accelerated depreciation amounts from third parties here."
+  "Zie Uniform pensioenoverzicht(en) onder Jaarruimte.": "See your Uniform Pension Statement (“Uniform Pensioenoverzicht”) under the section on Annual Pension Allowance (“jaarruimte”)."
+  "Zie uw Uniform pensioenoverzicht(en) onder Jaarruimte.": "See your Uniform Pension Statement (“Uniform Pensioenoverzicht”) under the section on Annual Pension Allowance (“jaarruimte”)."
+ "U voldoet niet aan de voorwaarde voor kwalificerende buitenlandse belastingplicht.": "You don’t meet the conditions for qualifying as a non-resident taxpayer in the Netherlands." 
+  "U hoeft ons geen inkomensverklaring te sturen.": "You don’t need to send us an income statement."
+  "Hebt u na 28 oktober 2012, maar voor 1 januari 2018 een woning (hoofdverblijf) verkocht?": "Did you sell a property that was your main home (owner-occupied home) after 28 October 2012, but before 1 January 2018?"
+  "Hebt u na 31 december 1991 het verzekerd kapitaal of de premie verhoogd?": "Did you increase the insured amount or premium after 31 December 1991?"
+  "Hebt u na 31 december 1991 nog premie betaald?": "Did you continue paying premiums after 31 December 1991?"
+  "Hebt u na deze verkoop een restschuld?": "Do you still have a remaining mortgage debt after selling the property?"
+  "Hebt u niet-gerealiseerde zelfstandigenaftrek uit vorige jaren?": "Do you have unused self-employed deductions from previous years?"
+  "Hebt u nog andere aftrekbare kosten?": "Do you have any other deductible expenses?"
+  "Hebt u nog een aanmerkelijk belang fictief vervreemd?": "Has there been a situation where, under Dutch tax rules, it's considered that you disposed of a substantial shareholding, even though you didn’t actually sell the shares?"
+  "Hebt u nog een aanmerkelijk belang?": "Do you currently hold a substantial shareholding (at least 5% of the shares in a company)?"
+
+  "Hebt u nog een andere echtgenoot of huisgenoot?": ""
+  "Hebt u nog een andere huisgenoot?": ""
+
+}
 &nbsp;de buitenlandse bronbelasting verrekenen volgens de afzonderlijke methode, in plaats van de gezamenlijke methode?
-&nbsp;invult, kunt u dit aan het einde van dit formulier vergelijken met het werkelijk rendement. Het is niet&nbsp;verplicht het fictief rendement in te vullen.
+&nbsp;invult, kunt u dit aan het einde van dit formulier vergelijken met het werkelijk rendement.
 &nbsp;nog een verrekenbare bronbelasting uit een ander land?
 &nbsp;recht op verrekening van buitenlandse bronbelasting over bijvoorbeeld dividend of rente?
 &nbsp;{pgaangnaam} en&nbsp;{pgpartnaam} samen
 ' aangegeven dat u in dit boekjaar 1 of meer&nbsp; bestel- of personenauto's van de onderneming ook priv&eacute; hebt gebruikt.<br /><br />Klik op 'Onttrekking priv&eacute;gebruik auto van de onderneming' en beantwoord de vragen.
 ').<br>Modify your application's host HTML page doctype, or update your custom
 'document.compatMode' configuration property settings.
-(<ul class="bullet-list")|(<span class="nowrap")|(<span class="sr-only")|(<span lang="\\w+")|(<span aria-hidden="true" class="icon blue ease--right pr-1")|(<[b-zB-Z]+\\w*)[^>]*(>)
-(Bedrijfs)gebouwen die ter beschikking zijn gesteld en waarop wordt afgeschreven (met bodemwaarde)
-(Bedrijfs)gebouwen en terreinen
-(Bedrijfs)gebouwen in eigen gebruik waarop wordt afgeschreven (met bodemwaarde)
-(Bedrijfs)gebouwen waarop niet wordt afgeschreven
 (Deel van) het verkoopbedrag dat&nbsp;<span class="nowrap">
 (Niet-gebruikte) jaarruimte in
 ) -- check the network connection
@@ -19,9 +44,6 @@ Het bedrag dat wij verrekenen ziet u aan het einde van de aangifte bij de bereke
 ), kunt u volgend jaar aftrekken.
 , kunt u het bedrag vinden in uw online aangifte over
 , zoals vermeld in uw aanslag (of aangifte) over&nbsp;
-. Vul hier dus niet de willekeurige afschrijvingen van derden in.
-. Zie Uniform pensioenoverzicht(en) onder Jaarruimte.
-. Zie uw Uniform pensioenoverzicht(en) onder Jaarruimte.
 .&nbsp;U vindt deze in Mijn Belastingdienst. Als u het fictief rendement over
 1e schijf: <span class="nonowrap">24,50%<\/span> van <span class="nonowrap">
 1e schijf: <span class="nonowrap">8,17%<\/span> van <span class="nonowrap">
@@ -34,8 +56,9 @@ Het bedrag dat wij verrekenen ziet u aan het einde van de aangifte bij de bereke
 2e schijf: <span class="nowrap">36,97%<\/span> van <span class="nowrap">
 3e schijf: <span class="nonowrap">49,50%<\/span> van <span class="nonowrap">
 3e schijf: <span class="nowrap">49,50%<\/span> van <span class="nowrap">
-<B>U voldoet niet aan de voorwaarde voor kwalificerende buitenlandse belastingplicht. U hoeft ons geen inkomensverklaring te sturen.<br /><br />Ga terug naar het scherm &#39;Persoonlijke gegevens van <span class="nowrap">
-<B>U voldoet niet aan de voorwaarden voor kwalificerende buitenlandse belastingplicht. U hoeft ons geen inkomensverklaring te sturen. U kunt geen fiscale partners zijn en daarom niet samen aangifte doen.<br /><br />Ga terug naar het scherm &#39;Persoonlijke gegevens van <span class="nowrap">
+Ga terug naar het scherm &#39;Persoonlijke gegevens van <span class="nowrap">
+U kunt geen fiscale partners zijn en daarom niet samen aangifte doen.
+<br /><br />Ga terug naar het scherm &#39;Persoonlijke gegevens van <span class="nowrap">
 <\/span>  met de uitkering of opname de eigenwoningschuld geheel of gedeeltelijk af?
 <\/span>  met de uitkering of opname de eigenwoningschuld geheel of gedeeltelijk afgelost?
 <\/span> % van <span class="nowrap">
@@ -2955,16 +2978,6 @@ Hebt u na 15 oktober 1990 de premie verhoogd?
 Hebt u na 2000 en voor <span class="nonowrap">2025<\/span> al gebruikgemaakt van een vrijstelling voor een kapitaal&shy;verzekering?
 Hebt u na 2000 en voor <span class="nowrap">2024<\/span> al gebruikgemaakt van een vrijstelling voor een kapitaal&shy;verzekering?
 Hebt u na 2000 en voor <span class="nowrap">2024<\/span> al gebruikgemaakt van een vrijstelling voor een kapitaalverzekering?
-Hebt u na 28 oktober 2012, maar voor 1 januari 2018 een woning (hoofdverblijf) verkocht?
-Hebt u na 31 december 1991 het verzekerd kapitaal of de premie verhoogd?
-Hebt u na 31 december 1991 nog premie betaald?
-Hebt u na deze verkoop een restschuld?
-Hebt u niet-gerealiseerde zelfstandigenaftrek uit vorige jaren?
-Hebt u nog andere aftrekbare kosten?
-Hebt u nog een aanmerkelijk belang fictief vervreemd?
-Hebt u nog een aanmerkelijk belang?
-Hebt u nog een andere echtgenoot of huisgenoot?
-Hebt u nog een andere huisgenoot?
 Hebt u nog een onroerende zaak, zoals een leegstaande woning, woning in aanbouw, vakantiewoning, een verhuurd pand of een terrein?
 Hebt u nog een polis of spaarrekening voor een lijfrente?
 Hebt u nog een uit-&nbsp;of thuiswonend kind dat is geboren na <span class="nowrap">2006<\/span>?
