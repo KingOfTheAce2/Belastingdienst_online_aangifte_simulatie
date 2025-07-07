@@ -24,22 +24,29 @@
   "Hebt u nog andere aftrekbare kosten?": "Do you have any other deductible expenses?"
   "Hebt u nog een aanmerkelijk belang fictief vervreemd?": "Has there been a situation where, under Dutch tax rules, it's considered that you disposed of a substantial shareholding, even though you didn’t actually sell the shares?"
   "Hebt u nog een aanmerkelijk belang?": "Do you currently hold a substantial shareholding (at least 5% of the shares in a company)?"
-
-  "Hebt u nog een andere echtgenoot of huisgenoot?": ""
-  "Hebt u nog een andere huisgenoot?": ""
+  "Hebt u nog een andere echtgenoot of huisgenoot?": "Do you have another spouse or someone else living at your address (a housemate)?"
+  "Hebt u nog een andere huisgenoot?": "Do you have another person living at your address (a housemate)?"
+  "Staat deze woning te koop in de periode dat hij leegstaat?: "Is this property listed for sale during the period it’s unoccupied?"
+  "(Niet-gebruikte) jaarruimte in": "Do you have any unused annual pension allowance from"
+  "Is deze vergoeding alleen voor het openbaar vervoer?": "Is this reimbursement exclusively for public transport?"
+  "Is deze uitkering een overheidsbijdrage voor de eigen woning?": "Is this payment a government subsidy related to your owner-occupied home?"
+  "Is deze uitkering een DRV-uitkering voor dwangarbeiders tijdens de Tweede Wereldoorlog?": "Is this payment a compensation from the German pension authority (DRV) for forced labour during the Second World War?"
+  "Is deze uitkering een ontslagvergoeding (transitievergoeding)?": "Is this payment a severance payment (transition allowance) following the end of employment?"
+  "Is deze onderneming in dit boekjaar gestart?": "Was this business started in the current financial year?"
+  "Is deze lijfrente volledig belast in Nederland volgens het belastingverdrag dat Nederland heeft gesloten met uw woonland?": "Is this annuity fully taxable in the Netherlands under the tax treaty between the Netherlands and your country of residence?"
+  "Hebt u deze woning verkocht na 28 oktober 2012, maar voor 1 januari 2018?": "Did you sell this property after 28 October 2012 but before 1 January 2018?"
+  "Hebt u dit depot afgesloten voor uw (toekomstige) hoofdverblijf?": "Did you set up this savings deposit for your current or future owner-occupied home?"
 
 }
+
+
 &nbsp;de buitenlandse bronbelasting verrekenen volgens de afzonderlijke methode, in plaats van de gezamenlijke methode?
 &nbsp;invult, kunt u dit aan het einde van dit formulier vergelijken met het werkelijk rendement.
 &nbsp;nog een verrekenbare bronbelasting uit een ander land?
 &nbsp;recht op verrekening van buitenlandse bronbelasting over bijvoorbeeld dividend of rente?
-&nbsp;{pgaangnaam} en&nbsp;{pgpartnaam} samen
-' aangegeven dat u in dit boekjaar 1 of meer&nbsp; bestel- of personenauto's van de onderneming ook priv&eacute; hebt gebruikt.<br /><br />Klik op 'Onttrekking priv&eacute;gebruik auto van de onderneming' en beantwoord de vragen.
+' aangegeven dat u in dit boekjaar 1 of meer bestel- of personenauto's van de onderneming ook priv&eacute; hebt gebruikt.
+<br /><br />Klik op 'Onttrekking priv&eacute;gebruik auto van de onderneming' en beantwoord de vragen.
 ').<br>Modify your application's host HTML page doctype, or update your custom
-'document.compatMode' configuration property settings.
-(Deel van) het verkoopbedrag dat&nbsp;<span class="nowrap">
-(Niet-gebruikte) jaarruimte in
-) -- check the network connection
 ), kunt u misschien in een volgend jaar verrekenen.
 ), kunt u volgend jaar aftrekken.
 , kunt u het bedrag vinden in uw online aangifte over
@@ -2898,8 +2905,6 @@ Hebt u deze lijfrenteaanspraken ondergebracht bij een verzekeraar buiten Nederla
 Hebt u deze onroerende zaak <strong>heel<\/strong> <span class="nowrap">2024<\/span>&nbsp;beschikbaar gesteld aan bijvoorbeeld het bedrijf van uw partner of uw eigen&nbsp;bv?
 Hebt u deze onroerende zaak in <span class="nowrap">2024<\/span> beschikbaar gesteld aan bijvoorbeeld het bedrijf van uw partner of uw eigen bv?
 Hebt u deze onroerende zaak op <span class="nowrap">
-Hebt u deze woning verkocht na 28 oktober 2012, maar voor 1 januari 2018?
-Hebt u dit depot afgesloten voor uw (toekomstige) hoofdverblijf?
 Hebt u dit pensioen in <span class="nowrap">2024<\/span> afgekocht?
 Hebt u een &#39;Verklaring uitsluitend zakelijk gebruik bestelauto&#39;?
 Hebt u een Speur- en Ontwikkelingswerkverklaring (S&amp;O-verklaring) van RVO.nl?
@@ -3434,19 +3439,13 @@ Is deze buitenlandse rekening een bankrekening?
 Is deze kapitaal&shy;verzekering gekoppeld aan een hypotheek op uw eigen woning (spaarhypotheek)?
 Is deze kapitaal&shy;verzekering op 1 januari <span class="nonowrap">2025<\/span> een kapitaal&shy;verzekering eigen woning?
 Is deze lijfrente volledig belast in Nederland volgens het belastingverdrag dat Nederland heeft gesloten met het woonland van <span class="nowrap">
-Is deze lijfrente volledig belast in Nederland volgens het belastingverdrag dat Nederland heeft gesloten met uw woonland?
 Is deze lijfrente&nbsp;belast in Nederland volgens het belastingverdrag dat Nederland heeft gesloten met <span class="nowrap">
-Is deze onderneming in dit boekjaar gestart?
 Is deze onroerende zaak in <span class="nowrap">2025<\/span> het hoofdverblijf van u of <span class="nowrap">
 Is deze rekening alleen van <span class="nonowrap">
 Is deze schuld alleen van u en <span class="nowrap">
-Is deze uitkering een DRV-uitkering voor dwangarbeiders tijdens de Tweede Wereldoorlog?
-Is deze uitkering een ontslagvergoeding (transitievergoeding)?
-Is deze uitkering een&nbsp;overheidsbijdrage voor de eigen woning?
 Is deze uitkering volledig belast in Nederland volgens het belastingverdrag dat Nederland heeft gesloten met het woonland van <span class="nowrap">
 Is deze uitkering volledig belast in Nederland volgens het belastingverdrag dat Nederland heeft gesloten met uw woonland?
 Is deze uitkering&nbsp;belast in Nederland volgens het belastingverdrag dat Nederland heeft gesloten met <span class="nowrap">
-Is deze vergoeding alleen voor het openbaar vervoer?
 Is deze woning bedoeld als het toekomstige hoofdverblijf van <span class="nowrap">
 Is deze woning het vroegere hoofdverblijf van <span class="nowrap">
 Is deze woning het vroegere hoofdverblijf van u of <span class="nowrap">
@@ -4242,7 +4241,6 @@ Specificeer het kapitaal- en winstaandeel in de vennootschap onder firma, maatsc
 Staat deze woning leeg omdat <span class="nowrap">
 Staat deze woning leeg omdat u in een verzorgings- of verpleeghuis bent opgenomen?
 Staat deze woning leeg omdat u of <span class="nowrap">
-Staat deze woning te koop in de periode dat hij leegstaat?
 Staat deze woning van <span class="nowrap">
 Staat een minderjarig kind van 1 van u ingeschreven op hetzelfde adres?
 Staat u <strong>een deel van<\/strong> <span class="nowrap">2025<\/span> ingeschreven op hetzelfde adres als <span class="nowrap">
@@ -5754,7 +5752,6 @@ nog een vrijgesteld winstbestanddeel in een ander land?
 nog inkomsten uit het beschikbaar stellen van bezittingen in een ander land?
 nog partneralimentatie van iemand anders?
 onroerende zaak buiten Nederland
-openApplicatie in Voorziening Schermen
 overig (benzine/diesel/LPG/hybride)
 pensioenen en andere uitkeringen
 pensioenen en andere uitkeringen aangever
@@ -5769,10 +5766,5 @@ span aria-hidden="true" class="icon blue ease--right pr-1"
 tekens te veel gebruikt. Maak uw tekst korter.
 toen niet helemaal kon verrekenen omdat het inkomen te laag was? Dan mag u of
 tot het bewoonde deel van dit pand
-user-defined.FileUpload_FileSize
-user-defined.FileUpload_FileTypeMismatch
-user-defined.FileUpload_FileTypeNotSupport
-user-defined.FileUpload_VirusDetected
-validation top-validation-message
 voor buitenlandse belastingplichtigen
 waarvan eerder gebruik is gemaakt
