@@ -10,19 +10,19 @@ The repository `KingOfTheAce2/Belastingdienst_online_aangifte_simulatie` contain
 
 | File | Size | Purpose |
 |------|------|---------|
-| `ca-24.js` | 3.2MB | Income tax return for foreign taxpayers (2024) |
-| `ib_owr-17.js` | 882KB | Actual investment returns declaration (2017) |
-| `ib_owr-18.js` | 882KB | Actual investment returns declaration (2018) |
-| `ib_owr-19.js` | 882KB | Actual investment returns declaration (2019) |
-| `ib_owr-20.js` | 882KB | Actual investment returns declaration (2020) |
-| `ib_owr-21.js` | 882KB | Actual investment returns declaration (2021) |
-| `ib_owr-22.js` | 882KB | Actual investment returns declaration (2022) |
-| `ib_owr-23.js` | 882KB | Actual investment returns declaration (2023) |
-| `ib_owr-24.js` | 882KB | Actual investment returns declaration (2024) |
-| `ma-24.js` | 3.5MB | Migration tax return (2024) |
-| `pa-24.js` | 3.5MB | Income tax return for resident taxpayers (2024) |
-| `va-25-btl.js` | 2.5MB | Provisional assessment for non-resident taxpayers (2025) |
-| `va-25-nld.js` | 2.5MB | Provisional assessment for resident taxpayers (2025) |
+| `cross-border_aangifte-24.js` | 3.2MB | Income tax return for foreign taxpayers (2024) |
+| `ib_opgaaf_werkelijk_rendement-17.js` | 882KB | Actual investment returns declaration (2017) |
+| `ib_opgaaf_werkelijk_rendement-18.js` | 882KB | Actual investment returns declaration (2018) |
+| `ib_opgaaf_werkelijk_rendement-19.js` | 882KB | Actual investment returns declaration (2019) |
+| `ib_opgaaf_werkelijk_rendement-20.js` | 882KB | Actual investment returns declaration (2020) |
+| `ib_opgaaf_werkelijk_rendement-21.js` | 882KB | Actual investment returns declaration (2021) |
+| `ib_opgaaf_werkelijk_rendement-22.js` | 882KB | Actual investment returns declaration (2022) |
+| `ib_opgaaf_werkelijk_rendement-23.js` | 882KB | Actual investment returns declaration (2023) |
+| `ib_opgaaf_werkelijk_rendement-24.js` | 882KB | Actual investment returns declaration (2024) |
+| `migratie_aangifte-24.js` | 3.5MB | Migration tax return (2024) |
+| `Particuliere_aangifte-24.js` | 3.5MB | Income tax return for resident taxpayers (2024) |
+| `voorlopige_aanslag-25-buitenlands_belastingplichtige.js` | 2.5MB | Provisional assessment for non-resident taxpayers (2025) |
+| `voorlopige_aanslag-25-binnenlands_belastingplichtige.js` | 2.5MB | Provisional assessment for resident taxpayers (2025) |
 
 ### File Naming Convention Analysis
 
