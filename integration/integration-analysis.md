@@ -14,48 +14,48 @@ This document provides a comprehensive analysis of the Dutch tax forms repositor
 
 ### Core Tax Form Modules
 
-1. **ca-24.js** (3.19 MB)
+1. **cross-border_aangifte-24.js** (3.19 MB)
    - Income tax return for **non-resident taxpayers** (2024)
    - Compiled GWT JavaScript
    - Contains form validation and calculation logic
 
-2. **ib_owr-17.js** (882 KB)
+2. **ib_opgaaf_werkelijk_rendement-17.js** (882 KB)
    - Actual investment returns declaration (2017)
 
-3. **ib_owr-18.js** (882 KB)
+3. **ib_opgaaf_werkelijk_rendement-18.js** (882 KB)
    - Actual investment returns declaration (2018)
 
-4. **ib_owr-19.js** (882 KB)
+4. **ib_opgaaf_werkelijk_rendement-19.js** (882 KB)
    - Actual investment returns declaration (2019)
 
-5. **ib_owr-20.js** (882 KB)
+5. **ib_opgaaf_werkelijk_rendement-20.js** (882 KB)
    - Actual investment returns declaration (2020)
 
-6. **ib_owr-21.js** (882 KB)
+6. **ib_opgaaf_werkelijk_rendement-21.js** (882 KB)
    - Actual investment returns declaration (2021)
 
-7. **ib_owr-22.js** (882 KB)
+7. **ib_opgaaf_werkelijk_rendement-22.js** (882 KB)
    - Actual investment returns declaration (2022)
 
-8. **ib_owr-23.js** (882 KB)
+8. **ib_opgaaf_werkelijk_rendement-23.js** (882 KB)
    - Actual investment returns declaration (2023)
 
-9. **ib_owr-24.js** (882 KB)
+9. **ib_opgaaf_werkelijk_rendement-24.js** (882 KB)
    - Actual investment returns declaration (2024)
 
-10. **ma-24.js** (3.49 MB)
+10. **migratie_aangifte-24.js** (3.49 MB)
     - **Migration tax return** for individuals moving into or out of the Netherlands (2024)
     - Includes complex logic to handle partial-year residency
 
-11. **pa-24.js** (3.46 MB)
+11. **Particuliere_aangifte-24.js** (3.46 MB)
     - Income tax return for **resident taxpayers** (2024)
     - Covers full-year Dutch income and asset declarations
 
-12. **va-25-btl.js** (2.49 MB)
+12. **voorlopige_aanslag-25-buitenlands_belastingplichtige.js** (2.49 MB)
     - **Provisional assessment** for **non-resident taxpayers** (2025)
     - Pre-filled estimates based on past income/assets
 
-13. **va-25-nld.js** (2.49 MB)
+13. **voorlopige_aanslag-25-binnenlands_belastingplichtige.js** (2.49 MB)
     - **Provisional assessment** for **resident taxpayers** (2025)
     - Tailored to domestic income and deductions
 

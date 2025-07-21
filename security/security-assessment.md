@@ -7,7 +7,7 @@ This security assessment analyzes the Belastingdienst (Dutch Tax Service) online
 ## Repository Overview
 
 - **Repository**: KingOfTheAce2/Belastingdienst_online_aangifte_simulatie
-- **Files Analyzed**: 13 JavaScript files (ca-24.js, ib_owr-17.js, ib_owr-18.js, ib_owr-19.js, ib_owr-20.js, ib_owr-21.js, ib_owr-22.js, ib_owr-23.js, ib_owr-24.js, ma-24.js, pa-24.js, va-25-btl.js, va-25-nld.js)
+- **Files Analyzed**: 13 JavaScript files (cross-border_aangifte-24.js, ib_opgaaf_werkelijk_rendement-17.js, ib_opgaaf_werkelijk_rendement-18.js, ib_opgaaf_werkelijk_rendement-19.js, ib_opgaaf_werkelijk_rendement-20.js, ib_opgaaf_werkelijk_rendement-21.js, ib_opgaaf_werkelijk_rendement-22.js, ib_opgaaf_werkelijk_rendement-23.js, ib_opgaaf_werkelijk_rendement-24.js, migratie_aangifte-24.js, Particuliere_aangifte-24.js, voorlopige_aanslag-25-buitenlands_belastingplichtige.js, voorlopige_aanslag-25-binnenlands_belastingplichtige.js)
 - **Assessment Date**: July 4, 2025
 - **Assessment Type**: Remote code analysis
 
@@ -26,7 +26,7 @@ This security assessment analyzes the Belastingdienst (Dutch Tax Service) online
 - **Risk Level**: HIGH
 - **Description**: Critical business logic and calculations appear to be handled client-side
 - **Impact**: Financial calculations can be manipulated, leading to tax fraud or system abuse
-- **Affected Files**: ca-24.js, va-25-nld.js, va-25-btl.js
+- **Affected Files**: cross-border_aangifte-24.js, voorlopige_aanslag-25-binnenlands_belastingplichtige.js, voorlopige_aanslag-25-buitenlands_belastingplichtige.js
 - **Recommendation**: Move all financial calculations to secure server-side services
 
 #### 3. Data Protection Non-Compliance
@@ -42,7 +42,7 @@ This security assessment analyzes the Belastingdienst (Dutch Tax Service) online
 - **Risk Level**: MEDIUM
 - **Description**: No explicit protections for Dutch social security numbers
 - **Impact**: Privacy violations and potential identity theft
-- **Affected Files**: Suspected in ca-24.js and ib_owr-24.js
+- **Affected Files**: Suspected in cross-border_aangifte-24.js and ib_opgaaf_werkelijk_rendement-24.js
 - **Recommendation**: Implement BSN-specific validation and encryption
 
 #### 5. Obfuscated Code Architecture

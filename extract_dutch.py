@@ -1,8 +1,8 @@
 import re
 
 # Path to the large JS file
-target_file = 'ib_owr-24.js'
-output_file = 'long_user_facing_strings_owr_24.txt'
+target_file = 'ib_opgaaf_werkelijk_rendement-24.js'
+output_file = 'long_user_facing_strings_opgaaf_werkelijk_rendement_24.txt'
 
 # Minimum length for a string to be considered 'long'
 MIN_LENGTH = 30
