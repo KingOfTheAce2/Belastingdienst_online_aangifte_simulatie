@@ -45,14 +45,16 @@
   "Was deze woning uw vroegere hoofdverblijf?": "Was this property previously your main (owner-occupied) home?"
   "Was die extra storting hoger dan 10 keer de laagste jaarpremie?": "Was that additional contribution more than 10 times the lowest annual premium?"
   "Was dit een periodieke gift die schriftelijk is vastgelegd?": "Was this a recurring donation that was formally recorded in writing?"
+  "U hebt op het scherm Persoonlijke gegevens aangegeven in de buitenlandse periode inkomsten te hebben waarover u in Nederland belasting moest betalen. U heeft deze echter niet ingevuld. Pas uw gegevens aan.": "You indicated under "Personal details" that you had income during your time abroad which was subject to Dutch income tax. However, you have not provided any details of this income. Please update your information."
+  "U hebt recht op de algemene compensatieregeling.": "You are entitled to the general compensation scheme."
+  "Was de huurprijs marktconform?": "Was the rent charged in line with market rates?"
+  "Was de investering in dit boekjaar?": "Was the investment made in this financial year?"
 }
 
 
+  "": ""
 
-U hebt op het scherm Persoonlijke gegevens aangegeven in de buitenlandse periode inkomsten te hebben waarover u in Nederland belasting moest betalen. U heeft deze echter niet ingevuld. Pas uw gegevens aan.
-U hebt recht op de algemene compensatieregeling.
-Was de huurprijs marktconform?
-Was de investering in dit boekjaar?
+
 Was de investering in het Caribische deel van Nederland?
 Was de vergoeding voor&nbsp;woon-werkverkeer alleen voor het openbaar vervoer?
 Was dit loon voor werk als artiest of beroepssporter?
