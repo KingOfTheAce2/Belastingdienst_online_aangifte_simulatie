@@ -1,10 +1,4 @@
 {
-  "bsn": "BSN → Citizen Service Number",
-  "voorlopige aanslag": "Provisional Tax Assessment",
-  "loonheffing": "Payroll Withholding Tax",
-  "inkomstenbelasting": "Personal Income Tax",
-  "btw": "VAT",
-  "eigen_woning": "Owner-occupied home"
   "Het bedrag dat wij verrekenen ziet u aan het einde van de aangifte bij de berekening van de inkomstenbelasting.": "You’ll see the amount we’ve offset (or credited) at the end of your tax return, as part of the income tax calculation.",
   "Het is niet verplicht het fictief rendement in te vullen.": "You’re not required to enter the deemed (or notional) return — it’s optional.",
   "(Bedrijfs)gebouwen die ter beschikking zijn gesteld en waarop wordt afgeschreven (met bodemwaarde)": "(Business) buildings made available to a business and being depreciated (subject to a residual value not below the WOZ value)"
@@ -41,7 +35,7 @@
   "3e schijf:": "3rd tax bracket"
   "Was dit een Old Age Security-lijfrente": "Was this an Old Age Security annuity?"
   "Was dit een Old Age Security-pensioen?": "Was this an Old Age Security pension?"
-  "U hebt de postcode niet juist ingevuld. Vul de postcode in. Bijvoorbeeld: '1234AB'.": "The postcode you entered is invalid. Please enter a valid postcode in the correct format, such as: '1234AB'."
+  "U hebt de postcode niet juist ingevuld. Vul de postcode in. Bijvoorbeeld: ‘1234AB'.": "The postcode you entered is invalid. Please enter a valid postcode in the correct format, such as: '1234AB'."
   "Was deze woning uw vroegere hoofdverblijf?": "Was this property previously your main (owner-occupied) home?"
   "Was die extra storting hoger dan 10 keer de laagste jaarpremie?": "Was that additional contribution more than 10 times the lowest annual premium?"
   "Was dit een periodieke gift die schriftelijk is vastgelegd?": "Was this a recurring donation that was formally recorded in writing?"
@@ -49,31 +43,31 @@
   "U hebt recht op de algemene compensatieregeling.": "You are entitled to the general compensation scheme."
   "Was de huurprijs marktconform?": "Was the rent charged in line with market rates?"
   "Was de investering in dit boekjaar?": "Was the investment made in this financial year?"
+  "Was de investering in het Caribische deel van Nederland?": "Was the investment located in the Caribbean part of the Netherlands?"
+  "Was de vergoeding voor woon-werkverkeer alleen voor het openbaar vervoer?": "Was the commuting allowance only for public transport?"
+  "Was dit loon voor werk als artiest of beroepssporter?": "Was this income for work as an artist or professional athlete?"
+  "Was dit loon voor werk als bestuurder of commissaris?": "Was this income for work as a director or supervisory board member?"
+  "U hebt de aangifte nog niet helemaal ingevuld. Uw gegevens worden opgeslagen op Mijn Belastingdienst. Wilt u afsluiten?": "You haven’t completed your tax return yet. Your information will be saved in Mijn Belastingdienst. Do you want to close?"
+  "U hebt de aangifte nog niet verstuurd. Uw gegevens worden opgeslagen op Mijn Belastingdienst. Wilt u afsluiten?": "You haven’t submitted your tax return yet. Your information will be saved in Mijn Belastingdienst. Do you want to close?"
+  "U hebt de postcode niet juist ingevuld. Vul de postcode in. Bijvoorbeeld: ‘1234AB’.": "The postcode you entered is not valid. Please enter a postcode, for example: ‘1234AB’."
+  "U hebt de rendementsgrondslag nog niet verdeeld.": "You haven’t yet allocated the taxable base for investment income."
+  "U hebt deze lening gebruikt voor het hoofdverblijf én voor de restschuld. Vul beide delen van deze lening in als aparte schulden.": "You used this mortgage loan for both your main residence and a residual debt. Please enter both parts of this mortgage loan as separate liabilities."
+  "U hebt een bedrijfsmiddel gekocht van naaste verwanten. Wilt u in aanmerking komen voor de investeringsaftrek over dit gekochte bedrijfsmiddel?": "You purchased a business asset from close relatives. Do you want to claim investment allowance for this asset (small-scale investment credit)?"
+  "U hebt een bedrijfsmiddel uit nalatenschap verkregen. Wilt u in aanmerking komen voor de investeringsaftrek over dit bedrijfsmiddel?": "You acquired a business asset through inheritance. Do you want to claim investment allowance for this asset (small-scale investment credit)?"
+  "Klik op ‘Onttrekking privé-gebruik auto van de onderneming’ en beantwoord de vragen.": "Click on ‘Private use of company car’ and answer the questions."
+  "U vindt deze in Mijn Belastingdienst. ": "You’ll find this in Mijn Belastingdienst"
+  "U kunt geen fiscale partners zijn en daarom niet samen aangifte doen.": "You cannot be tax partners, so you cannot file a joint tax return."
+  "Vul deze inkomsten dan niet hier in, maar op het scherm ‘Pensioen en andere uitkeringen’.": "Do not enter this income here. Instead, enter it on the ‘Pension and other benefits’ screen."
+  "Kies daar bij ‘Soort inkomsten’: ‘Ziektewetuitkering of WAZO’.": "Under ‘Type of income’, select: ‘Sickness Benefit or WAZO (Wet arbeid en zorg)’."
+  "Vul hiervoor het scherm ‘Uitgaven partneralimentatie’ in.": "Use the ‘Spousal maintenance payments’ screen to enter this information."
+  "": ""
+  "": ""
+
 }
 
 
   "": ""
 
-
-Was de investering in het Caribische deel van Nederland?
-Was de vergoeding voor&nbsp;woon-werkverkeer alleen voor het openbaar vervoer?
-Was dit loon voor werk als artiest of beroepssporter?
-Was dit loon voor werk als bestuurder of commissaris?
-U hebt de aangifte nog niet helemaal ingevuld. Uw gegevens worden opgeslagen op Mijn Belastingdienst. Wilt u afsluiten?
-U hebt de aangifte nog niet verstuurd. Uw gegevens worden opgeslagen op Mijn Belastingdienst. Wilt u afsluiten?
-U hebt de postcode niet juist ingevuld. Vul de postcode in. Bijvoorbeeld: '1234AB'.
-U hebt de rendementsgrondslag&nbsp;nog niet verdeeld.
-U hebt deze gegevens nog niet ingevuld
-U hebt deze lening gebruikt voor het hoofdverblijf &eacute;n voor de restschuld. Vul beide delen van deze lening in als aparte schulden.
-U hebt een bedrijfsmiddel gekocht van naaste verwanten. Wilt u in aanmerking komen voor de investeringsaftrek over dit gekochte bedrijfsmiddel?
-U hebt een bedrijfsmiddel uit nalatenschap verkregen. Wilt u in aanmerking komen voor de investeringsaftrek over dit bedrijfsmiddel?
-Klik op 'Onttrekking privé-gebruik auto van de onderneming' en beantwoord de vragen.
-U vindt deze in Mijn Belastingdienst. 
-U kunt geen fiscale partners zijn en daarom niet samen aangifte doen.
-Vul deze inkomsten dan niet hier in, maar op het scherm &#39;Pensioen en andere uitkeringen&#39;.
-Kies daar bij &#39;Soort inkomsten&#39;: &#39;Ziektewetuitkering of WAZO&#39;.
-(bijvoorbeeld tijdens vakanties)?
-Vul hiervoor het scherm &#39;Uitgaven partneralimentatie&#39; in.
 Kies &#39;OK&#39; om verder te gaan met de aangifte of &#39;Annuleren&#39; om op dit scherm te blijven.
 Klik op een regel om de details te bekijken.
 U hebt samen een notarieel samenlevingscontract.
