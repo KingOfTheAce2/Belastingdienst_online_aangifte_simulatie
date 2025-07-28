@@ -21,7 +21,6 @@
   "Hebt u nog een andere echtgenoot of huisgenoot?": "Do you have another spouse or someone else living at your address (a housemate)?"
   "Hebt u nog een andere huisgenoot?": "Do you have another person living at your address (a housemate)?"
   "Staat deze woning te koop in de periode dat hij leegstaat?: "Is this property listed for sale during the period it’s unoccupied?"
-  "(Niet-gebruikte) jaarruimte in": "Do you have any unused annual pension allowance from"
   "Is deze vergoeding alleen voor het openbaar vervoer?": "Is this reimbursement exclusively for public transport?"
   "Is deze uitkering een overheidsbijdrage voor de eigen woning?": "Is this payment a government subsidy related to your owner-occupied home?"
   "Is deze uitkering een DRV-uitkering voor dwangarbeiders tijdens de Tweede Wereldoorlog?": "Is this payment a compensation from the German pension authority (DRV) for forced labour during the Second World War?"
@@ -60,110 +59,94 @@
   "Vul deze inkomsten dan niet hier in, maar op het scherm ‘Pensioen en andere uitkeringen’.": "Do not enter this income here. Instead, enter it on the ‘Pension and other benefits’ screen."
   "Kies daar bij ‘Soort inkomsten’: ‘Ziektewetuitkering of WAZO’.": "Under ‘Type of income’, select: ‘Sickness Benefit or WAZO (Wet arbeid en zorg)’."
   "Vul hiervoor het scherm ‘Uitgaven partneralimentatie’ in.": "Use the ‘Spousal maintenance payments’ screen to enter this information."
-  "": ""
-  "": ""
+  "Kies ‘OK’ om verder te gaan met de aangifte of ‘Annuleren’ om op dit scherm te blijven.": "Select ‘OK’ to continue with your tax return, or ‘Cancel’ to stay on this screen."
+  "Klik op een regel om de details te bekijken.": "Click on a line to view the details."
+  "U hebt samen een notarieel samenlevingscontract.": "You have a notarised cohabitation agreement with one another."
+  "U hebt samen een kind.": "You are the parents of a child together."
+  "Een van u heeft een kind van de ander erkend.": "One of you has legally recognised the other’s child."
+  "U bent bij een pensioenfonds aangemeld als pensioenpartners.": "You are registered as pension partners with a pension fund."
+  "U bent samen eigenaar van een woning, waarin u beiden woont.": "You jointly own a home (owner-occupied home) that you both live in."
+  "Klik op het vraagteken voor meer informatie.": "Click the question mark for more information."
+  "Vul hier deze gegevens in.": "Enter this information here."
+  "U vult hiervoor het scherm ‘Ontvangen&nbsp;partneralimentatie’ in.": "Use the ‘Received spousal maintenance’ screen to enter this information."
+  "Specificeer deze schulden bij de aanmerkelijke belangen hierboven.": "Specify these debts in the ‘Substantial interest’ section (shareholdings of 5% or more)."
+  "Specificeer het kapitaal- en winstaandeel in de vennootschap onder firma, maatschap of ander samenwerkingsverband.": "Specify your capital share and profit share in the general partnership, professional partnership, or other partnership arrangement."
+  "Met behulp van de bedragen in de laatste kolom kunt u controleren of uw specificatie van het kapitaalaandeel overeenkomt met uw opgave in de balans en of uw specificatie van het winstaandeel overeenkomt met uw opgave in de winst-en-verliesrekening.": "Use the amounts in the last column to check whether your capital share matches the figure reported in the balance sheet, and whether your profit share matches the figure reported in the profit and loss statement."
+  "U mag deze uitgaven aftrekken als u jaarruimte in 2024 hebt, of niet-gebruikte jaarruimte in de jaren 2014 - 2023. Als u nog niet-gebruikte jaarruimte in 2014 hebt, is 2024 het laatste jaar waarin u deze jaarruimte kunt gebruiken. Klik op ‘Uitgebreide fiscale informatie’, links in het scherm, voor meer informatie over (niet-gebruikte) jaarruimte.": "You may deduct these contributions if you have annual pension allowance available in 2024, or unused annual pension allowance from the years 2014 to 2023. If you still have unused annual pension allowance from 2014, 2024 is the last year you can use it. Click ‘Detailed tax information’ on the left side of the screen for more information about (unused) annual pension allowance."
+  "Vink deze dan hier aan. ": "Then tick the box here."
+  "Vink dan ook aan om welke bezitting(en) het gaat.": "Also tick the box for the asset(s) it relates to."
+  "Neem de gegevens over die in uw overzicht(en) staan. U hoeft dus niet alle vragen in te vullen.": "Copy the information from your overview(s). You do not need to answer every question."
+  "Vul hier dus niet de willekeurige afschrijvingen van derden in.": "Do not enter accelerated depreciation claimed by others here."
+  "Vul niet de schulden in voor uw eigen woning.": "Do not enter any debts related to your owner-occuped home."
+  "Zijn de bedragen ongelijk, neem dan het bedrag van het hoogste gezamenlijk fictief rendement over.": "If the amounts are different, use the amount based on the highest joint notional return."
+  "U krijgt ieder apart een aanslag.": "You will each receive a separate assessment."
+  "U krijgt ieder apart een voorlopige aanslag.": "You will each receive a separate provisional assessment."
+  "Het kan zijn dat u deze op een ander moment krijgt dan uw fiscale partner.": "You may receive this at a different time than your tax partner."
+  "U bent geen fiscale partners en kunt niet samen aangifte doen.": "You are not tax partners and cannot file a joint tax return."
+  "Vul beide delen van deze lening in als aparte schulden.": "Enter both parts of this loan as separate liabilities."
+  "U bent wel fiscale partners, maar kunt niet samen aangifte doen.": "You are tax partners, but cannot file a joint tax return."
+  "Meer informatie leest u in 'Wanneer krijgt u heffingskortingen uitbetaald?'.": "For more information, see ‘When can tax credits be paid out?’"
+  "Klik op ‘Uitgebreide help’ links in het scherm.": "Click ‘Additional help’ on the left side of the screen."
+  "Klik op ‘Uitgebreide fiscale informatie’ links in het scherm.": "Click ‘Detailed tax information’ on the left side of the screen."
+  "U bent wel fiscale partners, maar kunt niet samen een voorlopige aanslag aanvragen of wijzigen.": "You are tax partners, but you cannot apply for or change a provisional assessment together."
+  "U bent geen fiscale partners en kunt niet samen een voorlopige aanslag aanvragen of wijzigen.": "You are not tax partners and cannot apply for or change a provisional assessment together."
+  "Het gaat om de ‘Regeling subsidie vaste lasten/tegemoetkoming vaste lasten MKB (TVL MKB)’. U vult dit bedrag ook in op het scherm ‘Vrijgestelde winstbestanddelen’, zodat u per saldo hierover geen belasting betaalt.": "This concerns the ‘Reimbursement Fixed Costs scheme for SMEs ("TVL MKB")’. You must also enter this amount on the ‘Exempt profit components’ screen, so that you do not pay tax on it."
+  "Hebt u een onroerende zaak geërfd, die nog niet verdeeld is onder de erfgenamen? Vul dan hier ook uw deel van die erfenis in.": "Have you inherited real estate that has not yet been divided among the heirs? If so, enter your share of the inheritance here as well."
+  "Hebt u een openbaarvervoerverklaring of reisverklaring?": "Do you have a public transport declaration or travel statement?"
+  "Hebt u een pensioen of andere uitkering?": "Do you receive a pension or other benefit?"
+  "Hebt u een premiedepot voor een lijfrente- of kapitaalverzekering?": "Do you have a premium reserve for an annuity or capital insurance policy?"
+  "U hebt geen recht op meewerkaftrek.": "You are not entitled to the  co-working partner tax relief."
+  "U hebt geen recht op stakingsaftrek.": "You are not entitled to the business discontinuation tax relief."
+  "Hebt u een restschuld voor een woning die u hebt verkocht?": "Do you have a residual debt from a home you sold?"
+  "U hebt geen recht op de aftrek voor speur- en ontwikkelingswerk.": "You are not entitled to the R&D deduction."
+  "U hebt geen recht op startersaftrek bij arbeidsongeschiktheid.": "You are not entitled to the tax relief for new businesses in case of incapacity for work."
+  "Dan is de woning een eigen woning.": "Then the house qualifies as an owner-occupied home.",
+  "Als dat niet het geval is, mag u de woning niet als hoofdverblijf invullen.": "If that is not the case, you may not report the house as your main residence.",
+  "Hebt u een huisgenoot die ook eigenaar is van de woning?": "Do you have a housemate who is also an owner of the property?",
+  "En is het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer?": "And is the joint interest of you and your housemate in the property's value growth 50% or more?",
+  "Dan mag u de woning wel als hoofdverblijf invullen.": "Then you may report the property as your main residence.",
+  "Hebt u geen andere huisgenoot?": "Do you have no other housemate?",
+  "Of is het totale gezamenlijk belang nog steeds minder dan 50%?": "Or is the total joint interest still less than 50%?",
+  "Vul dan bij situatie in: "Woning: bewoond door een ander".": "Then, under 'Situation', select: "Property: occupied by someone else".",
+  "Als dat niet het geval is, mag u de woning niet als leegstaand hoofdverblijf invullen.": "If that is not the case, you may not report the house as a vacant main residence.",
+  "Dan mag u de woning wel als leegstaand hoofdverblijf invullen.": "Then you may report the house as a vacant main residence.",
+  "Als dat niet het geval is, mag u de woning niet als toekomstige hoofdverblijf invullen.": "If that is not the case, you may not report the house as a future main residence.",
+  "Dan mag u de woning wel als toekomstige hoofdverblijf invullen.": "Then you may report the house as a future main residence.",
+  "Als dat niet het geval is, mag u de woning niet als vroegere hoofdverblijf invullen.": "If that is not the case, you may not report the house as a former main residence.",
+  "Dan mag u de woning wel als vroegere hoofdverblijf invullen.": "Then you may report the house as a former main residence.",
+  "Dan was de woning een eigen woning.": "Then the house was an owner-occupied home.",
+  "Als dat niet het geval was, mag u de woning niet als hoofdverblijf invullen.": "If that was not the case, you may not report the property as your main residence.",
+  "Had u een huisgenoot die ook eigenaar was van de woning?": "Did you have a housemate who was also an owner of the property?",
+  "En was het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer?": "And was the joint interest of you and your housemate in the property's value growth 50% or more?",
+  "Dan mag u de woning wel als leegstaand invullen.": "Then you may report the property as vacant.",
+  "Dan mag u de woning wel als toekomstige invullen.": "Then you may report the property as future main residence."
+  "Weet u zeker dat u de gegevens van deze persoon wilt verwijderen?": "Are you sure you want to delete this person's information?",
+  "Weet u zeker dat u de gegevens van dit kind wilt verwijderen?": "Are you sure you want to delete this child's information?",
+  "Weet u zeker dat u deze bankrekening wilt verwijderen?": "Are you sure you want to delete this bank account?",
+  "Weet u zeker dat u deze bijlage wilt verwijderen ?": "Are you sure you want to delete this attachment?",
+  "Weet u zeker dat u deze echtgenoot/huisgenoot wilt verwijderen?": "Are you sure you want to delete this spouse/housemate?",
+  "Weet u zeker dat u deze gegevens wilt verwijderen?": "Are you sure you want to delete this information?",
+  "Weet u zeker dat u deze gift wilt verwijderen?": "Are you sure you want to delete this donation?",
+  "Weet u zeker dat u deze inkomsten wilt verwijderen?": "Are you sure you want to delete this income entry?",
+  "Weet u zeker dat u deze investering wilt verwijderen?": "Are you sure you want to delete this investment?",
+  "Weet u zeker dat u deze onderneming wilt verwijderen?": "Are you sure you want to delete this business?",
+  "Weet u zeker dat u deze onroerende zaak wilt verwijderen?": "Are you sure you want to delete this real estate asset?",
+  "Weet u zeker dat u deze partneralimentatie wilt verwijderen?": "Are you sure you want to delete this spousal maintenance entry?",
+  "Weet u zeker dat u deze schuld wilt verwijderen?": "Are you sure you want to delete this debt?",
+  "Weet u zeker dat u deze uitgaven wilt verwijderen?": "Are you sure you want to delete these expenses?",
+  "Weet u zeker dat u deze werkgever wilt verwijderen?": "Are you sure you want to delete this employer?",
+  "Weet u zeker dat u deze winst uit onderneming wilt verwijderen?": "Are you sure you want to delete this self-employment income (business profit)?",
+  "Weet u zeker dat u dit aanmerkelijk belang wilt verwijderen?": "Are you sure you want to delete this substantial shareholding (shareholdings of 5% or more)?"
+  "Weet u zeker dat u dit schip wilt verwijderen?": "Are you sure you want to delete this boat or ship?",
+  "Weet u zeker dat u dit studiejaar wilt verwijderen?": "Are you sure you want to delete this academic year?",
+  "Weet u zeker dat u wilt uitloggen?": "Are you sure you want to log out?",
+  "Was in 2024 het verzamelinkomen van u voor meer dan 90% afkomstig uit een ander land?": "In 2024, was more than 90% of your aggregate income earned from another country?",
+  "Was in 2024 het verzamelinkomen van u voor meer dan 90% belast in een ander land?": "In 2024, was more than 90% of your aggregate income taxed in another country?"
 
 }
 
-
   "": ""
 
-Kies &#39;OK&#39; om verder te gaan met de aangifte of &#39;Annuleren&#39; om op dit scherm te blijven.
-Klik op een regel om de details te bekijken.
-U hebt samen een notarieel samenlevingscontract.
-U hebt samen een kind.
-Een van u heeft een kind van de ander erkend.
-U bent bij een pensioenfonds aangemeld als pensioenpartners.
-U bent samen eigenaar van een woning, waarin u beiden woont.
-Klik op het vraagteken voor meer informatie.
-Vul hier deze gegevens in.
-&nbsp;U vult hiervoor het scherm &#39;Ontvangen&nbsp;partneralimentatie&#39; in.
-&nbsp;U&nbsp;vult hiervoor het scherm &#39;Ontvangen&nbsp;partneralimentatie&#39; in.
-Specificeer deze schulden bij de aanmerkelijke belangen hierboven.
-Specificeer het kapitaal- en winstaandeel in de vennootschap onder firma, maatschap of ander samenwerkingsverband.
-Met behulp van de bedragen in de laatste kolom kunt u controleren of uw specificatie van het kapitaalaandeel overeenkomt met uw opgave in de balans en of uw specificatie van het winstaandeel overeenkomt met uw opgave in de winst-en-verliesrekening.
-Specificeer het kapitaal- en winstaandeel in de vennootschap onder firma, maatschap of ander samenwerkingsverband.
-U mag deze uitgaven aftrekken als u jaarruimte in 2024 hebt, of niet-gebruikte jaarruimte in de jaren 2014 - 2023.<br /><br />Als u nog niet-gebruikte jaarruimte in 2014 hebt, is 2024 het laatste jaar waarin u deze jaarruimte kunt gebruiken.<br /><br /><br />Klik op &#39;Uitgebreide fiscale informatie&#39;, links in het scherm, voor meer informatie over (niet-gebruikte) jaarruimte.
- betaald. U mag deze uitgaven aftrekken als u jaarruimte in 2024 hebt, of niet-gebruikte jaarruimte in de jaren 2014 - 2023.<br /><br />Als u nog niet-gebruikte jaarruimte in 2014 hebt, is 2024 het laatste jaar waarin u deze jaarruimte kunt gebruiken.<br /><br />Klik op &#39;Uitgebreide fiscale informatie&#39;, links in het scherm, voor meer informatie over (niet-gebruikte) jaarruimte.
-Vink deze dan hier aan. 
-Vink dan ook aan om welke bezitting(en) het gaat.
-Neem de gegevens over die in uw overzicht(en) staan. U hoeft dus niet alle vragen in te vullen.
-Vul hier dus niet de willekeurige afschrijvingen van derden in.
-Vul niet de schulden in voor uw eigen woning.
-Zie Uniform pensioenoverzicht(en) onder Jaarruimte.
-Zijn de bedragen ongelijk, neem dan het bedrag van het hoogste gezamenlijk fictief rendement over.
-U krijgt ieder apart een aanslag.
-U krijgt ieder apart een voorlopige aanslag.
-Het kan zijn dat u deze op een ander moment krijgt dan uw fiscale partner.
-U bent geen fiscale partners en kunt niet samen aangifte doen.
-Vul beide delen van deze lening in als aparte schulden.
-U bent wel fiscale partners, maar kunt niet samen aangifte doen.
-Meer informatie leest u in 'Wanneer krijgt u heffingskortingen uitbetaald?'. Klik op 'Uitgebreide help' links in het scherm.
-Meer informatie leest u in &#39;Wanneer krijgt u heffingskortingen uitbetaald?&#39;. Klik op &#39;Uitgebreide fiscale informatie&#39; links in het scherm.
-U bent wel fiscale partners, maar kunt niet samen een voorlopige aanslag aanvragen of wijzigen.
-U bent geen fiscale partners en kunt niet samen een voorlopige aanslag aanvragen of wijzigen.
-Het gaat om de &#39;Regeling subsidie vaste lasten/tegemoetkoming vaste lasten MKB (TVL MKB)&#39;.&nbsp;U vult dit bedrag ook in op het scherm &#39;Vrijgestelde winstbestanddelen&#39;, zodat u per saldo hierover geen belasting betaalt.
-Hebt u een onroerende zaak ge&euml;rfd, die nog niet verdeeld is onder de erfgenamen? Vul dan hier ook uw deel van die erfenis in.
-Hebt u een openbaarvervoerverklaring of reisverklaring?
-Hebt u een pensioen of andere uitkering?
-Hebt u een premiedepot voor een lijfrente- of kapitaalverzekering?
-Hebt u een restschuld voor een woning die u hebt verkocht?
-U hebt geen recht op de aftrek voor speur- en ontwikkelingswerk.
-U hebt geen recht op meewerkaftrek.
-U hebt geen recht op stakingsaftrek.
-U hebt geen recht op startersaftrek bij arbeidsongeschiktheid.
-
-Dan is de woning een eigen woning. Als dat niet het geval is, mag u de woning niet als hoofdverblijf invullen.
-Hebt u een huisgenoot die ook eigenaar is van de woning? En is het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer? Dan mag u de woning wel als hoofdverblijf invullen.
-Hebt u geen andere huisgenoot? Of is het totale gezamenlijk belang nog steeds minder dan 50%? Vul dan bij situatie in: "Woning: bewoond door een ander".
-Dan is de woning een eigen woning. Als dat niet het geval is, mag u de woning niet als leegstaand hoofdverblijf invullen.
-Hebt u een huisgenoot die ook eigenaar is van de woning? En is het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer? Dan mag u de woning wel als leegstaand hoofdverblijf invullen.
-Dan is de woning een eigen woning. Als dat niet het geval is, mag u de woning niet als toekomstige hoofdverblijf invullen.
-Hebt u een huisgenoot die ook eigenaar is van de woning? En is het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer? Dan mag u de woning wel als toekomstige hoofdverblijf invullen.
-Dan is de woning een eigen woning. Als dat niet het geval is, mag u de woning niet als vroegere hoofdverblijf invullen.
-Hebt u een huisgenoot die ook eigenaar is van de woning? En is het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer? Dan mag u de woning wel als vroegere hoofdverblijf invullen.
-Dan was de woning een eigen woning. Als dat niet het geval was, mag u de woning niet als hoofdverblijf invullen.
-Had u een huisgenoot die ook eigenaar was van de woning? En was het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer? Dan mag u de woning wel als hoofdverblijf invullen.
-Had u geen andere huisgenoot? Of was het totale gezamenlijk belang nog steeds minder dan 50%? Vul dan bij situatie in: "Woning: bewoond door een ander".
-Dan was de woning een eigen woning. Als dat niet het geval was, mag u de woning niet als leegstaand hoofdverblijf invullen.
-Had u een huisgenoot die ook eigenaar was van de woning? En was het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer? Dan mag u de woning wel als leegstaand hoofdverblijf invullen.
-Dan was de woning een eigen woning. Als dat niet het geval was, mag u de woning niet als leegstaand hoofdverblijf invullen.
-Had u een huisgenoot die ook eigenaar was van de woning? En was het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer? Dan mag u de woning wel als leegstaand invullen.
-Dan was de woning een eigen woning. Als dat niet het geval was, mag u de woning niet als toekomstige hoofdverblijf invullen.
-Had u een huisgenoot die ook eigenaar was van de woning? En was het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer? Dan mag u de woning wel als toekomstige hoofdverblijf invullen.
-Dan was de woning een eigen woning. Als dat niet het geval was, mag u de woning niet als toekomstige hoofdverblijf invullen.
-Had u een huisgenoot die ook eigenaar was van de woning? En was het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer? Dan mag u de woning wel als toekomstige invullen.
-Dan was de woning een eigen woning. Als dat niet het geval was, mag u de woning niet als vroegere hoofdverblijf invullen.
-Had u een huisgenoot die ook eigenaar was van de woning? En was het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer? Dan mag u de woning wel als vroegere hoofdverblijf invullen.
-Dan was de woning een eigen woning. Als dat niet het geval was, mag u de woning niet als vroegere hoofdverblijf invullen.
-Had u een huisgenoot die ook eigenaar was van de woning? En was het gezamenlijk belang van u en uw huisgenoot bij de waardeontwikkeling van de gehele woning 50% of meer? Dan mag u de woning wel als vroegere invullen.
-
-Weet u zeker dat u de gegevens van deze persoon wilt verwijderen?
-Weet u zeker dat u de gegevens van dit kind wilt verwijderen?
-Weet u zeker dat u deze bankrekening wilt verwijderen?
-Weet u zeker dat u deze bijlage wilt verwijderen ?
-Weet u zeker dat u deze echtgenoot/huisgenoot wilt verwijderen?
-Weet u zeker dat u deze gegevens wilt verwijderen?
-Weet u zeker dat u deze gegevens&nbsp;wilt verwijderen?
-Weet u zeker dat u deze gift wilt verwijderen?
-Weet u zeker dat u deze inkomsten wilt verwijderen?
-Weet u zeker dat u deze investering wilt verwijderen?
-Weet u zeker dat u deze onderneming wilt verwijderen?
-Weet u zeker dat u deze onroerende zaak wilt verwijderen?
-Weet u zeker dat u deze partneralimentatie wilt verwijderen?
-Weet u zeker dat u deze schuld wilt verwijderen?
-Weet u zeker dat u deze uitgaven wilt verwijderen?
-Weet u zeker dat u deze werkgever wilt verwijderen?
-Weet u zeker dat u deze winst uit onderneming wilt verwijderen?
-Weet u zeker dat u deze&nbsp;gegevens wilt verwijderen?
-Weet u zeker dat u dit aanmerkelijk belang wilt verwijderen?
-Weet u zeker dat u dit schip wilt verwijderen?
-Weet u zeker dat u dit studiejaar wilt verwijderen?
-Weet u zeker dat u wilt uitloggen?
-Weet u zeker dat u dit studiejaar wilt verwijderen?
-Was in 2024 het verzamelinkomen van u voor meer dan 90% afkomstig uit een ander land?
-Was in 2024 het verzamelinkomen van u voor meer dan 90% afkomstig uit een ander land?
-Was in 2024 het verzamelinkomen van u voor meer dan 90% belast in een ander land?
 Was in die periode sprake van een 'geruisloze terugkeer uit een bv'?
 Was u aan de huurder gelieerd?
 Was u geldverstrekker of medegerechtigde in een onderneming?
