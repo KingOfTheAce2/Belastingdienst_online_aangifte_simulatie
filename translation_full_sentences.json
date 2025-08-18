@@ -145,11 +145,11 @@
   "Was u aan de huurder gelieerd?": "Were you related to or affiliated with the tenant?",
   "Was u geldverstrekker of medegerechtigde in een onderneming?": "Were you a lender or did you have a co-entitlement to the net worth of an enterprise?",
   "Was u heel 2024, of een deel daarvan, in Nederland verplicht verzekerd voor de volksverzekeringen (AOW, Anw en Wlz)?": "Were you compulsorily insured in the Netherlands under the national insurance schemes AOW (National Old Age Pensions Act), Anw (Surviving Dependants Act), or Wlz (Long-term Care Act) for all of 2024 or part of it?",
-  "Was u in 2023 fiscale partners?": "Were you tax partners in 2023?"
+  "Was u in 2023 fiscale partners?": "Were you tax partners in 2023?",
   "Was u in 2023 kwalificerend buitenlands belastingplichtig?": "In 2023, were you a qualifying non-resident taxpayer in the Netherlands?",
   "Was u in 2023 kwalificerend buitenlands belastingplichtige?": "In 2023, were you a qualifying non-resident taxpayer in the Netherlands?",
-  "Was u in 2024 (mede-)eigenaar van deze onroerende zaak?": "In 2024, were you the (co-)owner of this immovable property?",
-  "Was u in 2024 fiscale partners?": "Were you tax partners in 2024?"
+  "Was u in 2024 (mede-)eigenaar van deze onroerende zaak?": "In 2024, were you the (co-)owner of this real estate?",
+  "Was u in 2024 fiscale partners?": "Were you tax partners in 2024?",
   "Was u in 2024 in Nederland verplicht verzekerd voor de AOW en de Anw?": "In 2024, were you compulsorily socially insured in the Netherlands under the National Old Age Pensions Act (AOW) and the Surviving Dependants Act (Anw)?",
   "Was u in 2024 in Nederland verzekerd voor de AOW en de Anw?": "In 2024, were you socially insured in the Netherlands under the National Old Age Pensions Act (AOW) and the Surviving Dependants Act (Anw)?",
   "Was u in 2024 ingeschreven bij de Kamer van Koophandel in Nederland?": "In 2024, were you registered with the Dutch Chamber of Commerce (Kamer van Koophandel)?"
@@ -157,26 +157,25 @@
   "Was u in 2024 of een deel van dat jaar alleenstaand?": "In 2024, or part of that year, were you single?",
   "Was u in de periode 2020 tot en met 2024 elk jaar ondernemer?": "Between 2020 and 2024, were you an entrepreneur each year?",
   "Was u in de periode 2019 tot en met 2023 elk jaar ondernemer voor de inkomstenbelasting?": "Between 2019 and 2023, were you an entrepreneur for income tax purposes each year?",
-  "Was u in de periode dat het tot uw privévermogen hoorde (mede-)eigenaar van deze onroerende zaak?": "During the period it belonged to your private assets, were you the (co-)owner of this immovable property?",
+  "Was u in de periode dat het tot uw privévermogen hoorde (mede-)eigenaar van deze onroerende zaak?": "During the period it belonged to your private assets, were you the (co-)owner of this real estate?",
   "Was u in 2024 kwalificerend buitenlands belastingplichtig?": "In 2024, were you a qualifying non-resident taxpayer in the Netherlands?",
-  "Was u ondernemer voor de inkomstenbelasting?": "Were you an entrepreneur for income tax purposes?"
-  "Was u op 1 januari 2024 eigenaar van deze onroerende zaak?": "On 1 January 2024, were you the owner of this immovable property?",
+  "Was u ondernemer voor de inkomstenbelasting?": "Were you an entrepreneur for income tax purposes?",
+  "Was u op 1 januari 2024 eigenaar van deze onroerende zaak?": "On 1 January 2024, were you the owner of this real estate?",
   "Was u tijdelijk uitgezonden of overgeplaatst waardoor deze woning leegstond?": "Were you temporarily posted abroad or relocated, causing this home to be unoccupied?",
   "Vul een juiste datum in op de volgende manier: dd-mm-jjjj.": "Enter a valid date in the following format: dd-mm-yyyy.",
   "Vul een juiste datum in op de volgende manier: dd-mm.": "Enter a valid date in the following format: dd-mm.",
   "Vul eerst het brutodividend, de brutorente, de brutoroyalty's of overige brutobedragen in.": "First enter the gross dividend, gross interest, gross royalties, or other gross amounts.",
   "U hebt op 'Passiva' ingevuld dat de oudedagsreserve hoger is dan het totale ondernemingsvermogen.": "In the 'Liabilities' section, you entered that the retirement reserve exceeds the total business assets.",
   "Als u 2 jaar geen recht hebt op de zelfstandigenaftrek, moet u uw oudedagsreserve verlagen tot uw ondernemingsvermogen.": "If you are not entitled to the self-employed deduction for 2 years, you must reduce your retirement reserve to match your business assets.",
-  "Kreeg u in 2023 ook geen zelfstandigenaftrek?": "Did you also not qualify for the self-employed deduction in 2023?"
+  "Kreeg u in 2023 ook geen zelfstandigenaftrek?": "Did you also not qualify for the self-employed deduction in 2023?",
+  "Pas dan de waarde van uw oudedagsreserve aan op het scherm 'Passiva' en vul de afname ook in op het scherm 'Wijzigingen in toelaatbare reserves'.": "Then adjust the value of your retirement reserve on the 'Liabilities' screen and also enter the reduction on the 'Changes in allowable reserves' screen.",
+  "Beide vindt u in Mijn Belastingdienst.": "You can find both in Mijn Belastingdienst.",
+  "In deze situatie zijn de heffingskortingen in dit overzicht misschien niet goed berekend. In de aanslag zijn de heffingskortingen wel juist.": "In this situation, the tax credits in this overview may not have been calculated correctly. They are, however, calculated correctly in the tax assessment.",
+  "Klik daarna op Belasting berekenen om te zien hoeveel u terugkrijgt of moet betalen.": "Then click 'Calculate tax' to see how much you will receive back or have to pay.",
 }
 
   "": ""
 
-
-Pas dan de waarde van uw oudedagsreserve aan op het scherm &#39;Passiva&#39; en vul de afname ook in op het scherm &#39;Wijzigingen in toelaatbare reserves&#39;.
-Beide vindt u in Mijn Belastingdienst.
-In deze situatie zijn de heffingskortingen in dit overzicht misschien niet goed berekend. In de aanslag zijn de heffingskortingen wel juist.
-Klik daarna op Belasting berekenen om te zien hoeveel u terugkrijgt of moet betalen.
 U kunt per persoon maar maximaal 3 ondernemingen invoeren. Hebt u meer dan 3 ondernemingen? Dan kunt u geen aangifte doen met de online aangifte.
 U kunt samen aangifte doen. De meeste fiscale partners kiezen daarvoor. Dit bespaart tijd en de kans op fouten is kleiner. Uw partner moet dan zelf inloggen.
 U mag deze uitgaven invullen bij 'Deel periode Nederland'.
