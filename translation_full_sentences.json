@@ -172,189 +172,158 @@
   "Beide vindt u in Mijn Belastingdienst.": "You can find both in Mijn Belastingdienst.",
   "In deze situatie zijn de heffingskortingen in dit overzicht misschien niet goed berekend. In de aanslag zijn de heffingskortingen wel juist.": "In this situation, the tax credits in this overview may not have been calculated correctly. They are, however, calculated correctly in the tax assessment.",
   "Klik daarna op Belasting berekenen om te zien hoeveel u terugkrijgt of moet betalen.": "Then click 'Calculate tax' to see how much you will receive back or have to pay.",
+  "U kunt geen aanmerkelijk belang meer toevoegen.": "You can no longer add a substantial shareholding (shareholdings of 5% or more).",
+  "U kunt geen belegging meer toevoegen.": "You can no longer add an investment.",
+  "U kunt geen gegevens van kinderen meer toevoegen.": "You can no longer add details of children.",
+  "U kunt geen inkomsten meer toevoegen.": "You can no longer add income.",
+  "U kunt geen kapitaalverzekering meer toevoegen.": "You can no longer add a capital insurance policy.",
+  "U kunt geen lijfrente meer toevoegen.": "You can no longer add an annuity.",
+  "U kunt geen loon in Nederland meer toevoegen.": "You can no longer add employment income in the Netherlands.",
+  "U kunt geen niet-gebruikte jaarruimte meer toevoegen.": "You can no longer add unused annual pension allowance.",
+  "U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan.": "No rights can be derived from these amounts or their calculation.",
+  "U kunt geen rechten ontlenen aan deze berekening.": "No rights can be derived from this calculation.",
+  "U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan.": "No rights can be derived from this amount or its calculation.",
+  "U kunt geen studiejaren meer toevoegen.": "You can no longer add academic years.",
+  "U kunt geen uitgaven meer toevoegen.": "You can no longer add expenses.",
+  "U kunt geen winst uit onderneming meer toevoegen.": "You can no longer add self-employment income (business profit).",
+  "U kunt geen bouwdepot meer toevoegen.": "You can no longer add a construction deposit.",
+  "U kunt geen echtgenoot of huisgenoot meer toevoegen.": "You can no longer add a spouse or housemate.",
+  "U kunt geen echtgenoot/huisgenoot meer toevoegen.": "You can no longer add a spouse/housemate.",
+  "U kunt geen inkomsten meer toevoegen.": "You can no longer add income.",
+  "U kunt geen kapitaalverzekering meer toevoegen.": "You can no longer add a capital insurance policy.",
+  "U kunt geen partneralimentatie meer toevoegen.": "You can no longer add spousal maintenance.",
+  "U kunt geen schuld meer toevoegen.": "You can no longer add a debt.",
+  "U kunt geen werkgever meer toevoegen.": "You can no longer add an employer.",
+  "U kunt hierna geen gift meer toevoegen.": "From this point on, you can no longer add a donation.",
+  "U kunt hierna geen ondernemingen meer toevoegen.": "From this point on, you can no longer add businesses.",
+  "U kunt hierna geen partneralimentatie meer toevoegen.": "From this point on, you can no longer add spousal maintenance.",
+  "U kunt hierna geen personen meer toevoegen voor wie u dieetkosten hebt gemaakt.": "From this point on, you can no longer add persons for whom you claimed dietary expenses.",
+  "U kunt hierna geen schip meer toevoegen.": "From this point on, you can no longer add a ship."
+  "U kunt per persoon maar maximaal 3 ondernemingen invoeren. Hebt u meer dan 3 ondernemingen? Dan kunt u geen aangifte doen met de online aangifte.": "You can enter a maximum of 3 businesses per person. Do you have more than 3 businesses? Then you cannot file your tax return online.",
+  "U kunt samen aangifte doen. De meeste fiscale partners kiezen daarvoor. Dit bespaart tijd en de kans op fouten is kleiner. Uw partner moet dan zelf inloggen.": "You can file a joint tax return. Most tax partners choose this option. It saves time and reduces the risk of errors. Your partner must then log in separately.",
+  "U mag deze uitgaven invullen bij 'Deel periode Nederland'.": "You may enter these expenses under 'Part-year Netherlands'.",
+  "U kunt dit formulier nu verzenden. Insturen van dit formulier leidt nooit tot een hogere aanslag.": "You can now submit this form. Submitting this form will never result in a higher tax assessment.",
+  "U kunt dit formulier voor uzelf of voor u beiden insturen. U vult altijd het werkelijk rendement in van u en uw fiscale partner samen.": "You can submit this form for yourself or for both of you. You must always enter the actual return for you and your tax partner together.",
+  "U kunt in dit formulier maximaal 99 bankrekeningen invullen. U kunt nu geen bankrekening meer toevoegen. Hebt u nog niet alle bankrekeningen ingevuld? Voeg dan bankrekeningen samen en vul deze in als 1 bankrekening.": "In this form you can enter up to 99 bank accounts. You cannot add any more bank accounts now. Have you not yet entered all your bank accounts? Then combine bank accounts and enter them as one bank account.",
+  "U kunt in dit formulier maximaal 99 onroerende zaken invullen. U kunt nu geen onroerende zaak meer toevoegen. Hebt u nog niet alle onroerende zaken ingevuld? Voeg dan onroerende zaken samen en vul deze in als 1 onroerende zaak.": "In this form you can enter up to 99 real estate properties. You cannot add any more real estate properties now. Have you not yet entered all your real estate properties? Then combine real estate properties and enter them as one real estate property.",
+  "Ongeldige invoer, de karakters '>' en '<' zijn niet toegestaan.": "Invalid input, the characters '>' and '<' are not allowed.",
+  "Klik daarna op 'Belasting berekenen' om te zien hoeveel u terugkrijgt of moet betalen.": "Click 'Calculate tax' to see how much tax you will receive back or have to pay.",
+  "Klik op 'Akkoord' om verder te gaan.": "Click 'Agree' to continue.",
+  "Klik op een regel om de details te bekijken.": "Click on a line to view the details.",
+  "Maar bij 'Persoonlijke gegevens' hebt u aangegeven dat u in deze periode (deels) in Nederland woonde. Pas uw gegevens aan.": "But under 'Personal details' you indicated that you (partly) lived in the Netherlands during this period. Please update your information.",
+  "Staat daarin dat Nederland het recht heeft belasting te heffen over deze inkomsten?": "Does it state that the Netherlands has the right to levy tax on this income?",
+  "Staat daarin dat Nederland het recht heeft belasting te heffen over deze uitkering?": "Does it state that the Netherlands has the right to levy tax on this benefit?",
+  "U hebt daarom recht op uitbetaling van een deel van de heffingskortingen. U moet dan wel samen dit verzoek invullen.": "You are therefore entitled to payment of part of the tax credits. You must, however, complete this request together.",
+  "U kunt dit formulier nu verzenden.": "You can now submit this form.",
+  "U mag deze uitgaven aftrekken als u jaarruimte in 2025 hebt, of niet-gebruikte jaarruimte in de jaren 2015 - 2024. Als u nog niet-gebruikte jaarruimte in 2015 hebt, is 2025 het laatste jaar waarin u deze jaarruimte kunt gebruiken.": "You may deduct these expenses if you have annual pension allowance in 2025, or unused annual pension allowance from the years 2015 to 2024. If you still have unused allowance from 2015, 2025 is the last year in which you can use it.",
+  "U mag deze uitgaven aftrekken als u niet-gebruikte jaarruimte vanaf 2015 hebt. Als u nog niet-gebruikte jaarruimte in 2015 hebt, is 2025 het laatste jaar waarin u deze jaarruimte kunt gebruiken.": "You may deduct these expenses if you have unused annual pension allowance from 2015 onwards. If you still have unused allowance from 2015, 2025 is the last year in which you can use it.",
+  "Uw gezamenlijk werkelijk rendement is hoger. Toch kan het zijn dat u minder belasting hoeft te betalen. Voor uw onroerende zaak in het buitenland krijgt u namelijk aftrek om dubbele belasting te voorkomen. Die aftrek kan nu hoger zijn dan in uw oorspronkelijke aangifte. Pas na het insturen van dit formulier kunnen wij berekenen of u recht hebt op teruggave. Verzend daarom toch dit formulier. Insturen van dit formulier leidt nooit tot een hogere aanslag.": "Your joint actual return is higher. However, it may be that you still owe less tax. For your real estate abroad you receive relief to avoid double taxation. This relief may now be higher than in your original tax return. Only after submitting this form can we calculate whether you are entitled to a refund. Therefore, still submit this form. Submitting this form will never result in a higher tax assessment.",
+  "Uw werkelijk rendement is hoger. Toch kan het zijn dat u minder belasting hoeft te betalen. Voor uw onroerende zaak in het buitenland krijgt u namelijk aftrek om dubbele belasting te voorkomen. Die aftrek kan nu hoger zijn dan in uw oorspronkelijke aangifte. Pas na het insturen van dit formulier kunnen wij berekenen of u recht hebt op teruggave. Verzend daarom toch dit formulier. Insturen van dit formulier leidt nooit tot een hogere aanslag.": "Your actual return is higher. However, it may be that you still owe less tax. For your real estate abroad you receive relief to avoid double taxation. This relief may now be higher than in your original tax return. Only after submitting this form can we calculate whether you are entitled to a refund. Therefore, still submit this form. Submitting this form will never result in a higher tax assessment.",
+  "Het gaat om:": "This concerns:",
+  "Het gaat om:\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-contant geld, anders dan in euro's.": "This concerns:\n- cash, other than in euros",
+  "Het gaat om:\n-contant geld, anders dan in euro's\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- cash, other than in euros\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen.": "This concerns:\n- cash, other than in euros\n- rights to periodic payments",
+  "Het gaat om:\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- cash, other than in euros\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning).": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-contant geld, anders dan in euro's.": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- cash, other than in euros",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-contant geld, anders dan in euro's\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- cash, other than in euros\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen.": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- cash, other than in euros\n- rights to periodic payments",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- cash, other than in euros\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-rechten op periodieke uitkeringen.": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- rights to periodic payments",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld.": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-contant geld, anders dan in euro's.": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- cash, other than in euros",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- cash, other than in euros\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen.": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- cash, other than in euros\n- rights to periodic payments",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- cash, other than in euros\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-rechten op periodieke uitkeringen.": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- rights to periodic payments",
+  "Het gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-rechten op periodieke uitkeringen.": "This concerns:\n- rights to periodic payments",
+  "Het gaat om:\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-uitgeleend geld.": "This concerns:\n- lent money",
+  "Het gaat om:\n-uitgeleend geld\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- lent money\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-uitgeleend geld\n-contant geld, anders dan in euro's.": "This concerns:\n- lent money\n- cash, other than in euros",
+  "Het gaat om:\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- lent money\n- cash, other than in euros\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen.": "This concerns:\n- lent money\n- cash, other than in euros\n- rights to periodic payments",
+  "Het gaat om:\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- lent money\n- cash, other than in euros\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Het gaat om:\n-uitgeleend geld\n-rechten op periodieke uitkeringen.": "This concerns:\n- lent money\n- rights to periodic payments",
+  "Het gaat om:\n-uitgeleend geld\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- lent money\n- rights to periodic payments\n- other assets in box 3, such as crypto assets"
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-contant geld, anders dan in euro's.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- cash, other than in euros",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-contant geld, anders dan in euro's\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- cash, other than in euros\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- cash, other than in euros\n- rights to periodic payments",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- cash, other than in euros\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning).": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-contant geld, anders dan in euro's.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- cash, other than in euros",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-contant geld, anders dan in euro's\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- cash, other than in euros\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- cash, other than in euros\n- rights to periodic payments",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- cash, other than in euros\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-rechten op periodieke uitkeringen.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- rights to periodic payments",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-contant geld, anders dan in euro's.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- cash, other than in euros",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- cash, other than in euros\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- cash, other than in euros\n- rights to periodic payments",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- cash, other than in euros\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-rechten op periodieke uitkeringen.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- rights to periodic payments",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)\n-uitgeleend geld\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- the non-exempt part of your capital insurance policies (not your homeownership-related capital insurance policy)\n- lent money\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-rechten op periodieke uitkeringen.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- rights to periodic payments",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-uitgeleend geld.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- lent money",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-uitgeleend geld\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- lent money\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-uitgeleend geld\n-contant geld, anders dan in euro's.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- lent money\n- cash, other than in euros",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- lent money\n- cash, other than in euros\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- lent money\n- cash, other than in euros\n- rights to periodic payments",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- lent money\n- cash, other than in euros\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-uitgeleend geld\n-rechten op periodieke uitkeringen.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- lent money\n- rights to periodic payments",
+  "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-uitgeleend geld\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- lent money\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
+  "U gaat hierbij uit van de periode dat u in Nederland woonde.": "Here you base it on the period during which you lived in the Netherlands.",
+  "Zie Uniform pensioenoverzicht(en) onder Jaarruimte.": "See Uniform Pension Statement (“Uniform Pensioenoverzicht”) under annual pension allowance.",
+  "Zie uw Uniform pensioenoverzicht(en) onder Jaarruimte.": "See your Uniform Pension Statement (“Uniform Pensioenoverzicht”) under annual pension allowance.",
+  "Omdat u het hele jaar fiscale partners bent, bepaalt uw gezamenlijke vermogen of u in aanmerking komt voor inkomensafhankelijke regelingen. Het maakt daarom niet uit welke verdeling u hier maakt. Wel geven wij de bedragen per persoon door aan de betreffende instanties, zoals Toeslagen en het CAK. Dit doen wij ook als u (nog) geen gebruik maakt van deze regelingen. Uw verdeling heeft geen invloed op de belasting die u betaalt of terugkrijgt.": "Because you are tax partners for the entire year, your combined assets determine whether you qualify for income-related schemes. Therefore, it does not matter what allocation you make here. We do pass on the amounts per person to the relevant authorities, such as Toeslagen and the CAK. We do this even if you are not (yet) using these schemes. Your allocation does not affect the tax you pay or receive back.",
+  "U vult de aangiften op de volgende manier in: Stel u hebt samen een aftrek eigen woning van € 10.000. U vult hier bij het verdeelscherm bijvoorbeeld € 6.500 in bij Uw deel. In de aangifte van uw partner moet deze € 6.500 dan staan bij Deel fiscale partner. Controleer deze bedragen goed, want dit gaat regelmatig mis. Wilt u toch samen aangifte doen, ga dan terug naar het scherm 'Partner'. Kies dan 'Ja' bij de vraag 'Wilt u samen aangifte doen?'.": "You complete the returns in the following way: Suppose you jointly have a homeownership deduction of €10,000. On the allocation screen, you enter, for example, €6,500 under Your share. In your partner’s tax return, €6,500 must then appear under Partner’s share. Carefully check these amounts, as mistakes happen often. If you still want to file jointly, go back to the 'Partner' screen and choose 'Yes' for the question 'Do you want to file jointly?'.",
+  "Wilt u toch samen aangifte doen? Ga dan terug naar het scherm 'Partner' en kies 'Ja' bij de vraag 'Wilt u samen aangifte doen?'. Voorbeeld U doet apart aangifte en had in 2024 samen een aftrek eigen woning van € 2.000. U vult bijvoorbeeld € 500 in bij 'Uw deel'. In de aangifte van uw fiscale partner moet deze € 500 dan staan bij 'Deel fiscale partner'.": "Do you still want to file jointly? Then go back to the 'Partner' screen and choose 'Yes' for the question 'Do you want to file jointly?'. Example: You file separately and in 2024 you jointly had a homeownership deduction of €2,000. You enter, for example, €500 under 'Your share'. In your tax partner’s return, €500 must then appear under 'Partner’s share'.",
+  "Let op! Bij het werkelijk rendement houden wij geen rekening met het heffingsvrij vermogen.": "Note! For the actual return, we do not take into account the tax-free allowance.",
+  "Vul ook in: uw aandeel in het vermogen van een vereniging van eigenaren (vve); uw geld op een derdenrekening bij een notaris of gerechtsdeurwaarder.": "Also enter: your share in the assets of a homeowners’ association (VvE); your money held in a third-party account with a notary or bailiff.",
+  "Vul ook in: uw aandeel in het vermogen van een vereniging van eigenaren (vve); uw geld op een derdenrekening bij een notaris of gerechtsdeurwaarder. U gaat hierbij uit van de periode dat u in Nederland woonde.": "Also enter: your share in the assets of a homeowners’ association (VvE); your money held in a third-party account with a notary or bailiff. Here you base it on the period during which you lived in the Netherlands."
+
 }
 
-  "": ""
+"": ""
 
-U kunt per persoon maar maximaal 3 ondernemingen invoeren. Hebt u meer dan 3 ondernemingen? Dan kunt u geen aangifte doen met de online aangifte.
-U kunt samen aangifte doen. De meeste fiscale partners kiezen daarvoor. Dit bespaart tijd en de kans op fouten is kleiner. Uw partner moet dan zelf inloggen.
-U mag deze uitgaven invullen bij 'Deel periode Nederland'.
-U kunt dit formulier nu verzenden.&nbsp;Insturen van dit formulier leidt nooit tot een hogere aanslag.
-U kunt dit formulier voor uzelf of voor u beiden insturen.&nbsp;U vult altijd&nbsp;het werkelijk rendement in van u en uw fiscale partner samen.
-U kunt geen aanmerkelijk belang meer toevoegen.
-U kunt geen belegging meer toevoegen.
-U kunt geen gegevens van kinderen meer toevoegen.
-U kunt geen inkomsten meer toevoegen.
-U kunt geen kapitaal&shy;verzekering meer toevoegen.
-U kunt geen lijfrente meer toevoegen.
-U kunt geen loon in Nederland meer toevoegen.
-U kunt geen niet-gebruikte jaarruimte meer toevoegen.
-U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan.
-U kunt geen rechten ontlenen aan deze berekening.
-U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan.
-U kunt geen studiejaren meer toevoegen.
-U kunt geen uitgaven meer toevoegen.
-U kunt geen winst uit onderneming meer toevoegen.
-U kunt geen&nbsp;bouwdepot meer toevoegen.
-U kunt geen&nbsp;echtgenoot of huisgenoot meer toevoegen.
-U kunt geen&nbsp;echtgenoot/huisgenoot meer toevoegen.
-U kunt geen&nbsp;inkomsten meer toevoegen.
-U kunt geen&nbsp;kapitaalverzekering meer toevoegen.
-U kunt geen&nbsp;partneralimentatie meer toevoegen.
-U kunt geen&nbsp;schuld meer toevoegen.
-U kunt geen&nbsp;werkgever meer toevoegen.
-U kunt hierna geen gift meer toevoegen.
-U kunt hierna geen ondernemingen meer toevoegen.
-U kunt hierna geen partneralimentatie meer toevoegen.
-U kunt hierna geen personen meer toevoegen voor wie u dieetkosten hebt gemaakt.
-U kunt hierna geen schip meer toevoegen.
-U kunt in dit formulier maximaal 99 bankrekeningen invullen. U kunt nu geen bankrekening meer toevoegen. Hebt u nog niet alle bankrekeningen ingevuld? Voeg dan bankrekeningen samen en vul deze in als 1 bankrekening.
-U kunt in dit formulier maximaal 99 onroerende zaken invullen. U kunt nu geen onroerende zaak meer toevoegen. Hebt u nog niet alle onroerende zaken ingevuld? Voeg dan onroerende zaken samen en vul deze in als 1 onroerende zaak.
-Ongeldige invoer, de karakters '>' en '<' zijn niet toegestaan.
-Onroerende zaak: 
-Onroerende zaken buiten Nederland
-
-. Klik daarna op &#39;Belasting berekenen&#39; om te zien hoeveel u terugkrijgt of moet betalen. Omdat u niet samen aangifte doet, ziet u niet hoeveel 
-. Klik op &#39;Akkoord&#39; om verder te gaan.
-. Klik op 'Akkoord' om verder te gaan.
-. Klik op een regel om de details te bekijken.
-. Maar bij &#39;Persoonlijke gegevens&#39; hebt u aangegeven dat 
-. Maar bij &#39;Persoonlijke gegevens&#39; hebt u aangegeven dat u in deze periode (deels) in 
-. Maar bij &#39;Persoonlijke gegevens&#39; hebt u aangegeven dat u in deze periode (deels) in Nederland woonde. Pas uw gegevens aan.
-. Omdat 
-. Omdat u al een voorlopige aanslag hebt gekregen van 
-. Staat daarin dat Nederland het recht heeft belasting te heffen over deze inkomsten?
-. Staat daarin dat Nederland het recht heeft belasting te heffen over deze&nbsp;uitkering?
-. U hebt daarom recht op uitbetaling van een deel van de heffingskortingen. U moet dan wel samen dit verzoek invullen. Ga terug naar het scherm 'Hebt u een fiscale partner?' en kies 'Ja' bij de vraag 'Wil <span class=\"nonowrap\">
-. U kunt dit formulier nu verzenden.
-. U mag deze uitgaven aftrekken als u jaarruimte in 2025 hebt, of niet-gebruikte jaarruimte in de jaren 2015 - 2024.&nbsp;<br /><br />Als u nog niet-gebruikte jaarruimte in 2015 hebt, is 2025 het laatste jaar waarin u deze jaarruimte kunt gebruiken.
-. U mag deze uitgaven aftrekken als u niet-gebruikte jaarruimte vanaf 2015 hebt.<br /><br />Als u nog niet-gebruikte jaarruimte in 2015 hebt, is 2025 het laatste jaar waarin u deze jaarruimte kunt gebruiken.<br />
-. Uw gezamenlijk werkelijk rendement is hoger.<p>Toch kan het zijn dat u minder belasting hoeft te betalen. Voor uw onroerende zaak in het buitenland krijgt u namelijk aftrek om dubbele belasting te voorkomen. Die aftrek kan nu hoger zijn dan in uw oorspronkelijke aangifte. Pas na het insturen van dit formulier kunnen wij berekenen of u recht hebt op teruggave.&nbsp;<p>Verzend daarom toch dit formulier. Insturen van dit formulier leidt nooit tot een hogere aanslag.
-. Uw werkelijk rendement is hoger.<p>Toch kan het zijn dat u minder belasting hoeft te betalen. Voor uw onroerende zaak in het buitenland krijgt u namelijk aftrek om dubbele belasting te voorkomen. Die aftrek kan nu hoger zijn dan in uw oorspronkelijke aangifte. Pas na het insturen van dit formulier kunnen wij berekenen of u recht hebt op teruggave.&nbsp;<p>Verzend daarom toch dit formulier. Insturen van dit formulier leidt nooit tot een hogere aanslag.
-Vul daarom alleen de financieringskosten in die horen bij het deel van de schuld van u en 
-
-.&nbsp;<br />Het gaat om:
-.&nbsp;<br />Het gaat om:<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-contant geld, anders dan in euro&apos;s.
-.&nbsp;<br />Het gaat om:<br />-contant geld, anders dan in euro&apos;s<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen.
-.&nbsp;<br />Het gaat om:<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning).
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-contant geld, anders dan in euro&apos;s.
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-contant geld, anders dan in euro&apos;s<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen.
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-rechten op periodieke uitkeringen.
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld.
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s.
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen.
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-rechten op periodieke uitkeringen.
-.&nbsp;<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-rechten op periodieke uitkeringen.
-.&nbsp;<br />Het gaat om:<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-uitgeleend geld.
-.&nbsp;<br />Het gaat om:<br />-uitgeleend geld<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s.
-.&nbsp;<br />Het gaat om:<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen.
-.&nbsp;<br />Het gaat om:<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;<br />Het gaat om:<br />-uitgeleend geld<br />-rechten op periodieke uitkeringen.
-.&nbsp;<br />Het gaat om:<br />-uitgeleend geld<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-contant geld, anders dan in euro&apos;s.
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-contant geld, anders dan in euro&apos;s<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning).
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-contant geld, anders dan in euro&apos;s.
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-contant geld, anders dan in euro&apos;s<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen.
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-rechten op periodieke uitkeringen.
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld.
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s.
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen.
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-rechten op periodieke uitkeringen.
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-het niet-vrijgestelde deel van uw kapitaalverzekeringen (niet uw kapitaalverzekering eigen woning)<br />-uitgeleend geld<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-rechten op periodieke uitkeringen.
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-uitgeleend geld.
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-uitgeleend geld<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s.
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-uitgeleend geld<br />-contant geld, anders dan in euro&apos;s<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-uitgeleend geld<br />-rechten op periodieke uitkeringen.
-.&nbsp;Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.<br />Het gaat om:<br />-uitgeleend geld<br />-rechten op periodieke uitkeringen<br />-andere bezittingen in box 3, zoals cryptobezittingen
-.&nbsp;U gaat hierbij uit van de periode dat u in Nederland woonde.
-.&nbsp;Zie Uniform pensioenoverzicht(en) onder Jaarruimte.
-.&nbsp;Zie uw Uniform pensioenoverzicht(en) onder Jaarruimte.
-.<p style="font-weight: 400;"> Omdat u het hele jaar fiscale partners bent, bepaalt uw gezamenlijke vermogen of u in aanmerking komt voor <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/vermogen_en_aanmerkelijk_belang/vermogen/belasting_betalen_over_uw_vermogen/vermogen-verdelen">inkomensafhankelijke regelingen (opent nieuw venster)<\/a>. Het maakt daarom niet uit welke verdeling u hier maakt. Wel geven wij de bedragen per persoon door aan de betreffende instanties, zoals Toeslagen en het CAK. Dit doen wij ook als u (nog) geen gebruik maakt van deze regelingen.\n <span style="font-weight: 400;">Uw verdeling heeft geen invloed op de belasting die u betaalt of terugkrijgt.
-.<br /><br />U vult de aangiften op de volgende manier in:<br />Stel u hebt samen een aftrek eigen woning van &euro; 10.000. U vult hier bij het verdeelscherm bijvoorbeeld &euro; 6.500 in bij Uw deel. In de aangifte van uw partner moet deze &nbsp;&euro; 6.500 dan staan bij Deel fiscale partner. Controleer deze bedragen goed, want dit gaat regelmatig mis.&nbsp;<p><br />Wilt u toch samen aangifte doen, ga dan terug naar het scherm &#39;Partner&#39;. Kies dan &#39;Ja&#39; bij de vraag &#39;Wilt u samen aangifte doen?&#39;.
-.<br /><br />Wilt u toch samen aangifte doen? Ga dan terug naar het scherm &#39;Partner&#39; en kies &#39;Ja&#39; bij de vraag &#39;Wilt u samen aangifte doen?&#39;.<br /><br />Voorbeeld<br />U doet apart aangifte en had in 2024 samen een aftrek eigen woning van &euro; 2.000. U vult bijvoorbeeld &euro; 500 in bij &#39;Uw deel&#39;. In de aangifte van uw fiscale partner moet deze &euro; 500 dan staan bij &#39;Deel fiscale partner&#39;.
-.<br /><br />Let op!<br />Bij het werkelijk rendement houden wij geen rekening met het&nbsp;heffingsvrij vermogen.
-.<br />Vul ook in:<br /><ul class="bullet-list"><li>uw&nbsp;aandeel in het vermogen van een vereniging van eigenaren (vve)<\/li><li>uw geld op&nbsp;een derdenrekening bij een notaris of gerechtsdeurwaarder<\/li><\/ul>
-.<br />Vul ook in:<br /><ul class="bullet-list"><li>uw&nbsp;aandeel in het vermogen van een vereniging van eigenaren (vve)<\/li><li>uw geld op&nbsp;een derdenrekening bij een notaris of gerechtsdeurwaarder<\/li><\/ul>U gaat hierbij uit van de periode dat u in Nederland woonde.
-/
-: 
-: 
-: 80% van 
-: fictieve vervreemding
-:&nbsp;76,667% van 
 :<br />- de aandelen in een aanmerkelijk belang<br />- uitgaven voor tijdelijk verblijf thuis van een gehandicapte<br />- aftrek partneralimentatie<br /><br />U vult het deel in dat u aan uzelf toedeelt, uw partner het andere deel.<br /><br />Let op!<br />Als u onroerende zaken in Nederland had, kunt u alleen een verzoek of wijziging voorlopige aanslag doen met het papieren formulier voor&nbsp;buitenlandse belastingplichtigen. Bestel het&nbsp;<a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/formulier-aanvraag-of-wijziging-voorlopige-aanslag-2025-voor-buitenlandse-belastingplichtigen" target="_blank">formulier \'Aanvraag of wijziging voorlopige aanslag voor buitenlandse belastingplichtigen 2025\'&nbsp;(opent nieuw venster)<\/a>.
 :<br />- de aandelen in een aanmerkelijk belang<br />- uitgaven voor tijdelijk verblijf thuis van een gehandicapte<br />- aftrek partneralimentatie<br /><br />U vult het deel in dat u aan uzelf toedeelt, uw partner het andere deel.<br /><br />Let op!<br />Als u onroerende zaken in Nederland had, kunt u alleen een verzoek of wijziging voorlopige aanslag doen met het papieren formulier voor&nbsp;buitenlandse belastingplichtigen.&nbsp;Bestel het&nbsp;<a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/formulier-aanvraag-of-wijziging-voorlopige-aanslag-2025-voor-buitenlandse-belastingplichtigen" target="_blank">formulier \'Aanvraag of wijziging voorlopige aanslag voor buitenlandse belastingplichtigen 2025\'&nbsp;(opent nieuw venster)<\/a>.<br />
 :<br />- uw eigen woning in Nederland (toekomstig of vroeger hoofdverblijf)<br />- de aandelen in een aanmerkelijk belang<br />- voordeel uit sparen en beleggen<br />- uitgaven voor tijdelijk verblijf thuis van een gehandicapte<br />- aftrek partneralimentatie<br /><br />U vult het deel in dat u aan uzelf toedeelt, uw partner het andere deel.&nbsp;
 :<br />- uw eigen woning in Nederland (toekomstig of vroeger hoofdverblijf)<br />- de aandelen in een aanmerkelijk belang<br />- voordeel uit sparen en beleggen<br />- uitgaven voor tijdelijk verblijf thuis van een gehandicapte<br />- aftrek partneralimentatie<br /><br />U vult het deel in dat u aan uzelf toedeelt, uw partner het andere deel.
 <\/li><\/ul>U mag ook zorgkosten invullen voor de volgende personen als zij niet in staat waren de kosten zelf te betalen:<br /><ul class="bullet-list"><li>uw kinderen jonger dan 27 jaar<\/li><li>ernstig gehandicapte personen van 27 jaar of ouder met wie u in gezinsverband woont<\/li><li>ouders, broers of zussen die bij u in huis wonen en afhankelijk zijn van uw zorg<\/li><\/ul>
- aan ons doorgeven&apos;?
- geldverstrekker of medegerechtigde in een onderneming?
- ondernemer voor de inkomstenbelasting?
-&nbsp;geldverstrekker of medegerechtigde in een onderneming?
-&nbsp;ondernemer voor de inkomstenbelasting?
-, kunt u belastingaftrek krijgen.<br /><br />Let op! Dit bedrag kan veranderen als u ergens anders in de aangifte uw gegevens aanpast.
-, kunt u belastingaftrek krijgen.<br /><br />Let op! Dit bedrag kan veranderen als u&nbsp;ergens anders in&nbsp;de aangifte uw gegevens aanpast.
-, kunt u belastingaftrek krijgen.<br /><br />Let op! Dit drempelbedrag kan veranderen als u elders in het formulier uw gegevens aanpast.
-, kunt u belastingaftrek krijgen.<br /><br />Let op! Dit drempelbedrag kan veranderen als u ergens anders in de aangifte uw gegevens aanpast.
-<\/li><\/ul>Voor periodieke giften geldt geen drempel.<br /><br />Let op! Deze drempelbedragen kunnen veranderen als u elders in het formulier uw gegevens aanpast.
-<\/li><\/ul>Voor periodieke giften geldt geen drempel.<br /><br />Let op!&nbsp;Deze drempelbedragen kunnen veranderen als u elders in het formulier uw gegevens aanpast.
-<\/li><li>bij andere giften: 
-_
 
-<span id="autocomplete-delimiter"><span id="autocomplete-searchtext">&nbsp;van de beleggingen
-<span id="autocomplete-delimiter"><span id="autocomplete-searchtext">&nbsp;van de schulden&nbsp;(niet op onroerende zaken in Nederland of uw hoofdverblijf)
-<span id="autocomplete-delimiter"><span id="autocomplete-searchtext">&nbsp;verhoogd als gevolg van deze investering?
-<span id="autocomplete-delimiter"><span id="autocomplete-searchtext">
-<span id="autocomplete-delimiter"><span id="autocomplete-searchtext"><span class="dummy">
-<span id="autocomplete-searchtext"><span class="dummy">&nbsp;door investering
-<span id="autocomplete-searchtext"><span class="dummy">&nbsp;door investering volgens de beschikking
-<span id="autocomplete-searchtext"><span class="dummy">?
-<br />
-? Het gaat om de periode dat u niet meer samen op 1 adres woonde.
-? Het gaat om de periode dat u niet meer samen op 1 adres woonden.
-? Het gaat om de periode dat u niet meer samen&nbsp;op 1 adres woonde.
-? Het gaat om de periode dat u niet meer samen&nbsp;op 1 adres woonden.
-? Het gaat om de periode dat zij niet meer samen op 1 adres woonde.
-? Het gaat om de periode dat zij niet meer samen op 1 adres woonden.
-? Het gaat om de periode dat zij niet meer samen&nbsp;op 1 adres woonde.
-? Het gaat om de periode dat zij niet meer samen&nbsp;op 1 adres woonden.
-\nzijn in de regel volgens het belastingverdrag belast in Nederland. Ingehouden\nbronbelasting kan tot een maximum van 15% worden verrekend. Kies hiervoor &#39;Nee&#39;.
-\nzijn in de regel volgens het belastingverdrag niet belast in Nederland. Ingehouden\nbronbelasting kan tot een maximum van 15% worden verrekend. Kies hiervoor &#39;Nee&#39;.
-<b>Maakte 
-<b>Maakte u reiskosten voor deze werkgever in de periode dat u in Nederland woonde \xE9n in de periode dat u in 
-<br />U betaalt in totaal 
-<br />Wil 
-<br/>voor buitenlandse belastingplichtigen
+
+Let op! Dit bedrag kan veranderen als u ergens anders in de aangifte uw gegevens aanpast.
+Let op! Dit bedrag kan veranderen als u&nbsp;ergens anders in&nbsp;de aangifte uw gegevens aanpast.
+Let op! Dit drempelbedrag kan veranderen als u elders in het formulier uw gegevens aanpast.
+Let op! Dit drempelbedrag kan veranderen als u ergens anders in de aangifte uw gegevens aanpast.
+Voor periodieke giften geldt geen drempel.<br /><br />Let op! Deze drempelbedragen kunnen veranderen als u elders in het formulier uw gegevens aanpast.
+Voor periodieke giften geldt geen drempel.<br /><br />Let op!&nbsp;Deze drempelbedragen kunnen veranderen als u elders in het formulier uw gegevens aanpast.
+<\/li><li>bij andere giften: 
+
+Het gaat om de periode dat u niet meer samen op 1 adres woonde.
+Het gaat om de periode dat u niet meer samen op 1 adres woonden.
+Het gaat om de periode dat u niet meer samen&nbsp;op 1 adres woonde.
+Het gaat om de periode dat u niet meer samen&nbsp;op 1 adres woonden.
+Het gaat om de periode dat zij niet meer samen op 1 adres woonde.
+Het gaat om de periode dat zij niet meer samen op 1 adres woonden.
+Het gaat om de periode dat zij niet meer samen&nbsp;op 1 adres woonde.
+Het gaat om de periode dat zij niet meer samen&nbsp;op 1 adres woonden.
+
+Ingehouden\nbronbelasting kan tot een maximum van 15% worden verrekend. Kies hiervoor &#39;Nee&#39;.
+Ingehouden\nbronbelasting kan tot een maximum van 15% worden verrekend. Kies hiervoor &#39;Nee&#39;.
+
 <h4>U hebt een nabestaandenmachtiging nodig<\/h4>U kunt nog geen gezamenlijke aangifte doen voor uzelf &eacute;n uw fiscale partner,&nbsp;omdat u geen nabestaandenmachtiging hebt. De nabestaandenmachtiging kunt u <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/na-een-overlijden/content/nabestaandenmachtiging-regelen-in-3-stappen" target="_blank">online aanvragen (opent nieuw venster)<\/a>.<br />Uw aangifte blijft bewaard als u op &#39;Afsluiten&#39; klikt.<p>&nbsp;
 <h4>Uw partner moet nu inloggen<\/h4><br /><span style="font-family: Arial; font-size: small;">Om samen aangifte te doen, moet uw partner nu inloggen op dit apparaat. <br /><span style="font-family: Arial; font-size: small;">Let op! Voor de extra controle van DigiD is wel de DigiD-app of sms-controle op de telefoon of tablet van uw partner nodig. Kan uw partner nu niet inloggen op dit apparaat, klik dan op &#39;Afsluiten&#39;. Uw aangifte blijft bewaard.
 <h4>Uw partner moet nu inloggen<\/h4><br />Om samen deze opgaaf werkelijk rendement in te dienen, moet uw partner nu zelf inloggen. U wordt automatisch uitgelogd. Daarna logt u nogmaals in om deze opgaaf verder in te vullen. Kan uw partner nu niet inloggen, klik dan op 'Afsluiten'.&nbsp;Deze opgaaf blijft bewaard als u op 'Afsluiten' klikt.
@@ -362,11 +331,10 @@ _
 <p dir=\"ltr\">Vul bij '(Bedrijfs)gebouwen in eigen gebruik waarop wordt afgeschreven waarvoor de bodemwaarde geldt' nog 'Kosten van aanschaf of voorbrenging' in.
 <p style="font-weight: 400;">Omdat u in&nbsp;2024 uit Nederland bent ge&euml;migreerd, kunt u bij de schulden op 31 december 2024 &euro; 0 invullen.
 <p style="font-weight: 400;">Verdeel de rendementsgrondslag (vermogen) tussen u en&nbsp;
-<p>Beantwoord de volgende vragen over het werk van 
-<p>Beantwoord de volgende vragen over uw werk in de onderneming <p>- 
-<p>Beantwoord de volgende vragen over uw werk in de onderneming 
+
 <p>Beantwoord de volgende vragen over uw werk in de ondernemingen: <p>- 
 <p>Beantwoord de volgende vragen over uw werk in de ondernemingen: 
+
 <p>De loonheffing mag niet meer zijn dan 49,50%. Pas de door u berekende loonheffing aan.
 <p>De periode dat u in Nederland woont, bent u in principe verzekerd voor de AOW/Anw in Nederland. Had u in de periode dat u in Nederland woonde alleen loon of pensioen uit een ander land, dan was u in dat andere land verzekerd. Controleer of uw antwoord op deze vraag klopt.
 <p>De periode dat u in Nederland woont, bent u in principe verzekerd voor de Wlz/Zvw in Nederland. Had u in de periode dat u in Nederland woonde alleen loon of pensioen uit een ander land, dan was u in dat andere land verzekerd. Controleer of uw antwoord op deze vraag klopt.
@@ -414,19 +382,12 @@ _
 <p>Wij hebben de gegevens die al bij ons bekend zijn over 2023 alvast voor u ingevuld. Controleer of deze gegevens nog kloppen met uw situatie in 2025. U kunt deze gegevens eenvoudig aanpassen of verwijderen.
 <p>Wij hebben deze rekening vooraf ingevuld als bankrekening. Controleer of het hier inderdaad om een bankrekening gaat en niet om een rekening met beleggingen (aandelen, obligaties e.d.). Bij een bankrekening kiest u &lsquo;Ja&rsquo;, bij beleggingen &lsquo;Nee&rsquo;. Is deze rekening een bankrekening die is gekoppeld aan een beleggingsrekening, dan kiest u ook &lsquo;Ja&rsquo;.
 <p>Wij vullen de vooraf ingevulde gegevens uit uw aangifte over 2023 voor u in. Het kan zijn dat deze gegevens niet meer juist zijn. Controleer ze daarom goed.
-<p>Woonde 
-BDRGPERCBX3RENDKLASSE1SCHIJF1% van 
-BDRGPERCBX3RENDKLASSE2SCHIJF1% van 
-BDRGPERCBX3RENDKLASSE2SCHIJF2% van 
-BDRGPERCBX3RENDKLASSE2SCHIJF3% van 
-I18nConstantenBase.BDRGPERCBX3RENDKLASSE1SCHIJF2% van 
-<span id="autocomplete-searchtext"><span class="dummy">Woonde 
-Gebruikte 
+
 Gebruikte u andere zakelijke bezittingen dan onroerende zaken met een totale waarde van meer dan &euro; 2500?
 Gebruikte u andere zakelijke bezittingen met een totale waarde van meer dan &euro; 2500?
 Had u schulden met een totale waarde van meer dan \u20AC 2500 voor de aanschaf van deze onroerende zaken of zakelijke bezittingen?
 Waren dit (ook) inkomsten uit het beschikbaar stellen van onroerende zaken?
-&nbsp;Beleggingen in box 3
+
 (Niet-gebruikte) jaarruimte
 Saldo op 01-01-2025
 Saldo op 01-01-2024
@@ -436,6 +397,7 @@ Waarde op 01-01-2024
 Waarde op 01-01-2025
 Aantal dagen thuis
 Aanvragen of wijzigen voorlopige aanslag 2025
+
 Aftrekbaar bedrag periode 
 Aftrekbaar bedrag periode Nederland
 Aftrekbaar bedrag
@@ -455,15 +417,13 @@ Belast bedrag kapitaalverzekeringen
 Belastbaar deel van de uitkeringen uit een kapitaalverzekering
 Beleggingen in box 3
 Betaalde rente en financieringskosten 
+
 Box 1: werk en woning
 Box 2: aanmerkelijk belang
-Box 2: aanmerkelijk belang<br />
 Box 3: sparen en beleggen
-Box 3: sparen en beleggen<br />
+
 Deel van deze inkomsten waarover&nbsp;
 Deel van deze inkomsten waarover&nbsp;u in Nederland premie volksverzekeringen moet betalen
-Deel 
-Deel 
 Deel fiscale partner
 Deel partner voor premieheffing
 Door ons berekende loonheffing
@@ -481,7 +441,7 @@ Inkomsten van uw fiscale partner
 Inkomstenbelasting box 1
 Inkomstenbelasting box 2
 Inkomstenbelasting box 3
-Jaarruimte <br />
+Jaarruimte
 Kortingsfactor
 Let op! U hebt uw aangifte nog niet helemaal ingevuld. In deze berekening zijn dus nog niet alle gegevens verwerkt.
 Meer te betalen
