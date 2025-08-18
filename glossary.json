@@ -4,17 +4,22 @@
   "loonheffing": "Payroll Withholding Tax",
   "inkomstenbelasting": "Personal Income Tax",
   "btw": "VAT",
-  "eigen_woning": "Owner-occupied home"
-  "kleinschaligheidsinvesteringsaftrek": "small-scale investment credit"
-  "vennootschap onder firma": "general partnership"
-  "maatschap": "professional partnership"
-  "commanditaire vennootschap": "limited partnership"
-  "jaarruimte": "annual pension allowance"
-  "Uniform pensioenoverzicht(en)": "Uniform Pension Statement (“Uniform Pensioenoverzicht”)"
-  "meewerkaftrek": "co-working partner tax relief"
-  "stakingsaftrek": "business discontinuation tax relief"
-  "zelfstandigenaftrek": "private business ownership allowance"
-  "startersaftrek": "tax relief for new businesses"
+  "eigen_woning": "Owner-occupied home",
+  "kleinschaligheidsinvesteringsaftrek": "small-scale investment credit",
+  "vennootschap onder firma": "general partnership",
+  "maatschap": "professional partnership",
+  "commanditaire vennootschap": "limited partnership",
+  "jaarruimte": "annual pension allowance",
+  "Uniform pensioenoverzicht(en)": "Uniform Pension Statement (“Uniform Pensioenoverzicht”)",
+  "meewerkaftrek": "co-working partner tax relief",
+  "stakingsaftrek": "business discontinuation tax relief",
+  "zelfstandigenaftrek": "private business ownership allowance",
+  "startersaftrek": "tax relief for new businesses",
+  "winst uit onderneming": "self-employment income (business profit)",
+  "aanmerkelijk belang": "substantial shareholding (shareholdings of 5% or more)",
+  "onroerende zaak": "real estate",
+  "onroerende zaken buiten Nederland": "Real estate situated outside the Netherlands",
+  "fictieve vervreemding": "deemed sale (treated as if you sold the asset)"
 }
 
 U hebt deze gegevens nog niet ingevuld
