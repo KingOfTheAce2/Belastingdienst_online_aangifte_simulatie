@@ -144,7 +144,7 @@
   "Was in die periode sprake van een 'geruisloze terugkeer uit een bv'?": "During that period, was there a 'tax-neutral return' from a Besloten Vennootschap?",
   "Was u aan de huurder gelieerd?": "Were you related to or affiliated with the tenant?",
   "Was u geldverstrekker of medegerechtigde in een onderneming?": "Were you a lender or did you have a co-entitlement to the net worth of an enterprise?",
-  "Was u heel 2024, of een deel daarvan, in Nederland verplicht verzekerd voor de volksverzekeringen (AOW, Anw en Wlz)?": "Were you compulsorily insured in the Netherlands under the national insurance schemes AOW (National Old Age Pensions Act), Anw (Surviving Dependants Act), or Wlz (Long-term Care Act) for all of 2024 or part of it?",
+  "Was u heel 2024, of een deel daarvan, in Nederland verplicht verzekerd voor de volksverzekeringen (AOW, Anw en Wlz)?": "Were you compulsorily insured in the Netherlands under the social security schemes AOW (National Old Age Pensions Act), Anw (Surviving Dependants Act), or Wlz (Long-term Care Act) for all of 2024 or part of it?",
   "Was u in 2023 fiscale partners?": "Were you tax partners in 2023?",
   "Was u in 2023 kwalificerend buitenlands belastingplichtig?": "In 2023, were you a qualifying non-resident taxpayer in the Netherlands?",
   "Was u in 2023 kwalificerend buitenlands belastingplichtige?": "In 2023, were you a qualifying non-resident taxpayer in the Netherlands?",
@@ -198,7 +198,7 @@
   "U kunt hierna geen ondernemingen meer toevoegen.": "From this point on, you can no longer add businesses.",
   "U kunt hierna geen partneralimentatie meer toevoegen.": "From this point on, you can no longer add spousal maintenance.",
   "U kunt hierna geen personen meer toevoegen voor wie u dieetkosten hebt gemaakt.": "From this point on, you can no longer add persons for whom you claimed dietary expenses.",
-  "U kunt hierna geen schip meer toevoegen.": "From this point on, you can no longer add a ship."
+  "U kunt hierna geen schip meer toevoegen.": "From this point on, you can no longer add a boat or a ship."
   "U kunt per persoon maar maximaal 3 ondernemingen invoeren. Hebt u meer dan 3 ondernemingen? Dan kunt u geen aangifte doen met de online aangifte.": "You can enter a maximum of 3 businesses per person. Do you have more than 3 businesses? Then you cannot file your tax return online.",
   "U kunt samen aangifte doen. De meeste fiscale partners kiezen daarvoor. Dit bespaart tijd en de kans op fouten is kleiner. Uw partner moet dan zelf inloggen.": "You can file a joint tax return. Most tax partners choose this option. It saves time and reduces the risk of errors. Your partner must then log in separately.",
   "U mag deze uitgaven invullen bij 'Deel periode Nederland'.": "You may enter these expenses under 'Part-year Netherlands'.",
@@ -317,7 +317,7 @@
   "De loonheffing mag niet meer zijn dan 49,50%. Pas de door u berekende loonheffing aan.": "Payroll withholding tax may not exceed 49.50%. Adjust the payroll withholding tax you calculated.",
   "De periode dat u in Nederland woont, bent u in principe verzekerd voor de AOW/Anw in Nederland. Had u in de periode dat u in Nederland woonde alleen loon of pensioen uit een ander land, dan was u in dat andere land verzekerd. Controleer of uw antwoord op deze vraag klopt.": "For the period you live in the Netherlands, you are in principle insured under the National Old Age Pensions Act (AOW) and the Surviving Dependants Act (Anw) in the Netherlands. If during this period you only had wages or a pension from another country, then you were insured in that other country. Check whether your answer to this question is correct.",
   "De periode dat u in Nederland woont, bent u in principe verzekerd voor de Wlz/Zvw in Nederland. Had u in de periode dat u in Nederland woonde alleen loon of pensioen uit een ander land, dan was u in dat andere land verzekerd. Controleer of uw antwoord op deze vraag klopt.": "For the period you live in the Netherlands, you are in principle insured under the Long-term Care Act (Wlz) and the Health Insurance Act (Zvw) in the Netherlands. If during this period you only had wages or a pension from another country, then you were insured in that other country. Check whether your answer to this question is correct.",
-  "Dit bedrag heeft geen invloed op de hoogte van uw belastbaar inkomen voor de inkomstenbelasting, maar wel op de hoogte van uw premie-inkomen voor de premie volksverzekeringen. U mag het totaalbedrag van u en uw partner in de buitenlandse periode verdelen tussen u en uw partner in het scherm 'Verdelen' verderop in de aangifte.": "This amount does not affect the amount of your taxable income for personal income tax, but it does affect the amount of your contribution income for national insurance contributions. You may divide the total amount for you and your partner for the foreign period between you and your partner in the 'Divide' screen later in the tax return."
+  "Dit bedrag heeft geen invloed op de hoogte van uw belastbaar inkomen voor de inkomstenbelasting, maar wel op de hoogte van uw premie-inkomen voor de premie volksverzekeringen. U mag het totaalbedrag van u en uw partner in de buitenlandse periode verdelen tussen u en uw partner in het scherm 'Verdelen' verderop in de aangifte.": "This amount does not affect the amount of your taxable income for personal income tax, but it does affect the amount of your contribution income for social security contributions. You may divide the total amount for you and your partner for the foreign period between you and your partner in the 'Divide' screen later in the tax return."
   "In deze aangifte kunt u niet uw werkelijk rendement over 2024 aangeven. In de loop van 2026 krijgt u een brief hoe u dit kunt doen. De aangifte die u nu doet, moet u nog wel invullen en opsturen. Kijk op belastingdienst.nl/box3 (opent nieuw venster) voor meer informatie.": "In this tax return you cannot yet report your actual return for 2024. In the course of 2026 you will receive a letter explaining how to do this. You still need to complete and submit this tax return now. See belastingdienst.nl/box3 (opens in a new browser tab) for more information.",
   "Kapitaalverzekeringen zoals: kapitaalverzekeringen eigen woning; uitvaart- en overlijdensrisicoverzekeringen; kapitaalverzekeringen brede herwaardering, afgesloten vóór 2001": "Capital-based insurance policies such as: capital-based insurance policies for an owner-occupied home; funeral and term life insurance policies; capital-based insurance policies under the Brede Herwaardering scheme, taken out before 2001",
   "Kies 'Ja' als u in 2023 kwalificerend buitenlands belastingplichtige was. U hoeft dan geen inkomensverklaring te sturen. Kies ook 'Ja' als u de inkomensverklaring over 2024 al naar ons hebt opgestuurd of dit nog gaat doen.": "Choose 'Yes' if in 2023 you were a qualifying non-resident taxpayer. You will then not need to send an income statement. Also choose 'Yes' if you have already sent us the income statement for 2024 or will still do so.",
@@ -334,359 +334,65 @@
   "Wij vullen de vooraf ingevulde gegevens uit uw aangifte over 2023 voor u in. Het kan zijn dat deze gegevens niet meer juist zijn. Controleer ze daarom goed.": "We will pre-fill the details from your 2023 tax return for you. These details may no longer be correct, so check them carefully.",
   "Vul alleen het deel van de kosten in waarvoor u geen vergoeding kreeg. Hebt u dieetkosten? Dan vult u het dieet en de eventuele vergoeding apart in.": "Only enter the part of the expenses for which you did not receive reimbursement. Do you have diet-related expenses? Then enter the diet and any reimbursement separately.",
   "Wij hebben de gegevens die al bij ons bekend zijn over 2023 alvast voor u ingevuld. Controleer of deze gegevens nog kloppen met uw situatie in 2025. U kunt deze gegevens eenvoudig aanpassen of verwijderen.": "We have pre-filled the details already known to us for 2023. Check whether these details still match your situation in 2025. You can easily adjust or delete them."
+  "U bent allebei kwalificerend buitenlands belastingplichtig. Als u de inkomensverklaringen nog gaat sturen, stuur dit dan bij voorkeur tegelijk met deze aangifte. Mocht dit niet lukken, verstuur dan toch alvast deze aangifte. Stuur de inkomensverklaringen na het doen van aangifte alsnog op. Download het formulier van Belastingdienst.nl/inkomensverklaringbuitenland (opent nieuw venster).": "You are both qualifying non-resident taxpayers. If you are still going to send the income statements, preferably send them together with this tax return. If this is not possible, submit this tax return anyway. Send the income statements after submitting the tax return. Download the form from Belastingdienst.nl/inkomensverklaringbuitenland (opens in a new browser tab).",
+  "U bent allebei kwalificerend buitenlands belastingplichtig.": "You are both qualifying non-resident taxpayers.",
+  "U bent kwalificerend buitenlands belastingplichtig. Als u de inkomensverklaring nog gaat sturen, stuur dit dan bij voorkeur tegelijk met deze aangifte. Mocht dit niet lukken, verstuur dan toch alvast deze aangifte. Stuur de inkomensverklaring na het doen van aangifte alsnog op. Download het formulier van Belastingdienst.nl/inkomensverklaringbuitenland (opent nieuw venster).": "You are a qualifying non-resident taxpayer. If you are still going to send the income statement, preferably send it together with this tax return. If this is not possible, submit this tax return anyway. Send the income statement after submitting the tax return. Download the form from Belastingdienst.nl/inkomensverklaringbuitenland (opens in a new browser tab).",
+  "U bent kwalificerend buitenlands belastingplichtig.": "You are a qualifying non-resident taxpayer.",
+  "U bent niet belasting- of premieplichtig in Nederland. Vermeld dit in een brief naar: Belastingdienst/kantoor Buitenland, postbus 2590, 6401 DB Heerlen. Dan hoeft u volgend jaar geen aangifte meer te doen. U moet deze aangifte nog wel invullen en versturen. Beantwoord alle vragen met 'Nee', accordeer alle schermen en verzend deze aangifte.": "You are not liable for tax or social security contributions in the Netherlands. State this in a letter to: Belastingdienst/kantoor Buitenland, PO Box 2590, 6401 DB Heerlen. Then you will not need to file a tax return next year. You must still complete and submit this tax return. Answer all questions with 'No', approve all screens and submit the return.",
+  "U hebt 'Ja' gekozen. U kunt deze keuze niet meer wijzigen. Kloppen de vooraf ingevulde gegevens niet meer met uw situatie in 2025? De meeste gegevens kunt u eenvoudig aanpassen of verwijderen. Wilt u dit formulier toch zonder vooraf ingevulde gegevens invullen? Sluit dan dit formulier en open op Mijn Belastingdienst een nieuw formulier.": "You have chosen 'Yes'. You can no longer change this choice. Do the pre-filled details no longer match your situation in 2025? Most details can be easily adjusted or removed. Do you still want to complete this form without pre-filled details? Then close this form and open a new one in Mijn Belastingdienst.",
+  "U hebt 'Nee' gekozen. U kunt deze keuze niet meer wijzigen. Wilt u toch de vooraf ingevulde gegevens uit 2023 gebruiken? Sluit dan dit formulier en open op Mijn Belastingdienst een nieuw formulier.": "You have chosen 'No'. You can no longer change this choice. Do you still want to use the pre-filled details from 2023? Then close this form and open a new one in Mijn Belastingdienst.",
+  "U hebt eerder aangegeven dat u nog een echtgenoot of huisgenoot had. Kies 'Ja' of klik op 'Verwijderen' bij 'Echtgenoot/huisgenoot: geen'.": "You previously indicated that you still had a spouse or housemate. Choose 'Yes' or click 'Remove' at 'Spouse/housemate: none'.",
+  "U hebt eerder aangegeven dat u nog een huisgenoot had. Kies 'Ja' of klik op 'Verwijderen' bij 'Echtgenoot/huisgenoot: geen'.": "You previously indicated that you still had a housemate. Choose 'Yes' or click 'Remove' at 'Spouse/housemate: none'.",
+  "U hebt nog niets ingevuld. Klik op 'OK' als u dit onderwerp wilt overslaan. U kunt dan verdergaan met uw aangifte. Klik op 'Annuleren' als u de door uzelf berekende loonheffing wilt invullen.": "You have not entered anything yet. Click 'OK' if you want to skip this topic. You can then continue with your tax return. Click 'Cancel' if you want to enter the payroll tax you calculated yourself.",
+  "U hebt op dit scherm gegevens gewijzigd waardoor u de aangifte opnieuw moet invullen. Wilt u doorgaan?": "You have changed details on this screen which means you must complete the tax return again. Do you want to continue?",
+  "U hebt op dit scherm gegevens gewijzigd waardoor u dit formulier opnieuw moet invullen. Wilt u doorgaan?": "You have changed details on this screen which means you must complete this form again. Do you want to continue?",
+  "U mag alleen premies voor een arbeidsongeschiktheidsverzekering aftrekken die u zelf hebt afgesloten en betaalde. Staat op uw maandelijkse salarisspecificatie dat de premie op uw brutoloon werd ingehouden? Bijvoorbeeld omdat uw werkgever een (collectieve) arbeidsongeschiktheidsverzekering voor u afgesloten heeft? Dan mag u de premie niet aftrekken.": "You may only deduct premiums for a disability insurance policy that you arranged and paid for yourself. Does your monthly payslip show that the premium was deducted from your gross salary, for example because your employer arranged a (collective) disability insurance policy for you? Then you may not deduct the premium.",
+  "U stopt met het overnemen van uw klaargezette gegevens. De boekhoudgegevens worden verwijderd uit de aangifte. Gegevens die u zelf in de aangifte hebt ingevuld, blijven bewaard. Weet u zeker dat u wilt stoppen?": "You are stopping the transfer of your prepared details. The accounting data will be deleted from the tax return. Details you entered yourself in the tax return will be saved. Are you sure you want to stop?",
+  "U ziet de gegevens van uw uit- en thuiswonende kinderen. Hebt u nog meer kinderen?": "You see the details of your children living at home and away from home. Do you have more children?",
+  "Voor de inkomstenbelasting bent u alleen fiscale partners in de periode dat u in Nederland woonde. U mag voor de binnenlandse periode de volgende bedragen verdelen. Deze verdeling heeft alleen invloed op de hoogte van uw belastbaar inkomen voor de inkomstenbelasting.": "For Personal Income Tax purposes, you are only tax partners during the period that you lived in the Netherlands. You may divide the following amounts for the domestic period. This division only affects the amount of your taxable income for Personal Income Tax.",
+  "Voor de premie volksverzekeringen bent u fiscale partners in de periode dat u in Nederland woonde en in de periode dat u buiten Nederland woonde. U mag voor de buitenlandse periode de volgende bedragen verdelen. Deze verdeling heeft alleen invloed op de hoogte van uw premie-inkomen voor de premie volksverzekeringen.": "For social security contributions, you are tax partners during the period that you lived in the Netherlands and the period that you lived abroad. You may divide the following amounts for the foreign period. This division only affects the amount of your contribution income for social security contributions.",
+  "Wij hebben deze rekening vooraf ingevuld als bankrekening. Controleer of het hier inderdaad om een bankrekening gaat en niet om een rekening met beleggingen (aandelen, obligaties e.d.). Bij een bankrekening kiest u 'Ja', bij beleggingen 'Nee'. Is deze rekening een bankrekening die is gekoppeld aan een beleggingsrekening, dan kiest u ook 'Ja'.": "We have pre-filled this account as a bank account. Check whether this really is a bank account and not an account with investments (shares, bonds, etc.). For a bank account, choose 'Yes', for investments 'No'. If this account is a bank account linked to an investment account, then also choose 'Yes'."
+
 }
+
 
 "": ""
 
 
-
-<p>U bent allebei kwalificerend buitenlands belastingplichtig. Als u de inkomensverklaringen nog gaat sturen, stuur dit dan bij voorkeur tegelijk met deze aangifte.<br /><br />Mocht dit niet lukken, verstuur dan toch alvast deze aangifte. Stuur de inkomensverklaringen na het doen van aangifte alsnog op.<br /><br />Download het formulier van <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/buitenland/content/inkomensverklaring-aangifte-inkomstenbelasting-buitenlandse-belastingplichtigen" target="_blank">Belastingdienst.nl/inkomensverklaringbuitenland (opent nieuw venster)<\/a>.
-<p>U bent allebei kwalificerend buitenlands belastingplichtig.
-<p>U bent kwalificerend buitenlands belastingplichtig. Als u de inkomensverklaring nog gaat sturen, stuur dit dan bij voorkeur tegelijk met deze aangifte.<br /><br />Mocht dit niet lukken, verstuur dan toch alvast deze aangifte. Stuur de inkomensverklaring na het doen van aangifte alsnog op.<br /><br />Download het formulier van <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/buitenland/content/inkomensverklaring-aangifte-inkomstenbelasting-buitenlandse-belastingplichtigen" target="_blank">Belastingdienst.nl/inkomensverklaringbuitenland (opent nieuw venster)<\/a>.
-<p>U bent kwalificerend buitenlands belastingplichtig.
-<p>U bent niet belasting- of premieplichtig in Nederland.&nbsp; <br /><br /> Vermeld dit in een brief naar: Belastingdienst/kantoor Buitenland, postbus 2590, 6401 DB Heerlen. Dan hoeft u volgend jaar geen aangifte meer te doen.<p>U moet deze aangifte nog wel invullen en versturen. Beantwoord alle vragen met &#39;Nee&#39;, accordeer alle schermen en verzend deze aangifte.
-<p>U bent niet belasting- of premieplichtig in Nederland.&nbsp;<br /><br />Vermeld dit in een brief naar: Belastingdienst/kantoor Buitenland, postbus 2590, 6401 DB Heerlen. Dan hoeft u volgend jaar geen aangifte meer te doen.<p>U moet deze aangifte nog wel invullen en versturen. Beantwoord alle vragen met &#39;Nee&#39;, accordeer alle schermen en verzend deze aangifte.
-<p>U hebt \'Ja\' gekozen. U kunt deze keuze niet meer wijzigen.<br /><br />Kloppen de vooraf ingevulde gegevens niet meer met uw situatie in 2025? De meeste gegevens kunt u eenvoudig aanpassen of verwijderen.<br /><br />Wilt u dit formulier toch zonder vooraf ingevulde gegevens invullen? Sluit dan dit formulier en open op Mijn Belastingdienst een nieuw formulier.
-<p>U hebt \'Nee\' gekozen. U kunt deze keuze niet meer wijzigen.<br /><br />Wilt u toch de vooraf ingevulde gegevens uit 2023 gebruiken? Sluit dan dit formulier en open op Mijn Belastingdienst een nieuw formulier.
-<p>U hebt eerder aangegeven dat u nog een echtgenoot of huisgenoot had. <br />Kies &#39;Ja&#39; of klik op &#39;Verwijderen&#39; bij &#39;Echtgenoot/huisgenoot: geen&#39;.
-<p>U hebt eerder aangegeven dat u nog een huisgenoot had. <br />Kies &#39;Ja&#39; of klik op &#39;Verwijderen&#39; bij &#39;Echtgenoot/huisgenoot: geen&#39;.
-<p>U hebt nog niets ingevuld.<br /><br />Klik op &lsquo;OK&rsquo; als u dit onderwerp wilt overslaan. U kunt dan verdergaan met uw aangifte.<br />Klik op &lsquo;Annuleren&rsquo; als u de door uzelf berekende loonheffing wilt invullen.
-<p>U hebt op dit scherm gegevens gewijzigd waardoor u de aangifte opnieuw moet invullen. Wilt u doorgaan?
-<p>U hebt op dit scherm gegevens gewijzigd waardoor u dit formulier opnieuw moet invullen. Wilt u doorgaan?
-<p>U mag alleen premies voor een arbeidsongeschiktheidsverzekering aftrekken die u zelf hebt afgesloten en betaalde.<br /><br />Staat op uw maandelijkse salarisspecificatie dat de premie op uw brutoloon werd ingehouden? Bijvoorbeeld omdat uw werkgever een (collectieve) arbeidsongeschiktheidsverzekering voor u afgesloten heeft? Dan mag u de premie niet aftrekken.
-<p>U stopt met het overnemen van uw klaargezette gegevens. De boekhoudgegevens worden verwijderd uit de aangifte. Gegevens die u zelf in de aangifte hebt ingevuld, blijven bewaard.<br /><br />Weet u zeker dat u wilt stoppen?
-<p>U voldoet aan de voorwaarden voor kwalificerende buitenlandse belastingplicht, maar&nbsp;
-<p>U ziet de gegevens van uw uit- en thuiswonende kinderen. <br /><br />Hebt u nog meer kinderen? Vermeld dan ook:<ul class="bullet-list"><li>de&nbsp;thuiswonende kinderen&nbsp;van u en 
-<p>U ziet de gegevens van uw uit- en thuiswonende kinderen. <br /><br />Hebt u nog meer kinderen? Vermeld dan ook:<ul class="bullet-list"><li>uw thuiswonende kinderen geboren na 2005<\/li><li>uitwonende kinderen&nbsp;geboren na 2005 van u en 
-<p>U ziet de gegevens van uw uit- en thuiswonende kinderen. <br /><br />Hebt u nog meer kinderen? Vermeld dan ook:<ul class="bullet-list"><li>uw thuiswonende kinderen geboren na 2005<\/li><li>uitwonende kinderen&nbsp;geboren na 2005 van u<\/li><\/ul>
-<p>U ziet de gegevens van uw uit- en thuiswonende kinderen. <br /><br />Hebt u nog meer kinderen? Vermeld dan ook:<ul class="bullet-list"><li>uw thuiswonende kinderen geboren na 2006<\/li><li>uitwonende kinderen&nbsp;geboren na 2006 van u en 
-<p>U ziet de gegevens van uw uit- en thuiswonende kinderen. <br /><br />Hebt u nog meer kinderen? Vermeld dan ook:<ul class="bullet-list"><li>uw thuiswonende kinderen geboren na 2006<\/li><li>uitwonende kinderen&nbsp;geboren na 2006 van u<\/li><\/ul>
-<p>Voor de inkomstenbelasting bent u alleen fiscale partners in de periode dat u in Nederland woonde. U mag voor de binnenlandse periode de volgende bedragen verdelen. Deze verdeling heeft alleen invloed op de hoogte van uw belastbaar inkomen voor de inkomstenbelasting.
-<p>Voor de premie volksverzekeringen bent u fiscale partners in de periode dat u in Nederland woonde en in de periode dat u buiten Nederland woonde. U mag voor de buitenlandse periode de volgende bedragen verdelen. Deze verdeling heeft alleen invloed op de hoogte van uw premie-inkomen voor de premie volksverzekeringen.
-<p>Wij hebben deze rekening vooraf ingevuld als bankrekening. Controleer of het hier inderdaad om een bankrekening gaat en niet om een rekening met beleggingen (aandelen, obligaties e.d.). Bij een bankrekening kiest u &lsquo;Ja&rsquo;, bij beleggingen &lsquo;Nee&rsquo;. Is deze rekening een bankrekening die is gekoppeld aan een beleggingsrekening, dan kiest u ook &lsquo;Ja&rsquo;.
-
-
-
-
-(Niet-gebruikte) jaarruimte
-Saldo op 01-01-2025
-Saldo op 01-01-2024
-Saldo op 01-01-2024
-Saldo op 01-01-2025
-Waarde op 01-01-2024
-Waarde op 01-01-2025
-Aantal dagen thuis
-Aanvragen of wijzigen voorlopige aanslag 2025
-
-Aftrekbaar bedrag periode 
-Aftrekbaar bedrag periode Nederland
-Aftrekbaar bedrag
-Aftrekbare giften
-Aftrekbare kosten
-Aftrekbare partneralimentatie
-Aftrekbare schulden
-Aftrekbare studiekosten 
-Aftrekbare studiekosten&nbsp;
-Aftrekbare studiekosten
-Aftrekbare uitgaven tijdelijk verblijf thuis gehandicapten
-Aftrekbare zorgkosten
-Al ingehouden belasting
-Bankrekeningen in box 3
-Bedrag pensioen of uitkering
-Belast bedrag kapitaalverzekeringen
-Belastbaar deel van de uitkeringen uit een kapitaalverzekering
-Beleggingen in box 3
-Betaalde rente en financieringskosten 
-
-Box 1: werk en woning
-Box 2: aanmerkelijk belang
-Box 3: sparen en beleggen
-
-Deel van deze inkomsten waarover&nbsp;
-Deel van deze inkomsten waarover&nbsp;u in Nederland premie volksverzekeringen moet betalen
-Deel fiscale partner
-Deel partner voor premieheffing
-Door ons berekende loonheffing
-Door u berekende loonheffing
-Eigenwoning-forfait
-Eigenwoningforfait
 Excessief priv&eacute;gebruik<br />In alle gevallen geldt dat u rekening moet houden met een hogere onttrekking priv&eacute;gebruik auto als wij kunnen aantonen dat de werkelijke kosten van het priv&eacute;gebruik hoger waren.
-Geboortedatum
-Geldverstrekker
-Gereden kilometers
-Grondslag 
-Grondslag rendementsberekening
-IBAN (rekeningnummer)
-Inkomsten van uw fiscale partner
-Inkomstenbelasting box 1
-Inkomstenbelasting box 2
-Inkomstenbelasting box 3
-Jaarruimte
-Kortingsfactor
 Let op! U hebt uw aangifte nog niet helemaal ingevuld. In deze berekening zijn dus nog niet alle gegevens verwerkt.
-Meer te betalen
-Meer terug te krijgen
-Naam van het schip<br />
-Niet-gebruikte jaarruimte <br />
-Niet-gebruikte jaarruimte
-Nieuw bedrag aanslag
-Omschrijving <br />
-Omschrijving
-Ondernemersaftrek
-Onroerende zaken in box 3
-Persoonsgebonden aftrek te verrekenen in box 2
-Persoonsgebonden aftrek te verrekenen in box 3
-Persoonsgebonden aftrek
-Persoonsgebonden aftrek<br />
-Postcode en huisnummer
-Priv&eacute;gebruik auto toevoegen
-Priv&eacute;gebruik woning toevoegen
-Saldo op 01-01-2024
-Saldo&nbsp;op 01-01-2024
-Saldo&nbsp;op 01-01-2025
-Soort inkomsten
-Soort inkomsten<br />
-Tarief<br />
-Te verrekenen heffingskortingen
-Terug te krijgen
-Totaal Nederlandse dividendbelasting
-Totaal aftrek lijfrente (betaald: 
-Totaal aftrek lijfrente voor de inkomstenbelasting (betaald: 
-Totaal aftrek lijfrente voor de&nbsp;premieheffing
-Totaal aftrekbare uitgaven eigen woning
-Totaal aftrekbare uitgaven restschuld eigen woning
-Totaal aftrekbare uitgaven voor inkomensvoorzieningen
-Totaal bezittingen
-Totaal bezittingen<br />
-Totaal box 1: werk en woning
-Totaal box 2: aanmerkelijk belang
-Totaal box 3: sparen en beleggen
-Totaal dividendbelasting
-Totaal eigen woning
-Totaal gezamenlijk werkelijk rendement over&nbsp;
-Totaal heffingskortingen
-Totaal inkomsten uit eigen woning
-Totaal inkomsten uit werk en woning
-Totaal inkomsten uit werk
-Totaal inkomstenbelasting en premie volksverzekeringen
-Totaal inkomstenbelasting
-Totaal loonheffing
-Totaal onttrekking priv&eacute;gebruik auto van de onderneming
-Totaal overige priv&eacute;onttrekkingen
-Totaal pensioen en andere uitkeringen
-Totaal persoonsgebonden aftrek
-Totaal priv&eacute;ontrekkingen in natura en in goederen
-Totaal te betalen
-Totaal terug te krijgen
-Totaal teruggekregen bedragen en vergoedingen
-Totaal voordeel uit aanmerkelijk belang
-Totaal werkelijk rendement over&nbsp;
-U hebt in het scherm &apos;Partner&apos; aangegeven dat 
-U hebt in het scherm &apos;Persoonlijke gegevens&apos; aangegeven dat u in de periode 
-U krijgt terug
-U moet betalen
-Uploaden gegevens niet gelukt<br /><br />Er is iets fout gegaan bij het uploaden van het winstdeel in uw aangifte inkomstenbelasting.<br /><br />Neem voor hulp bij module &lsquo;Automatische Winstaangifte&rsquo; contact op met de softwareleverancier van uw boekhoudsoftware.
-Uw deel: 80% van 
-Uw deel<br />
-Uw fiscale partner krijgt terug
-Uw fiscale partner moet betalen
-Uw gezamenlijke grondslag
-Uw grondslag
-Uw grondslag<br />
+Uploaden gegevens niet gelukt. Er is iets fout gegaan bij het uploaden van het winstdeel in uw aangifte inkomstenbelasting.<br /><br />Neem voor hulp bij module &lsquo;Automatische Winstaangifte&rsquo; contact op met de softwareleverancier van uw boekhoudsoftware.
 Uw partner moet inloggen<br />U kunt geen&nbsp;voorlopige aanslag aanvragen of wijzigen voor uw partner, omdat u volgens onze gegevens geen machtiging hebt. Alleen uw partner kan daarom zijn deel van de voorlopige aanslag aanvragen of wijzigen. Uw partner kan nu inloggen. U wordt dan uitgelogd. Als uw partner nu niet kan inloggen, kunt u niet verder met de voorlopige aanslag aanvragen of wijzigen.
 Uw partner moet nu inloggen<br />Om samen aangifte te doen, moet uw partner nu zelf inloggen. De gegevens van uw partner worden dan opgehaald. U wordt automatisch uitgelogd. Daarna logt u nogmaals in om de aangifte verder in te vullen. Kan uw partner nu niet inloggen, klik dan op &#39;Afsluiten&#39;. Uw aangifte blijft bewaard.
-Vermogen voor inkomensafhankelijke regelingen, zoals toeslagen
-Vermogen voor inkomensafhankelijke&nbsp;regelingen, zoals toeslagen
-Vermogensbestanddeel
-Verzamelinkomen
-Voordeel sparen en beleggen
-Voordeel uit sparen en beleggen
-Waarde bezittingen en schulden voor deze inkomsten
-Waarde op 01-01-2024
-Waarde op 01-01-2025
-Welke inkomsten hebben u en 
 Welke inkomsten hebt u in 2025?
-Werkgever of uitkeringsinstantie
-Wijziging ten opzichte van de laatste voorlopige aanslag inkomstenbelasting en premie volksverzekeringen
-Wijziging ten opzichte van de laatste voorlopige aanslag inkomstenbelasting
 <ul class="bullet-list"><li>Geef aan wie een voorlopige aanslag had.<\/li><\/ul>
 <ul class="bullet-list"><li>Kijk op <a href="http://www.belastingdienst.nl/aangifte" target="_blank">belastingdienst.nl/aangifte (opent nieuw venster)<\/a>.<\/li><li>Of neem <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/contact/contact" target="_blank">contact<\/a> met ons op. Wij helpen u graag verder.<\/li><\/ul>
 <ul class="bullet-list"><li>Kijk op <a href="https://www.belastingdienst.nl/voorlopige-aanslag" target="_blank">belastingdienst.nl/voorlopige-aanslag (opent nieuw venster)<\/a><\/li><li>Of neem <a href="https://www.belastingdienst.nl/contact" target="_blank">contact (opent nieuw venster)<\/a>&nbsp;met ons op. Wij helpen u graag verder.<\/li><\/ul>
 <ul class="bullet-list"><li>Klik op het vraagteken voor een toelichting bij die vraag.<\/li><li>Kijk op <a href="http://www.belastingdienst.nl/box3" target="_blank">belastingdienst.nl/box3&nbsp;(opent nieuw venster)<\/a>&nbsp;voor algemene informatie over box 3.<\/li><li><a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/welke-gegevens-doorgeven-werkelijk-rendement" target="_blank">Kijk welke gegevens u nodig hebt om het werkelijk rendement in te vullen (opent nieuw venster)<\/a>.<\/li><li>Neem <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/contact/content/belastingdienst-bellen" target="_blank">contact op via de BelastingTelefoon (opent nieuw venster)<\/a>.<\/li><\/ul>
-<ul class="bullet-list"><li>Visit&nbsp;<a href="http://www.belastingdienst.nl/aangifte" target="_blank">belastingdienst.nl/aangifte (opens a new window)<\/a>.<\/li><li>Or <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/contact/contact" target="_blank">contact<\/a> us. We will gladly help you.<\/li><\/ul>
-A PotentialElement cannot be resolved twice.
-A request timeout has expired after
-AOW, pensioen en andere uitkeringen
-AOW, pensioen en andere uitkeringen in Nederland
-Aandeel van 
-Aangepast loonheffingsbedrag per pensioen of uitkering
-Aangepaste huurwaarde in de binnenlandse periode op jaarbasis
-Aangepaste huurwaarde in de buitenlandse periode op jaarbasis
-Aangepaste huurwaarde op jaarbasis
-Aangifte inkomstenbelasting 2024
-Aangifte inkomstenbelasting 2024 bij emigratie of immigratie
-Aangifte inkomstenbelasting 2024 voor buitenlandse belastingplichtigen
-Aangifte voor binnenlandse belastingplichtigen
-Aangifte voor buitenlandse belastingplichtigen
-Aankoopprijs van de gekochte woning, inclusief aankoopkosten
-Aankopen en stortingen in&nbsp;
-Aanmerkelijk belang (minimaal 5&#37; van de aandelen, opties en winstbewijzen in een bv of nv)
-Aanmerkelijk belang (minimaal 5&#37; van de aandelen, opties en winstbewijzen in een bv of nv)
-Aanmerkelijk belang in Nederland
-Aanmerkelijk belang in: 
-Aanmerkelijk belang&nbsp;in Nederland (minimaal 5&#37; van de aandelen, opties en winstbewijzen in een bv of nv)
-Aanmerkelijk belang: 
-Aantal auto&#39;s van de onderneming waarmee 
-Aantal auto&#39;s van de onderneming waarmee u of 
-Aantal auto&#39;s van de onderneming waarmee u priv&eacute; hebt gereden
-Aantal auto&#39;s van de onderneming waarmee u priv&eacute; heeft gereden
-Aantal dagen dat 
-Aantal dagen dat u verzekerd was voor de volksverzekeringen
-Aantal dagen eigen gebruik in de binnenlandse periode
-Aantal dagen eigen gebruik in de buitenlandse periode
-Aantal dagen in 2024
-Aantal dagen in 2025
-Aantal uur dat 
-Aantal uur dat u hebt meegewerkt in deze onderneming(en)
-Aantal uur dat uw partner heeft meegewerkt in deze onderneming
-Aanvraag Nationale Hypotheekgarantie
-Aanvragen uitspraak Belastingdienst
-Aanvragen uitspraak van de Belastingdienst
-Add not supported on this collection
-Add not supported on this list
-Adjust settings to screen reader
-Adjusting settings to screen reader
-Af: vrijstelling (12% van 
-Af: vrijstelling (12 % van &euro; 
-Afboeking herinvesteringsreserve op gekochte activa
-Afgezonderd particulier vermogen
-Afgezonderd particulier vermogen (APV)
-Afkoopsommen partneralimentatie
-Afkoopsommen partneralimentatie&nbsp;in de Nederlandse periode
-Afname van opgebouwde oudedagsreserve in 
-Afschrijving op uitgaven v&oacute;&oacute;r 2014 voor een rolstoel, scootmobiel of woningaanpassing
-Afschrijvings&amp;shy;percentage
-Aftrek geen of een kleine eigenwoningschuld
-Aftrek geen of een kleine eigenwoningschuld: 80% van 
-Aftrek geen of geringe eigenwoningschuld
-Aftrek in 2024
-Aftrek om dubbele belasting over buitenlandse winst te voorkomen
-Aftrek om dubbele belasting te voorkomen
-Aftrek om dubbele belasting te voorkomen in&nbsp;2024 en aftrek over buitenlandse inkomsten uit vorige jaren
-Aftrek tijdelijk verblijf thuis gehandicapten
-Aftrek vanwege geen of een kleine eigenwoningschuld
-Aftrek vanwege geen of kleine eigenwoningschuld
-Aftrek voor speur- en ontwikkelingswerk
-Aftrek voorkoming dubbele belasting
-Aftrekbare financieringskosten
-Aftrekbare financieringskosten van de restschuld
-Aftrekbare giften van 
-Aftrekbare kosten bij tijdelijke verhuur van het hoofdverblijf
-Aftrekbare kosten voor reguliere voordelen
 Aftrekbare lijfrentepremies voor ondernemers door een afname van de oudedagsreserve. Deze valt niet onder de stakingswinst.
 Aftrekbare lijfrentepremies voor ondernemers door een afname van de oudedagsreserve. Specifiek bij staking van een onderneming.
 Aftrekbare lijfrentepremies voor ondernemers door het omzetten van stakingswinst. Het gaat hier niet om de afname van de oudedagsreserve.
-Aftrekbare lijfrentepremies voor ondernemers vanwege een afname van de oudedagsreserve bij staking
-Aftrekbare lijfrentepremies voor ondernemers vanwege een afname van de oudedagsreserve die niet valt onder de stakingswinst
-Aftrekbare premies in verband met afname oudedagsreserve of stakingswinst, betaald in 2025, maar v&oacute;&oacute;r 1 juli 2025
-Aftrekbare premies lijfrente voor een meerderjarig invalide (klein)kind
-Aftrekbare premies voor een arbeidsongeschiktheidsverzekering
-Aftrekbare rente van de restschuld 
-Aftrekbare rente van de restschuld 
-Aftrekbare rente van schuld 
-Aftrekbare rente van schuld 
-Aftrekbare rente voor de eigen woning
-Aftrekbare studiekosten 
-Aftrekbare studiekosten&nbsp;
-Aftrekbare studiekosten&nbsp;
-Aftrekbare uitgaven eigen woning
-Aftrekbare uitgaven restschuld eigen woning
-Aftrekbare uitgaven van 
-Aftrekbare uitgaven van v&oacute;&oacute;r 2025
-Aftrekbare uitgaven van v&oacute;&oacute;r 2024
-Aftrekbare uitgaven van v&oacute;&oacute;r 2025
-Aftrekbare uitgaven van v\xF3\xF3r 2024
-Aftrekbare uitgaven van v\xF3\xF3r 2025
-Aftrekbare uitgaven vanwege het omzetten van een oudedagsreserve of stakingswinst in lijfrente
-Aftrekbare zorgkosten van  
-Afwijkend premie inkomen Aangever
-Afwijkend premie inkomen Partner
-Afwijking Landelijke Landbouwnormen toevoegen
 Als deze hypotheek in feite (voor een deel) een voortzetting was van een vorige hypotheek, begint de termijn van 360 maanden te lopen op de afsluitdatum van die vorige hypotheek.
 Als het (tijdelijke)&nbsp;arbeidscontract al was afgelopen v&oacute;&oacute;r 1 januari 2024, vul dan het bedrag in van de uitkering zelf.
-Als u het fictief rendement over
-Als u het gezamenlijk fictief rendement over 
-Als u in de periode dat u in 
 Als u inkomsten als actief militair of als militair met buitengewoon verlof had, beantwoord dan de vragen 'Was u in <span class=\"nowrap\">2024 in Nederland verplicht verzekerd voor AOW en de Anw?' en 'Was u in <span class=\"nowrap\">2024 in Nederland&nbsp;verplicht verzekerd voor de Wlz en de Zvw?' met 'Ja'.
-Als u nog geen aanslag hebt over
-Als u wilt, kunnen wij het gezamenlijk fictief rendement ook voor u berekenen. Hiervoor hebben wij enkele gegevens nodig over 
-Als uw inkomsten geen inkomsten uit een onderneming waren, dan waren&nbsp;het mogelijk <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/werk-en-inkomen/content/wat-zijn-inkomsten-uit-overig-werk" target="_blank">inkomsten uit overig werk&nbsp;(opent nieuw venster)<\/a>.&nbsp;In dat geval kiest u in het scherm &lsquo;Inkomsten&rsquo; voor &lsquo;Inkomsten uit overig werk&rsquo;.
+Als u wilt, kunnen wij het gezamenlijk fictief rendement ook voor u berekenen.
 Als uw partner in het buitenland werkt, vul dan alleen het in Nederland belaste deel van het verzamelinkomen in.
 Als uw partner in het buitenland werkt, vul dan alleen het in Nederland belaste&nbsp;deel van het verzamelinkomen in.
-Ander gebouw (zoals bedrijfspand)
-Andere agrarische materi&euml;le vaste activa
-Andere inkomsten bij deze werkgever waarop geen loonheffing wordt ingehouden, zoals fooien
-Andere inkomsten bij deze werkgever waarover geen loonheffing wordt ingehouden, zoals fooien
-Andere onderhoudsverplichtingen
-Andere onderhoudsverplichtingen, zoals pensioenbetalingen aan vroeger huispersoneel
-Arbeidsbeloning aan fiscale partner die geen (mede)eigenaar was van de onderneming
-Arbeidsongeschiktheidsverzekering toevoegen
-Asked to return to the same place:
-AuthenticatieInfo{ingelogdeGebruiker=
-Avoid having to pay with your final assessment. You can do this, for example, by not underestimating your income in this form and not overestimating your deductions, such as mortgage interest.
+Als uw inkomsten geen inkomsten uit een onderneming waren, dan waren&nbsp;het mogelijk <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/werk-en-inkomen/content/wat-zijn-inkomsten-uit-overig-werk" target="_blank">inkomsten uit overig werk&nbsp;(opent nieuw venster)<\/a>.&nbsp;In dat geval kiest u in het scherm &lsquo;Inkomsten&rsquo; voor &lsquo;Inkomsten uit overig werk&rsquo;.
 BECON '{label}' niet herkend. Gebruik exact 6 cijfers.
-Balans: passiva 
-Bank of andere geldverstrekker
-Bank of verzekeringsmaatschappij
-Bank- en spaarrekeningen 
-Bank- en spaarrekeningen in de periode dat u in 
-Bank- en spaarrekeningen op 1 januari 2025
-Bank- en spaarrekeningen op 1 januari&nbsp;2024
-Bankrekening: 
-Bankrekening: 
-Bankrekeningen en andere bezittingen
-Be&euml;indigt 
-Be&euml;indigt u 1 of meer ondernemingen in 2025?
+
 Be&euml;indigt u de kapitaal&shy;verzekering op een moment dat u geen eigen woning meer hebt?
 Be&euml;indigt u de kapitaal&shy;verzekering op een moment dat u geen eigen woning meer heeft?
-Be&euml;indigt u de kapitaal&shy;verzekering op een moment dat u of 
-Be&euml;indigt u of 
-Beantwoord de volgende vragen alleen voor de Nederlandse afkoopsom die 
-Beantwoord de volgende vragen alleen voor de Nederlandse afkoopsom die u van dit pensioenfonds kreeg in de periode dat u in 
-Beantwoord de volgende vragen alleen voor de buitenlandse afkoopsom die 
 Beantwoord de volgende vragen alleen voor de buitenlandse afkoopsom die u van dit pensioenfonds kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor de buitenlandse lijfrente die 
 Beantwoord de volgende vragen alleen voor de buitenlandse lijfrente die u van de bank of verzekeringsmaatschappij kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor de buitenlandse uitkering die 
 Beantwoord de volgende vragen alleen voor de buitenlandse uitkering die u van de uitkeringsinstantie kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor de&nbsp;Nederlandse uitkering die 
-Beantwoord de volgende vragen alleen voor de&nbsp;Nederlandse uitkering die u&nbsp;van&nbsp;deze uitkeringsinstantie kreeg in de periode dat u in 
-Beantwoord de volgende vragen alleen voor het Nederlandse pensioen dat 
-Beantwoord de volgende vragen alleen voor het Nederlandse pensioen dat u van dit pensioenfonds kreeg in de periode dat u in 
-Beantwoord de volgende vragen alleen voor het buitenlandse pensioen dat 
 Beantwoord de volgende vragen alleen voor het buitenlandse pensioen dat u van dit pensioenfonds kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor het loon dat 
 Beantwoord de volgende vragen alleen voor het loon dat u van deze werkgever kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor het loon dat u van&nbsp;deze werkgever kreeg in de periode dat u in 
 Beantwoord de volgende vragen alleen voor het loon dat u van&nbsp;deze werkgever kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor het pensioen dat&nbsp;
 Beantwoord de volgende vragen alleen voor het pensioen dat&nbsp;u van de uitkeringsinstantie kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor&nbsp;de Nederlandse inkomsten uit&nbsp;het beschikbaar stellen van vermogen die 
-Beantwoord de volgende vragen alleen voor&nbsp;de Nederlandse inkomsten uit&nbsp;het beschikbaar stellen van vermogen die u&nbsp;had in de periode dat u in 
-Beantwoord de volgende vragen alleen voor&nbsp;de Nederlandse lijfrente die 
-Beantwoord de volgende vragen alleen voor&nbsp;de Nederlandse lijfrente die u van&nbsp;de bank of verzekeringsmaatschappij kreeg in de periode dat u in 
-Beantwoord de volgende vragen alleen voor&nbsp;de Nederlandse uitkering die 
-Beantwoord de volgende vragen alleen voor&nbsp;de Nederlandse uitkering die u van&nbsp;deze uitkeringsinstantie kreeg in de periode dat u in 
-Beantwoord de volgende vragen alleen voor&nbsp;de inkomsten uit overig werk die 
-Beantwoord de volgende vragen alleen voor&nbsp;de inkomsten uit overig werk die u in&nbsp;
-Beantwoord de volgende vragen alleen voor&nbsp;de inkomsten uit overig werk die u in&nbsp;Nederland had in&nbsp;de periode dat u in 
-Beantwoord de volgende vragen apart voor 
 Beantwoord de volgende vragen over de periode waarin de auto jonger was dan 15 jaar.
-Beantwoord de volgende vragen voor de periode dat 
 Beantwoord de volgende vragen voor de periode dat u in Nederland woonde.
-Beantwoord de vraag <span class="text-only">
 Beantwoord de vraag met 'Ja' of 'Nee'.
-Bedrag aan lijfrentepremies dat 
 Bedrag aan lijfrentepremies dat u in 2024 betaalde uit alleen de oudedagsreserve.
 Bedrag aan lijfrentepremies dat u in 2024 betaalde uit alleen de oudedagsreserve. Niet&nbsp;bij staking van de onderneming.
 Bedrag aan lijfrentepremies dat u in 2024 betaalde uit alleen de stakingswinst.
@@ -695,139 +401,59 @@ Bedrag aan lijfrentepremies dat u in de periode 1 januari 2025 tot en met 30 jun
 Bedrag aan lijfrentepremies dat u in de periode 1 januari 2025 tot en met 30 juni 2025 betaalde uit alleen de oudedagsreserve. Niet&nbsp;bij staking van de onderneming.
 Bedrag aan lijfrentepremies dat u in de periode 1 januari 2025 tot en met 30 juni 2025 betaalde uit alleen de stakingswinst.
 Bedrag aan lijfrentepremies dat u in de periode 1 januari 2025 tot en met 30 juni 2025 betaalde uit de oudedagsreserve, bij staking van een onderneming.
-Bedrag eigenwoningschuld op het moment van verkoop van de woning die uw hoofdverblijf was
-Bedrag gewone giften aan culturele instellingen
 Bedrag mag niet negatief zijn.
-Bedrag periodieke giften aan culturele instellingen
-Bedrag uitkering dat 
-Bedrag uitkering dat <span id="autocomplete-delimiter">u ontving nadat het tijdelijke arbeidscontract afliep
-Bedrag uitkering dat u ontvangt nadat&nbsp;het tijdelijke arbeidscontract afloopt
-Bedrag van de bijtelling voor 
-Bedrag van de eigenwoningschuld v&oacute;&oacute;r het moment van aflossing
-Bedrag van de lening op 31 december 2024 in deze valuta
-Bedrag van de lening op 
-Bedrag van de rente over de schuldvordering
-Bedrag van de uitkering of opname
-Bedrag van deze buitenlandse belasting
-Bedrag volgens winst-en-verliesrekening
-Bedrag&nbsp;dat volgens RVO in aanmerking komt voor investeringsaftrek
-Bedrag, voorlopige aanslag inkomstenbelasting en premie volksverzekeringen 2024
-Bedrag<br />
 Begin- en einddatum van de periode kunnen niet hetzelfde zijn.
-Beheer belanghebbenden en medebelanghebbenden in Voorziening Schermen
-Beheer belanghebbenden in Voorziening Schermen
-Beheer medebelanghebbenden in Voorziening Schermen
-BeheerBelanghebbendenDTOResponse{machtigenUrl='
-Belangrijkste agrarische activiteiten
-Belast bedrag kapitaalverzekeringen
-Belastbaar deel inkomsten uit tijdelijke verhuur van het hoofdverblijf
-Belastbaar deel uitkering kapitaalverzekering
-Belastbaar deel uitkering kapitaalverzekering van v&oacute;&oacute;r 2001
-Belastbaar deel van een uitkering uit een kapitaalverzekering eigen woning of een spaarrekening eigen woning
-Belastbare winst uit onderneming
-Belastingkorting voor verlies uit aanmerkelijk belang
-Belegging: 
-Beleggingen 
-Beleggingen en andere vermogensbestanddelen
-Beleggingen in de periode dat u in&nbsp;
-Beleggingen op 1 januari 2025
-Beleggingen op 1 januari&nbsp;2024
 Beleggingen, zoals:<br /><ul class="bullet-list"><li>beleggingsrekeningen<\/li><li>aandelen<\/li><li>obligaties<\/li><li>opties<\/li><li>winstbewijzen<\/li><\/ul>
 Beleggingen:<br /><ul class="bullet-list"><li>beleggingsrekeningen, aandelen, obligaties, opties, winstbewijzen en dergelijke<\/li><\/ul>
-Bemiddelingskosten tussenpersoon
-Bent u bij de berekening van het investeringsbedrag van het nieuwe bedrijfsmiddel uitgegaan van de kostprijs zonder dat deze is verminderd met de herinvesteringsreserve?<br />Kies alleen &#39;Ja&#39; als u akkoord bent met onderdeel 4.2 van het Besluit Investeringsaftrek van 17 maart 2014, gewijzigd bij besluit van 8 december 2016. Klik op het vraagteken voor meer informatie.
-Bent u bij de berekening van het investeringsbedrag van het nieuwe bedrijfsmiddel uitgegaan van de kostprijs zonder dat deze is verminderd met de herinvesteringsreserve?<br />Kies alleen 'Ja' als u akkoord bent met onderdeel 4.2 van het Besluit Investeringsaftrek van 17 maart 2014, gewijzigd bij besluit van 8 december 2016. Klik op het vraagteken voor meer informatie.
-Bent u en/of 
 Bent u erkend als 'Verfolgte'?
 Bent u heel 2025, of een deel daarvan, in Nederland verplicht verzekerd voor de volksverzekeringen (AOW, Anw en Wlz)?
 Bent u in 2025 of een deel van dat jaar alleenstaand?
-Bent u in 2024 in de woning blijven wonen die (deels) eigendom is van 
+Bent u bij de berekening van het investeringsbedrag van het nieuwe bedrijfsmiddel uitgegaan van de kostprijs zonder dat deze is verminderd met de herinvesteringsreserve?<br />Kies alleen &#39;Ja&#39; als u akkoord bent met onderdeel 4.2 van het Besluit Investeringsaftrek van 17 maart 2014, gewijzigd bij besluit van 8 december 2016. Klik op het vraagteken voor meer informatie.
+Bent u bij de berekening van het investeringsbedrag van het nieuwe bedrijfsmiddel uitgegaan van de kostprijs zonder dat deze is verminderd met de herinvesteringsreserve?<br />Kies alleen 'Ja' als u akkoord bent met onderdeel 4.2 van het Besluit Investeringsaftrek van 17 maart 2014, gewijzigd bij besluit van 8 december 2016. Klik op het vraagteken voor meer informatie.
 Bent u in 2024 van werkgever veranderd?
 Bent u in 2025 in Nederland verzekerd voor de AOW en de Anw?
 Bent u in 2025 in Nederland verzekerd voor de Wlz en de Zvw?
 Bent u in 2025 ingeschreven bij de Kamer van Koophandel in Nederland?
 Bent u in 2025 van werkgever veranderd?
-Bent u in&nbsp;2025&nbsp;minstens 6 maanden co-ouder van&nbsp;
 Bent u medegerechtigde (commanditair vennoot) in deze onderneming?
 Bent u medegerechtigde in deze onderneming?
-Bent u met&nbsp;
 Bent u na 2022 naar Nederland ge&iuml;mmigreerd?
-Bent u of 
-Bent u of&nbsp;
 Bent u op 1 januari 2025 eigenaar van deze onroerende zaak?
 Bent u over deze inkomsten in Nederland premie volksverzekeringen verschuldigd?
 Bent u over het totaal van deze inkomsten in Nederland premie volksverzekeringen verschuldigd?
-Bent u samen&nbsp;met&nbsp;
 Bent u tijdelijk uitgezonden of overgeplaatst waardoor deze woning leegstaat?
 Bent u&nbsp;erkend als &#39;Verfolgte&#39;?
 Bent&nbsp;u in 2025 (mede-)eigenaar van deze onroerende zaak?
-Bent&nbsp;u in de periode 
-Bent&nbsp;u of 
-Berekend priv&eacute;gebruik voor deze auto
-Berekende loonheffing aanpassen<br /><br />Wij maken een berekening van de ingehouden loonheffing. Soms kunnen wij dit niet nauwkeurig doen. Bijvoorbeeld als u een AOW-uitkering hebt en de Sociale Verzekeringsbank (SVB) hebt gevraagd om hierop geen loonheffingskorting toe te passen. <br /><br />U kunt ervoor kiezen om de door ons berekende loonheffing aan te passen. U moet de loonheffing dan zelf berekenen. U hoeft dit onderwerp niet te kiezen. De voorlopige aanslag is dan mogelijk minder nauwkeurig. Bij de definitieve aanslag wordt altijd rekening gehouden met het juiste bedrag aan ingehouden loonheffing.
-Berekening belasting en premie
-Berekening inkomensafhankelijke bijdrage Zorgverzekeringswet
-Berekening inkomensafhankelijke bijdrage Zorgverzekeringswet (Zvw)
-Berekening inkomstenbelasting
-Berekening inkomstenbelasting en premie volksverzekeringen
-Berekening voordeel uit sparen en beleggen
-Berekening winst uit medegerechtigdheid
-Beschikbaar gestelde bezittingen
-Bestaat het inkomen van 
-Bestaat het inkomen van 
 Bestaat het inkomen van u in 2025 alleen uit AOW? Dan krijgt u geen aanslag en hoeft u niets te betalen.
 Bestaat het inkomen van u in 2025 alleen uit AOW? Dan krijgt u geen aanslag en hoeft u niets te betalen.
-Besteedt 
 Besteedt u in 2025 minstens 1.225 uur aan de onderneming(en)?
 Besteedt u in 2025 minstens 800 uur aan de onderneming(en)?
 Besteedt u minstens 500 uur aan erkend speur- en<br />ontwikkelingswerk?
-Besteedt&nbsp;
+Berekende loonheffing aanpassen<br /><br />Wij maken een berekening van de ingehouden loonheffing. Soms kunnen wij dit niet nauwkeurig doen. Bijvoorbeeld als u een AOW-uitkering hebt en de Sociale Verzekeringsbank (SVB) hebt gevraagd om hierop geen loonheffingskorting toe te passen. <br /><br />U kunt ervoor kiezen om de door ons berekende loonheffing aan te passen. U moet de loonheffing dan zelf berekenen. U hoeft dit onderwerp niet te kiezen. De voorlopige aanslag is dan mogelijk minder nauwkeurig. Bij de definitieve aanslag wordt altijd rekening gehouden met het juiste bedrag aan ingehouden loonheffing.
 Besteedt&nbsp;u in 2025 minstens 50&#37; van de werktijd aan de onderneming(en)?
-Bestond het inkomen van 
 Bestond het inkomen van u in 2024 alleen uit AOW? Dan hoeft u niets te betalen.
-Betaald bedrag via voorlopige aanslag
-Betaald via voorlopige aanslag
-Betaalde 
 Betaalde het APV winstbelasting over de winst?
-Betaalde premies of stortingen
-Betaalde premies of stortingen die u hebt betaald v&oacute;&oacute;r 1 januari 2001
-Betaalde premies of stortingen die u hebt betaald v&oacute;&oacute;r 
-Betaalde premies of stortingen die u hebt betaald v\xF3\xF3r 1 januari 2001
-Betaalde premies of stortingen die u hebt betaald v\xF3\xF3r 
-Betaalde premies voor een nettopensioen
 Betaalde premies voor een nettopensioen.
 Betaalde premies voor een nettopensioen. Zie uw Uniform pensioenoverzicht(en) onder Jaarruimte.
 Betaalde premies voor een nettopensioen. Zie uw Uniform pensioenoverzicht(en) onder&nbsp;Jaarruimte.
-Betaalde rente &nbsp;door 
-Betaalde rente en andere kosten van schulden
-Betaalde rente in 2024
-Betaalde rente in de binnenlandse periode
-Betaalde rente in de buitenlandse periode
-Betaalde rente in&nbsp;2024
 Betaalde u een erfpachtcanon voor deze woning?
 Betaalde u geen belasting omdat u een laag totaal inkomen had?
-Betaalde u in 2024 rente over het deel van de woning waarvan 
-Betaalde u in die periode huur aan 
 Betaalde u nog partneralimentatie aan iemand anders?
-Betaalde u of 
-Betaalde u over de periode 
 Betaalde u over het pensioen van de&nbsp;internationale volkenrechtelijke organisatie in Nederland premie AOW en/of Anw?
 Betaalde u over het pensioen van de&nbsp;internationale volkenrechtelijke organisatie in Nederland premie Wlz en Zvw?
-Betaalde u voor de hele periode huur aan 
 Betaalt de werkgever over deze inkomsten de werkgeversheffing Zorgverzekeringswet (Zvw)?
 Betaalt u (een deel van) de rente over 2025 in een ander jaar dan 2025?
 Betaalt u een erfpachtcanon voor deze woning?
 Betaalt u geen belasting omdat u een laag totaal inkomen had?
 Betaalt u in 2025 rente over andere jaren?
 Betaalt u nog partneralimentatie aan iemand anders?
-Betaalt u of 
-Betaalt u of 
-Betalingen voor de verrekening van bijvoorbeeld pensioenrechten
-Betalingen voor de verrekening van bijvoorbeeld pensioenrechten&nbsp;in de Nederlandse periode
-Betalingen voor erfpacht, opstal of beklemming
-Bewaar formulier in Voorziening Schermen
-Bezittingen box 3 verplaatst rondom 1 januari 2024 (peildatumarbitrage)
-BigInteger: modulus not positive
+Bij dit bedrag is het rentevoordeel uit de personeelslening niet meegeteld. Dit rentevoordeel ziet u als u alle leningen hebt ingevuld.
+Bij koersverlies in de binnenlandse periode zet u een minteken voor het bedrag.
+Bij koersverlies in de buitenlandse periode zet u een minteken voor het bedrag.
+Bij de uitbetaling van uw loon hebt u meer arbeidskorting gekregen dan waar u volgens de inkomstenbelasting recht op hebt. Dit gebeurt bijvoorbeeld als u 2 werkgevers hebt, of als u een andere baan hebt gekregen waarmee u meer verdient. De werkgever die de arbeidskorting toepast, kan geen rekening houden met andere inkomsten. De arbeidskorting die u ten onrechte hebt ontvangen, wordt in deze aangifte verrekend.
+Bij de uitbetaling van uw loon hebt&nbsp;u meer arbeidskorting gekregen dan waar u volgens de inkomstenbelasting recht op hebt. Dit gebeurt bijvoorbeeld als u 2 werkgevers hebt, of als u een andere baan hebt gekregen waarmee u meer verdient. De werkgever die de arbeidskorting toepast, kan geen rekening houden met andere inkomsten. De arbeidskorting die u ten onrechte hebt ontvangen, wordt in deze aangifte verrekend.
+Bij de berekening van de verschuldigde belasting in dit formulier houden wij geen rekening met de compensatieregeling. Bij de definitieve aanslag houden wij daar wel rekening mee.
+
 Bij &#39;Aanvullende gegevens&#39; hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer is dan \u20AC 36.952. <br /><br />Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. <br /><br />Ga daarom terug naar &#39;Bankrekeningen en andere bezittingen&#39; en kies &#39;Ja&#39; bij &#39;Waren deze bezittingen op 1 januari&nbsp;2024 in totaal meer waard dan \u20AC 36.952?&#39;.
 Bij &#39;Aanvullende gegevens&#39; hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer is dan \u20AC 36.952. <br /><br />Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. <br /><br />Ga daarom terug naar &#39;Bankrekeningen en andere bezittingen&#39; en kies &#39;Ja&#39; bij &#39;Waren deze bezittingen op 1 januari&nbsp;2024 in totaal meer waard dan \u20AC 73.904?&#39;.
 Bij &#39;Aanvullende gegevens&#39; hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer is dan \u20AC 73.904. <br /><br />Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. <br /><br />Ga daarom terug naar &#39;Bankrekeningen en andere bezittingen&#39; en kies &#39;Ja&#39; bij &#39;Waren deze bezittingen op 1 januari&nbsp;2024 in totaal meer waard dan \u20AC 36.952?&#39;.
@@ -844,121 +470,14 @@ Bij \'Bankrekeningen en andere bezittingen\' hebt u aangegeven dat uw bezittinge
 Bij \'Bankrekeningen en andere bezittingen\' hebt u aangegeven dat uw bezittingen op 1 januari&nbsp;2025 niet meer waard zijn dan \u20AC 37.395. Maar volgens deze berekening is dat wel het geval.<br /><br />Ga terug naar \'Bankrekeningen en andere bezittingen\' en kies \'Ja\' bij \'Zijn deze bezittingen op 1 januari&nbsp;2025 in totaal meer waard dan \u20AC 74.790?\'. Of pas uw gegevens aan.
 Bij \'Bankrekeningen en andere bezittingen\' hebt u aangegeven dat uw bezittingen op 1 januari&nbsp;2025 niet meer waard zijn dan \u20AC 74.790. Maar volgens deze berekening is dat wel het geval.<br /><br />Ga terug naar \'Bankrekeningen en andere bezittingen\' en kies \'Ja\' bij \'Zijn deze bezittingen op 1 januari&nbsp;2025 in totaal meer waard dan \u20AC 37.395?\'. Of pas uw gegevens aan.
 Bij \'Bankrekeningen en andere bezittingen\' hebt u aangegeven dat uw bezittingen op 1 januari&nbsp;2025 niet meer waard zijn dan \u20AC 74.790. Maar volgens deze berekening is dat wel het geval.<br /><br />Ga terug naar \'Bankrekeningen en andere bezittingen\' en kies \'Ja\' bij \'Zijn deze bezittingen op 1 januari&nbsp;2025 in totaal meer waard dan \u20AC 74.790?\'. Of pas uw gegevens aan.
-Bij de berekening van de verschuldigde belasting in dit formulier houden wij geen rekening met de compensatieregeling. Bij de definitieve aanslag houden wij daar wel rekening mee.
-Bij de uitbetaling van het loon heeft 
-Bij de uitbetaling van het loon heeft&nbsp;
-Bij de uitbetaling van uw loon hebt u meer arbeidskorting gekregen dan waar u volgens de inkomstenbelasting recht op hebt. Dit gebeurt bijvoorbeeld als u 2 werkgevers hebt, of als u een andere baan hebt gekregen waarmee u meer verdient. De werkgever die de arbeidskorting toepast, kan geen rekening houden met andere inkomsten. De arbeidskorting die u ten onrechte hebt ontvangen, wordt in deze aangifte verrekend.
-Bij de uitbetaling van uw loon hebt&nbsp;u meer arbeidskorting gekregen dan waar u volgens de inkomstenbelasting recht op hebt. Dit gebeurt bijvoorbeeld als u 2 werkgevers hebt, of als u een andere baan hebt gekregen waarmee u meer verdient. De werkgever die de arbeidskorting toepast, kan geen rekening houden met andere inkomsten. De arbeidskorting die u ten onrechte hebt ontvangen, wordt in deze aangifte verrekend.
-Bij de winst meegeteld loon waarover een bijdrage Zvw wordt afgedragen
-Bij dit bedrag is het rentevoordeel uit de personeelslening niet meegeteld. Dit rentevoordeel ziet u als u alle leningen hebt ingevuld.
-Bij een aantal gezamenlijke inkomsten en aftrekbare uitgaven moet u ook het deel van&nbsp;
-Bij koersverlies in de binnenlandse periode zet u een minteken voor het bedrag.
-Bij koersverlies in de buitenlandse periode zet u een minteken voor het bedrag.
-Bij koersverlies zet u een minteken voor het bedrag.
-Bij winst meegetelde inkomsten
-Bijdrage-inkomen Zorgverzekeringswet
-Bijgeschreven rente in 2024
-Bijgeschreven rente in 2025
-Bijstand die de Sociale Dienst aan een ex-partner gaf en op 
-Bijstand die de Sociale Dienst aan een ex-partner gaf en op u verhaalde
-Bijstand die de Sociale Dienst aan een ex-partner geeft en op u of 
-Bijstand die de Sociale Dienst aan een ex-partner geeft en op u verhaalt
-Bijstand op #u_u of {pgpartnaam}# verhaald
-Bijstand op {pgpartnaam} verhaald
-Bijtelling maximumverliesbepaling dit boekjaar
-Bijtelling maximumverliesbepaling vorig boekjaar
-Bijzondere situaties 
-Bijzondere waardeveranderingen van vlottende activa
-Bloembollen- en knollenkwekerij
-Bodemwaarde, (Bedrijfs)gebouwen die ter beschikking zijn gesteld en waarop wordt afgeschreven (met bodemwaarde)
-Bodemwaarde, (Bedrijfs)gebouwen in eigen gebruik waarop wordt afgeschreven (met bodemwaarde)
-Boekwaarde 01-01-2024
-Boekwaarde 
-Boekwaarde begin boekjaar, (bedrijfs)gebouwen en terreinen
-Boekwaarde begin boekjaar, Niet-agrarische voorraden
-Boekwaarde begin boekjaar, Plantgoed, pootgoed en boom&shy;opstanden
-Boekwaarde begin boekjaar, Plantgoed, pootgoed en boomopstanden
-Boekwaarde begin boekjaar, Voorraden
-Boekwaarde begin boekjaar, andere agrarische materi&euml;le vaste activa
-Boekwaarde begin boekjaar, bloembollenkraam
-Boekwaarde begin boekjaar, champignons
-Boekwaarde begin boekjaar, dieren
-Boekwaarde begin boekjaar, effecten
-Boekwaarde begin boekjaar, egalisatiereserve
-Boekwaarde begin boekjaar, eigen vermogen
-Boekwaarde begin boekjaar, financi&euml;le vaste activa
-Boekwaarde begin boekjaar, garantievoorziening
-Boekwaarde begin boekjaar, goodwill
-Boekwaarde begin boekjaar, herinvesteringsreserve
-Boekwaarde begin boekjaar, liquide middelen
-Boekwaarde begin boekjaar, machines en installaties
-Boekwaarde begin boekjaar, onderhanden werk
-Boekwaarde begin boekjaar, oudedagsreserve
-Boekwaarde begin boekjaar, overige agrarische voorraden
-Boekwaarde begin boekjaar, overige immateri&euml;le vaste activa
-Boekwaarde begin boekjaar, overige kortlopende schulden
-Boekwaarde begin boekjaar, overige langlopende schulden
-Boekwaarde begin boekjaar, overige materi&euml;le vaste activa
-Boekwaarde begin boekjaar, overige voorzieningen
-Boekwaarde begin boekjaar, overige vorderingen
-Boekwaarde begin boekjaar, productie&shy;rechten
-Boekwaarde begin boekjaar, productierechten
-Boekwaarde begin boekjaar, schuld loonheffingen
-Boekwaarde begin boekjaar, schuld omzetbelasting
-Boekwaarde begin boekjaar, schulden aan kredietinstellingen
-Boekwaarde begin boekjaar, schulden aan leveranciers en handelskredieten
-Boekwaarde begin boekjaar, terugkeerreserve
-Boekwaarde begin boekjaar, veldinventaris
-Boekwaarde begin boekjaar, vordering omzetbelasting
-Boekwaarde begin boekjaar, vorderingen op handelsdebiteuren
-Boekwaarde einde boekjaar, (Bedrijfs)gebouwen die ter beschikking zijn gesteld en waarop wordt afgeschreven (met bodemwaarde)
-Boekwaarde einde boekjaar, (Bedrijfs)gebouwen in eigen gebruik waarop wordt afgeschreven (met bodemwaarde)
-Boekwaarde einde boekjaar, (Bedrijfs)gebouwen waarop niet wordt afgeschreven
-Boekwaarde einde boekjaar, (Bedrijfs)terreinen
-Boekwaarde einde boekjaar, (bedrijfs)gebouwen en terreinen
-Boekwaarde einde boekjaar, Niet-agrarische voorraden
-Boekwaarde einde boekjaar, Voorraden
-Boekwaarde einde boekjaar, andere agrarische materi&euml;le vaste activa
-Boekwaarde einde boekjaar, bloembollenkraam
-Boekwaarde einde boekjaar, champignons
-Boekwaarde einde boekjaar, dieren
-Boekwaarde einde boekjaar, effecten
-Boekwaarde einde boekjaar, egalisatiereserve
-Boekwaarde einde boekjaar, eigen vermogen
-Boekwaarde einde boekjaar, financi&euml;le vaste activa
-Boekwaarde einde boekjaar, garantievoorziening
-Boekwaarde einde boekjaar, goodwill
-Boekwaarde einde boekjaar, herinvesteringsreserve
-Boekwaarde einde boekjaar, liquide middelen
-Boekwaarde einde boekjaar, machines en installaties
-Boekwaarde einde boekjaar, milieubedrijfsmiddelen (zonder bodemwaarde)
-Boekwaarde einde boekjaar, onderhanden werk
-Boekwaarde einde boekjaar, oudedagsreserve
-Boekwaarde einde boekjaar, overige agrarische voorraden
-Boekwaarde einde boekjaar, overige immateri&euml;le vaste activa
-Boekwaarde einde boekjaar, overige kortlopende schulden
-Boekwaarde einde boekjaar, overige langlopende schulden
-Boekwaarde einde boekjaar, overige materi&euml;le vaste activa
-Boekwaarde einde boekjaar, overige voorzieningen
-Boekwaarde einde boekjaar, overige vorderingen
-Boekwaarde einde boekjaar, plantgoed, pootgoed en boom&shy;opstanden
-Boekwaarde einde boekjaar, plantgoed, pootgoed en boomopstanden
-Boekwaarde einde boekjaar, productie&shy;rechten
-Boekwaarde einde boekjaar, productierechten
-Boekwaarde einde boekjaar, schuld loonheffingen
-Boekwaarde einde boekjaar, schuld omzetbelasting
-Boekwaarde einde boekjaar, schulden aan kredietinstellingen
-Boekwaarde einde boekjaar, schulden aan leveranciers en handelskredieten
-Boekwaarde einde boekjaar, terugkeerreserve
-Boekwaarde einde boekjaar, veldinventaris
-Boekwaarde einde boekjaar, vordering omzetbelasting
-Boekwaarde einde boekjaar, vorderingen op handelsdebiteuren
-Boekwaarde op vervreemdings&shy;moment
-Boetes die niet aftrekbaar zijn
-Bonaire, Sint Eustatius en Saba
-Bouwdepot: 
+
 Bouwdepots. Naast uw hypotheek had u een rekening met een verbouwings- of nieuwbouwdepot.
 Bouwdepots. Naast uw hypotheek hebt u een rekening met een verbouwings- of nieuwbouwdepot.
+
+
+Bonaire, Sint Eustatius en Saba
+
+
 Bouwkavel of woning in aanbouw
 Box 1: werk en woning, aftrekposten
 Box 2: aanmerkelijk belang, aftrekposten
@@ -981,17 +500,6 @@ Buitenlandse bronbelasting over de rente in&nbsp;de periode
 Buitenlandse bronbelasting&nbsp;
 Buitenvennootschappelijk ondernemingsvermogen
 Burgerservicenummer&nbsp;
-Cannot add a handler with a null type
-Cannot create a column with a negative index:
-Cannot create a row with a negative index:
-Cannot set a new parent without first clearing the old parent
-Cannot suppress a null exception.
-Composite.initWidget() may only be called once.
-Contant geld (
-Contant geld. Alleen meer dan \u20AC 1.306.
-Contant geld. Alleen meer dan \u20AC 1.322.
-Contant geld. Alleen meer dan \u20AC 653.
-Contant geld. Alleen meer dan \u20AC 661.
 Controleer de balans. Aan het begin van het boekjaar moet het totaal van de passiva
 Controleer de balans. Aan het einde van het boekjaar moet het totaal van de passiva
 Controleer en vergelijk altijd uw aangifte met de aangifte van uw fiscale partner.
@@ -1009,7 +517,6 @@ Correctie voor verpachting (
 Correctie voor verpachting (0% van 
 Correctie voor verpachting (
 Correctie voor verpachting (0 % van 
-Could not parse port out of host:
 Courante bezittingen op 1 januari 2024
 Cryptobezittingen (bijvoorbeeld bitcoins of NFT's)
 Cryptobezittingen (bijvoorbeeld bitcoins of&nbsp;NFT's)
@@ -4251,8 +3758,6 @@ in 2025 nog andere kosten, zoals afsluitkosten?
 in deze aangifte gegevens ingevuld waarover
 in dezelfde periode meerdere di&euml;ten volgde, met deels <a href="https://www.belastingdienst.nl/bibliotheek/handboeken/html/boeken/FISIN2021/fiscale_informatie_2021-aftrek_specifieke_zorgkosten.html" target="_blank">dezelfde typering voor hetzelfde ziektebeeld (opent nieuw venster)<\/a>, dan mag u voor die periode maar 1 dieet invullen. U mag het dieet met het hoogste bedrag kiezen.
 in dezelfde periode meerdere di&euml;ten volgde, met deels <a href="https://www.belastingdienst.nl/bibliotheek/handboeken/html/boeken/FISIN2022/fiscale_informatie_2022-aftrek_specifieke_zorgkosten.html" target="_blank">dezelfde typering voor hetzelfde ziektebeeld (opent nieuw venster)<\/a>, dan mag u voor die periode maar 1 dieet invullen. U mag het dieet met het hoogste bedrag kiezen.
-min de vrijstelling van \u20AC 1.306)
-min de vrijstelling van \u20AC 653)
 niet-vrijgesteld deel kapitaalverzekeringen
 nog een vrijgesteld winstbestanddeel in een ander land?
 nog inkomsten uit het beschikbaar stellen van bezittingen in een ander land?
@@ -4273,6 +3778,4 @@ tekens te veel gebruikt. Maak uw tekst korter.
 toen niet helemaal kon verrekenen omdat het inkomen te laag was? Dan mag u of
 tot het bewoonde deel van dit pand
 voor buitenlandse belastingplichtigen
-
 Was u in 2024 minstens 6 maanden co-ouder van 
-waarvan eerder gebruik is gemaakt
