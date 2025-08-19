@@ -19,7 +19,12 @@
   "aanmerkelijk belang": "substantial shareholding (shareholdings of 5% or more)",
   "onroerende zaak": "real estate",
   "onroerende zaken buiten Nederland": "Real estate situated outside the Netherlands",
-  "fictieve vervreemding": "deemed sale (treated as if you sold the asset)"
+  "fictieve vervreemding": "deemed sale (treated as if you sold the asset)",
+  "giften": "donations (to qualifying organisations)",
+  "periodieke giften": "periodic donations (to qualifying organisations)",
+  "rendementsgrondslag (vermogen)": "net wealth tax base (box 3)",
+  "nabestaandenmachtiging": "bereavement power of attorney",
+  "fictief rendement": "notional return"
 }
 
 U hebt deze gegevens nog niet ingevuld
