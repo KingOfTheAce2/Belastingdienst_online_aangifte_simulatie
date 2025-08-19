@@ -5,7 +5,6 @@
   "(Bedrijfs)gebouwen en terreinen": "(Business) buildings and land",
   "(Bedrijfs)gebouwen in eigen gebruik waarop wordt afgeschreven (met bodemwaarde)": "(Business) buildings used personally and being depreciated (subject to a residual value not below the WOZ value)",
   "(Bedrijfs)gebouwen waarop niet wordt afgeschreven": "(Business) buildings that are not being depreciated",
-  "Vul hier dus niet de willekeurige afschrijvingen van derden in.": "Don’t enter random or accelerated depreciation amounts from third parties here.",
   "Zie Uniform pensioenoverzicht(en) onder Jaarruimte.": "See your Uniform Pension Statement (\"Uniform Pensioenoverzicht\") under the section on Annual Pension Allowance (\"jaarruimte\").",
   "Zie uw Uniform pensioenoverzicht(en) onder Jaarruimte.": "See your Uniform Pension Statement (\"Uniform Pensioenoverzicht\") under the section on Annual Pension Allowance (\"jaarruimte\").",
   "U voldoet niet aan de voorwaarde voor kwalificerende buitenlandse belastingplicht.": "You don’t meet the conditions for qualifying as a non-resident taxpayer in the Netherlands.",
@@ -17,7 +16,7 @@
   "Hebt u niet-gerealiseerde zelfstandigenaftrek uit vorige jaren?": "Do you have unused self-employed deductions from previous years?",
   "Hebt u nog andere aftrekbare kosten?": "Do you have any other deductible expenses?",
   "Hebt u nog een aanmerkelijk belang fictief vervreemd?": "Has there been a situation where, under Dutch tax rules, it's considered that you disposed of a substantial shareholding, even though you didn’t actually sell the shares?",
-  "Hebt u nog een aanmerkelijk belang?": "Do you currently hold a substantial shareholding (at least 5% of the shares in a company)?",
+  "Hebt u nog een aanmerkelijk belang?": "Do you currently hold a substantial shareholding (shareholdings of 5% or more)?",
   "Hebt u nog een andere echtgenoot of huisgenoot?": "Do you have another spouse or someone else living at your address (a housemate)?",
   "Hebt u nog een andere huisgenoot?": "Do you have another person living at your address (a housemate)?",
   "Staat deze woning te koop in de periode dat hij leegstaat?": "Is this property listed for sale during the period it’s unoccupied?",
@@ -59,7 +58,6 @@
   "Kies daar bij ‘Soort inkomsten’: ‘Ziektewetuitkering of WAZO’.": "Under ‘Type of income’, select: ‘Sickness Benefit or WAZO (Wet arbeid en zorg)’.",
   "Vul hiervoor het scherm ‘Uitgaven partneralimentatie’ in.": "Use the ‘Spousal maintenance payments’ screen to enter this information.",
   "Kies ‘OK’ om verder te gaan met de aangifte of ‘Annuleren’ om op dit scherm te blijven.": "Select ‘OK’ to continue with your tax return, or ‘Cancel’ to stay on this screen.",
-  "Klik op een regel om de details te bekijken.": "Click on a line to view the details.",
   "U hebt samen een notarieel samenlevingscontract.": "You have a notarised cohabitation agreement with one another.",
   "U hebt samen een kind.": "You are the parents of a child together.",
   "Een van u heeft een kind van de ander erkend.": "One of you has legally recognised the other’s child.",
@@ -75,8 +73,8 @@
   "Vink deze dan hier aan. ": "Then tick the box here.",
   "Vink dan ook aan om welke bezitting(en) het gaat.": "Also tick the box for the asset(s) it relates to.",
   "Neem de gegevens over die in uw overzicht(en) staan. U hoeft dus niet alle vragen in te vullen.": "Copy the information from your overview(s). You do not need to answer every question.",
-  "Vul hier dus niet de willekeurige afschrijvingen van derden in.": "Do not enter accelerated depreciation claimed by others here.",
-  "Vul niet de schulden in voor uw eigen woning.": "Do not enter any debts related to your owner-occuped home.",
+  "Vul hier dus niet de willekeurige afschrijvingen van derden in.": "Don’t enter random or accelerated depreciation amounts from third parties here.",
+  "Vul niet de schulden in voor uw eigen woning.": "Do not enter any debts related to your owner-occupied home.",
   "Zijn de bedragen ongelijk, neem dan het bedrag van het hoogste gezamenlijk fictief rendement over.": "If the amounts are different, use the amount based on the highest joint notional return.",
   "U krijgt ieder apart een aanslag.": "You will each receive a separate assessment.",
   "U krijgt ieder apart een voorlopige aanslag.": "You will each receive a separate provisional assessment.",
@@ -89,7 +87,7 @@
   "Klik op ‘Uitgebreide fiscale informatie’ links in het scherm.": "Click ‘Detailed tax information’ on the left side of the screen.",
   "U bent wel fiscale partners, maar kunt niet samen een voorlopige aanslag aanvragen of wijzigen.": "You are tax partners, but you cannot apply for or change a provisional assessment together.",
   "U bent geen fiscale partners en kunt niet samen een voorlopige aanslag aanvragen of wijzigen.": "You are not tax partners and cannot apply for or change a provisional assessment together.",
-  "Het gaat om de ‘Regeling subsidie vaste lasten/tegemoetkoming vaste lasten MKB (TVL MKB)’. U vult dit bedrag ook in op het scherm ‘Vrijgestelde winstbestanddelen’, zodat u per saldo hierover geen belasting betaalt.": "This concerns the ‘Reimbursement Fixed Costs scheme for SMEs ("TVL MKB")’. You must also enter this amount on the ‘Exempt profit components’ screen, so that you do not pay tax on it.",
+  "Het gaat om de ‘Regeling subsidie vaste lasten/tegemoetkoming vaste lasten MKB (TVL MKB)’. U vult dit bedrag ook in op het scherm ‘Vrijgestelde winstbestanddelen’, zodat u per saldo hierover geen belasting betaalt.": "This concerns the ‘Reimbursement Fixed Costs scheme for SMEs ('TVL MKB')’. You must also enter this amount on the ‘Exempt profit components’ screen, so that you do not pay tax on it.",
   "Hebt u een onroerende zaak geërfd, die nog niet verdeeld is onder de erfgenamen? Vul dan hier ook uw deel van die erfenis in.": "Have you inherited real estate that has not yet been divided among the heirs? If so, enter your share of the inheritance here as well.",
   "Hebt u een openbaarvervoerverklaring of reisverklaring?": "Do you have a public transport declaration or travel statement?",
   "Hebt u een pensioen of andere uitkering?": "Do you receive a pension or other benefit?",
@@ -140,7 +138,7 @@
   "Weet u zeker dat u dit studiejaar wilt verwijderen?": "Are you sure you want to delete this academic year?",
   "Weet u zeker dat u wilt uitloggen?": "Are you sure you want to log out?",
   "Was in 2024 het verzamelinkomen van u voor meer dan 90% afkomstig uit een ander land?": "In 2024, was more than 90% of your aggregate income earned from another country?",
-  "Was in 2024 het verzamelinkomen van u voor meer dan 90% belast in een ander land?": "In 2024, was more than 90% of your aggregate income taxed in another country?"
+  "Was in 2024 het verzamelinkomen van u voor meer dan 90% belast in een ander land?": "In 2024, was more than 90% of your aggregate income taxed in another country?",
   "Was in die periode sprake van een 'geruisloze terugkeer uit een bv'?": "During that period, was there a 'tax-neutral return' from a Besloten Vennootschap?",
   "Was u aan de huurder gelieerd?": "Were you related to or affiliated with the tenant?",
   "Was u geldverstrekker of medegerechtigde in een onderneming?": "Were you a lender or did you have a co-entitlement to the net worth of an enterprise?",
@@ -152,7 +150,7 @@
   "Was u in 2024 fiscale partners?": "Were you tax partners in 2024?",
   "Was u in 2024 in Nederland verplicht verzekerd voor de AOW en de Anw?": "In 2024, were you compulsorily socially insured in the Netherlands under the National Old Age Pensions Act (AOW) and the Surviving Dependants Act (Anw)?",
   "Was u in 2024 in Nederland verzekerd voor de AOW en de Anw?": "In 2024, were you socially insured in the Netherlands under the National Old Age Pensions Act (AOW) and the Surviving Dependants Act (Anw)?",
-  "Was u in 2024 ingeschreven bij de Kamer van Koophandel in Nederland?": "In 2024, were you registered with the Dutch Chamber of Commerce (Kamer van Koophandel)?"
+  "Was u in 2024 ingeschreven bij de Kamer van Koophandel in Nederland?": "In 2024, were you registered with the Dutch Chamber of Commerce (Kamer van Koophandel)?",
   "Was u in 2024 of een deel daarvan in Nederland verzekerd voor de AOW en de Anw?": "In 2024, or part of that year, were you insured in the Netherlands under the National Old Age Pensions Act (AOW) and the Surviving Dependants Act (Anw)?",
   "Was u in 2024 of een deel van dat jaar alleenstaand?": "In 2024, or part of that year, were you single?",
   "Was u in de periode 2020 tot en met 2024 elk jaar ondernemer?": "Between 2020 and 2024, were you an entrepreneur each year?",
@@ -175,7 +173,6 @@
   "U kunt geen aanmerkelijk belang meer toevoegen.": "You can no longer add a substantial shareholding (shareholdings of 5% or more).",
   "U kunt geen belegging meer toevoegen.": "You can no longer add an investment.",
   "U kunt geen gegevens van kinderen meer toevoegen.": "You can no longer add details of children.",
-  "U kunt geen inkomsten meer toevoegen.": "You can no longer add income.",
   "U kunt geen kapitaalverzekering meer toevoegen.": "You can no longer add a capital insurance policy.",
   "U kunt geen lijfrente meer toevoegen.": "You can no longer add an annuity.",
   "U kunt geen loon in Nederland meer toevoegen.": "You can no longer add employment income in the Netherlands.",
@@ -190,7 +187,6 @@
   "U kunt geen echtgenoot of huisgenoot meer toevoegen.": "You can no longer add a spouse or housemate.",
   "U kunt geen echtgenoot/huisgenoot meer toevoegen.": "You can no longer add a spouse/housemate.",
   "U kunt geen inkomsten meer toevoegen.": "You can no longer add income.",
-  "U kunt geen kapitaalverzekering meer toevoegen.": "You can no longer add a capital insurance policy.",
   "U kunt geen partneralimentatie meer toevoegen.": "You can no longer add spousal maintenance.",
   "U kunt geen schuld meer toevoegen.": "You can no longer add a debt.",
   "U kunt geen werkgever meer toevoegen.": "You can no longer add an employer.",
@@ -198,7 +194,7 @@
   "U kunt hierna geen ondernemingen meer toevoegen.": "From this point on, you can no longer add businesses.",
   "U kunt hierna geen partneralimentatie meer toevoegen.": "From this point on, you can no longer add spousal maintenance.",
   "U kunt hierna geen personen meer toevoegen voor wie u dieetkosten hebt gemaakt.": "From this point on, you can no longer add persons for whom you claimed dietary expenses.",
-  "U kunt hierna geen schip meer toevoegen.": "From this point on, you can no longer add a boat or a ship."
+  "U kunt hierna geen schip meer toevoegen.": "From this point on, you can no longer add a boat or a ship.",
   "U kunt per persoon maar maximaal 3 ondernemingen invoeren. Hebt u meer dan 3 ondernemingen? Dan kunt u geen aangifte doen met de online aangifte.": "You can enter a maximum of 3 businesses per person. Do you have more than 3 businesses? Then you cannot file your tax return online.",
   "U kunt samen aangifte doen. De meeste fiscale partners kiezen daarvoor. Dit bespaart tijd en de kans op fouten is kleiner. Uw partner moet dan zelf inloggen.": "You can file a joint tax return. Most tax partners choose this option. It saves time and reduces the risk of errors. Your partner must then log in separately.",
   "U mag deze uitgaven invullen bij 'Deel periode Nederland'.": "You may enter these expenses under 'Part-year Netherlands'.",
@@ -250,7 +246,7 @@
   "Het gaat om:\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen.": "This concerns:\n- lent money\n- cash, other than in euros\n- rights to periodic payments",
   "Het gaat om:\n-uitgeleend geld\n-contant geld, anders dan in euro's\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- lent money\n- cash, other than in euros\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
   "Het gaat om:\n-uitgeleend geld\n-rechten op periodieke uitkeringen.": "This concerns:\n- lent money\n- rights to periodic payments",
-  "Het gaat om:\n-uitgeleend geld\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- lent money\n- rights to periodic payments\n- other assets in box 3, such as crypto assets"
+  "Het gaat om:\n-uitgeleend geld\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "This concerns:\n- lent money\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
   "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:",
   "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- other assets in box 3, such as crypto assets",
   "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-contant geld, anders dan in euro's.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- cash, other than in euros",
@@ -284,18 +280,15 @@
   "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-uitgeleend geld\n-rechten op periodieke uitkeringen.": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- lent money\n- rights to periodic payments",
   "Ga bij het invullen van dit scherm alleen uit van de periode dat u in Nederland woonde.\nHet gaat om:\n-uitgeleend geld\n-rechten op periodieke uitkeringen\n-andere bezittingen in box 3, zoals cryptobezittingen": "When completing this screen, only take into account the period during which you lived in the Netherlands.\nThis concerns:\n- lent money\n- rights to periodic payments\n- other assets in box 3, such as crypto assets",
   "U gaat hierbij uit van de periode dat u in Nederland woonde.": "Here you base it on the period during which you lived in the Netherlands.",
-  "Zie Uniform pensioenoverzicht(en) onder Jaarruimte.": "See Uniform Pension Statement (“Uniform Pensioenoverzicht”) under annual pension allowance.",
-  "Zie uw Uniform pensioenoverzicht(en) onder Jaarruimte.": "See your Uniform Pension Statement (“Uniform Pensioenoverzicht”) under annual pension allowance.",
   "Omdat u het hele jaar fiscale partners bent, bepaalt uw gezamenlijke vermogen of u in aanmerking komt voor inkomensafhankelijke regelingen. Het maakt daarom niet uit welke verdeling u hier maakt. Wel geven wij de bedragen per persoon door aan de betreffende instanties, zoals Toeslagen en het CAK. Dit doen wij ook als u (nog) geen gebruik maakt van deze regelingen. Uw verdeling heeft geen invloed op de belasting die u betaalt of terugkrijgt.": "Because you are tax partners for the entire year, your combined assets determine whether you qualify for income-related schemes. Therefore, it does not matter what allocation you make here. We do pass on the amounts per person to the relevant authorities, such as Toeslagen and the CAK. We do this even if you are not (yet) using these schemes. Your allocation does not affect the tax you pay or receive back.",
   "U vult de aangiften op de volgende manier in: Stel u hebt samen een aftrek eigen woning van € 10.000. U vult hier bij het verdeelscherm bijvoorbeeld € 6.500 in bij Uw deel. In de aangifte van uw partner moet deze € 6.500 dan staan bij Deel fiscale partner. Controleer deze bedragen goed, want dit gaat regelmatig mis. Wilt u toch samen aangifte doen, ga dan terug naar het scherm 'Partner'. Kies dan 'Ja' bij de vraag 'Wilt u samen aangifte doen?'.": "You complete the returns in the following way: Suppose you jointly have a homeownership deduction of €10,000. On the allocation screen, you enter, for example, €6,500 under Your share. In your partner’s tax return, €6,500 must then appear under Partner’s share. Carefully check these amounts, as mistakes happen often. If you still want to file jointly, go back to the 'Partner' screen and choose 'Yes' for the question 'Do you want to file jointly?'.",
   "Wilt u toch samen aangifte doen? Ga dan terug naar het scherm 'Partner' en kies 'Ja' bij de vraag 'Wilt u samen aangifte doen?'. Voorbeeld U doet apart aangifte en had in 2024 samen een aftrek eigen woning van € 2.000. U vult bijvoorbeeld € 500 in bij 'Uw deel'. In de aangifte van uw fiscale partner moet deze € 500 dan staan bij 'Deel fiscale partner'.": "Do you still want to file jointly? Then go back to the 'Partner' screen and choose 'Yes' for the question 'Do you want to file jointly?'. Example: You file separately and in 2024 you jointly had a homeownership deduction of €2,000. You enter, for example, €500 under 'Your share'. In your tax partner’s return, €500 must then appear under 'Partner’s share'.",
   "Let op! Bij het werkelijk rendement houden wij geen rekening met het heffingsvrij vermogen.": "Note! For the actual return, we do not take into account the tax-free allowance.",
   "Vul ook in: uw aandeel in het vermogen van een vereniging van eigenaren (vve); uw geld op een derdenrekening bij een notaris of gerechtsdeurwaarder.": "Also enter: your share in the assets of a homeowners’ association (VvE); your money held in a third-party account with a notary or bailiff.",
-  "Vul ook in: uw aandeel in het vermogen van een vereniging van eigenaren (vve); uw geld op een derdenrekening bij een notaris of gerechtsdeurwaarder. U gaat hierbij uit van de periode dat u in Nederland woonde.": "Also enter: your share in the assets of a homeowners’ association (VvE); your money held in a third-party account with a notary or bailiff. Here you base it on the period during which you lived in the Netherlands."
-  "- de aandelen in een aanmerkelijk belang - uitgaven voor tijdelijk verblijf thuis van een gehandicapte - aftrek partneralimentatie U vult het deel in dat u aan uzelf toedeelt, uw partner het andere deel. Let op! Als u onroerende zaken in Nederland had, kunt u alleen een verzoek of wijziging voorlopige aanslag doen met het papieren formulier voor buitenlandse belastingplichtigen.": "- the shares in a substantial interest - expenses for the temporary stay at home of a disabled person - deduction of partner alimony You enter the portion you allocate to yourself, your partner enters the other portion. Note! If you had real estate in the Netherlands, you can only make a request or amendment of the Provisional Tax Assessment using the paper form for non-resident taxpayers.",
+  "Vul ook in: uw aandeel in het vermogen van een vereniging van eigenaren (vve); uw geld op een derdenrekening bij een notaris of gerechtsdeurwaarder. U gaat hierbij uit van de periode dat u in Nederland woonde.": "Also enter: your share in the assets of a homeowners’ association (VvE); your money held in a third-party account with a notary or bailiff. Here you base it on the period during which you lived in the Netherlands.",
   "- de aandelen in een aanmerkelijk belang - uitgaven voor tijdelijk verblijf thuis van een gehandicapte - aftrek partneralimentatie U vult het deel in dat u aan uzelf toedeelt, uw partner het andere deel. Let op! Als u onroerende zaken in Nederland had, kunt u alleen een verzoek of wijziging voorlopige aanslag doen met het papieren formulier voor buitenlandse belastingplichtigen.": "- the shares in a substantial interest - expenses for the temporary stay at home of a disabled person - deduction of partner alimony You enter the portion you allocate to yourself, your partner enters the other portion. Note! If you had real estate in the Netherlands, you can only make a request or amendment of the Provisional Tax Assessment using the paper form for non-resident taxpayers.",
   "- uw eigen woning in Nederland (toekomstig of vroeger hoofdverblijf) - de aandelen in een aanmerkelijk belang - voordeel uit sparen en beleggen - uitgaven voor tijdelijk verblijf thuis van een gehandicapte - aftrek partneralimentatie U vult het deel in dat u aan uzelf toedeelt, uw partner het andere deel.": "- your owner-occupied home in the Netherlands (future or former main residence) - the shares in a substantial interest - income from savings and investments - expenses for the temporary stay at home of a disabled person - deduction of partner alimony You enter the portion you allocate to yourself, your partner enters the other portion.",
-  "U mag ook zorgkosten invullen voor de volgende personen als zij niet in staat waren de kosten zelf te betalen: - uw kinderen jonger dan 27 jaar - ernstig gehandicapte personen van 27 jaar of ouder met wie u in gezinsverband woont - ouders, broers of zussen die bij u in huis wonen en afhankelijk zijn van uw zorg": "You may also enter healthcare expenses for the following persons if they were not able to pay the expenses themselves: - your children younger than 27 years - severely disabled persons aged 27 or older with whom you live in a family setting - parents, brothers, or sisters who live with you in your home and are dependent on your care."
+  "U mag ook zorgkosten invullen voor de volgende personen als zij niet in staat waren de kosten zelf te betalen: - uw kinderen jonger dan 27 jaar - ernstig gehandicapte personen van 27 jaar of ouder met wie u in gezinsverband woont - ouders, broers of zussen die bij u in huis wonen en afhankelijk zijn van uw zorg": "You may also enter healthcare expenses for the following persons if they were not able to pay the expenses themselves: - your children younger than 27 years - severely disabled persons aged 27 or older with whom you live in a family setting - parents, brothers, or sisters who live with you in your home and are dependent on your care.",
   "Let op! Dit bedrag kan veranderen als u ergens anders in de aangifte uw gegevens aanpast.": "Note! This amount may change if you adjust your details elsewhere in the tax return.",
   "Let op! Dit drempelbedrag kan veranderen als u elders in het formulier uw gegevens aanpast.": "Note! This threshold amount may change if you adjust your details elsewhere in the form.",
   "Let op! Dit drempelbedrag kan veranderen als u ergens anders in de aangifte uw gegevens aanpast.": "Note! This threshold amount may change if you adjust your details elsewhere in the tax return.",
@@ -310,14 +303,14 @@
   "Uw partner moet nu inloggen Om samen deze opgaaf werkelijk rendement in te dienen, moet uw partner nu zelf inloggen. U wordt automatisch uitgelogd. Daarna logt u nogmaals in om deze opgaaf verder in te vullen. Kan uw partner nu niet inloggen, klik dan op 'Afsluiten'. Deze opgaaf blijft bewaard als u op 'Afsluiten' klikt.": "Your partner must now log in. To submit this return on actual investment income, your partner must now log in personally. You will be logged out automatically. Afterwards, you must log in again to continue completing this return. If your partner cannot log in now, click 'Close'. This return will be saved if you click 'Close'.",
   "Vul bij '(Bedrijfs)gebouwen in eigen gebruik waarop wordt afgeschreven waarvoor de bodemwaarde geldt' nog 'Kosten van aanschaf of voorbrenging' in.": "For '(Business) buildings in own use that are depreciated and to which the minimum value applies', also enter 'Acquisition or production costs'.",
   "Omdat u in 2024 uit Nederland bent geëmigreerd, kunt u bij de schulden op 31 december 2024 € 0 invullen.": "Because you emigrated from the Netherlands in 2024, you may enter €0 under debts as at 31 December 2024.",
-  "Beantwoord de volgende vragen over uw werk in de ondernemingen:": "Answer the following questions about your work in the businesses:"
+  "Beantwoord de volgende vragen over uw werk in de ondernemingen:": "Answer the following questions about your work in the businesses:",
   "Dit is het laatste scherm met de overgenomen gegevens uit uw boekhoudpakket. Ga nu verder met de rest van de aangifte.": "This is the final screen with the imported data from your accounting software. Continue now with the rest of the tax return.",
   "Hebt u in de periode 2019 tot en met 2023 minimaal 1 keer startersaftrek bij arbeidsongeschiktheid gekregen?": "Did you receive the tax relief for new businesses due to occupational disability at least once in the period 2019 through 2023?",
   "Het geld dat u betaalde voor een lot van een goed doel, zoals de Postcodeloterij, is niet aftrekbaar.": "Money you paid for a lottery ticket for a charitable cause, such as the Postcode Lottery, is not tax deductible.",
   "De loonheffing mag niet meer zijn dan 49,50%. Pas de door u berekende loonheffing aan.": "Payroll withholding tax may not exceed 49.50%. Adjust the payroll withholding tax you calculated.",
   "De periode dat u in Nederland woont, bent u in principe verzekerd voor de AOW/Anw in Nederland. Had u in de periode dat u in Nederland woonde alleen loon of pensioen uit een ander land, dan was u in dat andere land verzekerd. Controleer of uw antwoord op deze vraag klopt.": "For the period you live in the Netherlands, you are in principle insured under the National Old Age Pensions Act (AOW) and the Surviving Dependants Act (Anw) in the Netherlands. If during this period you only had wages or a pension from another country, then you were insured in that other country. Check whether your answer to this question is correct.",
   "De periode dat u in Nederland woont, bent u in principe verzekerd voor de Wlz/Zvw in Nederland. Had u in de periode dat u in Nederland woonde alleen loon of pensioen uit een ander land, dan was u in dat andere land verzekerd. Controleer of uw antwoord op deze vraag klopt.": "For the period you live in the Netherlands, you are in principle insured under the Long-term Care Act (Wlz) and the Health Insurance Act (Zvw) in the Netherlands. If during this period you only had wages or a pension from another country, then you were insured in that other country. Check whether your answer to this question is correct.",
-  "Dit bedrag heeft geen invloed op de hoogte van uw belastbaar inkomen voor de inkomstenbelasting, maar wel op de hoogte van uw premie-inkomen voor de premie volksverzekeringen. U mag het totaalbedrag van u en uw partner in de buitenlandse periode verdelen tussen u en uw partner in het scherm 'Verdelen' verderop in de aangifte.": "This amount does not affect the amount of your taxable income for personal income tax, but it does affect the amount of your contribution income for social security contributions. You may divide the total amount for you and your partner for the foreign period between you and your partner in the 'Divide' screen later in the tax return."
+  "Dit bedrag heeft geen invloed op de hoogte van uw belastbaar inkomen voor de inkomstenbelasting, maar wel op de hoogte van uw premie-inkomen voor de premie volksverzekeringen. U mag het totaalbedrag van u en uw partner in de buitenlandse periode verdelen tussen u en uw partner in het scherm 'Verdelen' verderop in de aangifte.": "This amount does not affect the amount of your taxable income for personal income tax, but it does affect the amount of your contribution income for social security contributions. You may divide the total amount for you and your partner for the foreign period between you and your partner in the 'Divide' screen later in the tax return.",
   "In deze aangifte kunt u niet uw werkelijk rendement over 2024 aangeven. In de loop van 2026 krijgt u een brief hoe u dit kunt doen. De aangifte die u nu doet, moet u nog wel invullen en opsturen. Kijk op belastingdienst.nl/box3 (opent nieuw venster) voor meer informatie.": "In this tax return you cannot yet report your actual return for 2024. In the course of 2026 you will receive a letter explaining how to do this. You still need to complete and submit this tax return now. See belastingdienst.nl/box3 (opens in a new browser tab) for more information.",
   "Kapitaalverzekeringen zoals: kapitaalverzekeringen eigen woning; uitvaart- en overlijdensrisicoverzekeringen; kapitaalverzekeringen brede herwaardering, afgesloten vóór 2001": "Capital-based insurance policies such as: capital-based insurance policies for an owner-occupied home; funeral and term life insurance policies; capital-based insurance policies under the Brede Herwaardering scheme, taken out before 2001",
   "Kies 'Ja' als u in 2023 kwalificerend buitenlands belastingplichtige was. U hoeft dan geen inkomensverklaring te sturen. Kies ook 'Ja' als u de inkomensverklaring over 2024 al naar ons hebt opgestuurd of dit nog gaat doen.": "Choose 'Yes' if in 2023 you were a qualifying non-resident taxpayer. You will then not need to send an income statement. Also choose 'Yes' if you have already sent us the income statement for 2024 or will still do so.",
@@ -325,7 +318,7 @@
   "Kijk voor een overzicht van pensioenfondsen waar u pensioen hebt opgebouwd op mijnpensioenoverzicht.nl (opent nieuw venster). Het gaat alleen om de pensioenuitvoerder(s) onder 'Pensioen' en niet om de AOW van de Sociale Verzekeringsbank.": "For an overview of pension funds where you have accrued pension, visit mijnpensioenoverzicht.nl (opens in a new browser tab). This only concerns the pension providers listed under 'Pension' and not the AOW from the Social Insurance Bank.",
   "Kijk voor een overzicht van pensioenfondsen waar u pensioen hebt opgebouwd op mijnpensioenoverzicht.nl (opent nieuw venster). Het gaat alleen om de pensioenuitvoerder(s) onder 'Pensioen' en niet om de AOW van de Sociale Verzekeringsbank. Beantwoord deze vraag met 'Nee' als u alleen AOW hebt opgebouwd.": "For an overview of pension funds where you have accrued pension, visit mijnpensioenoverzicht.nl (opens in a new browser tab). This only concerns the pension providers listed under 'Pension' and not the AOW from the Social Insurance Bank. Answer this question with 'No' if you have only accrued AOW.",
   "Met dit formulier geeft u de verwachte inkomsten en uitgaven in 2025 aan ons door. De voorlopige aanslag is een schatting van wat u moet betalen, of wat u van ons ontvangt. U kunt met dit formulier ook uw voorlopige aanslag wijzigen. U gebruikt dit formulier als u in 2025 buiten Nederland woont.": "With this form you report your expected income and expenses for 2025 to us. The Provisional Tax Assessment is an estimate of what you must pay or what you will receive from us. You can also use this form to change your Provisional Tax Assessment. You use this form if in 2025 you live outside the Netherlands.",
-  "Met dit formulier geeft u de verwachte inkomsten en uitgaven in 2025 aan ons door. De voorlopige aanslag is een schatting van wat u moet betalen, of wat u van ons ontvangt. U kunt met dit formulier ook uw voorlopige aanslag wijzigen. U gebruikt dit formulier als u in 2025 in Nederland woont.": "With this form you report your expected income and expenses for 2025 to us. The Provisional Tax Assessment is an estimate of what you must pay or what you will receive from us. You can also use this form to change your Provisional Tax Assessment. You use this form if in 2025 you live in the Netherlands."
+  "Met dit formulier geeft u de verwachte inkomsten en uitgaven in 2025 aan ons door. De voorlopige aanslag is een schatting van wat u moet betalen, of wat u van ons ontvangt. U kunt met dit formulier ook uw voorlopige aanslag wijzigen. U gebruikt dit formulier als u in 2025 in Nederland woont.": "With this form you report your expected income and expenses for 2025 to us. The Provisional Tax Assessment is an estimate of what you must pay or what you will receive from us. You can also use this form to change your Provisional Tax Assessment. You use this form if in 2025 you live in the Netherlands.",
   "Uw gegevens zijn succesvol overgenomen in de aangifte. Ga naar het volgende scherm.": "Your details have been successfully transferred into the tax return. Go to the next screen.",
   "Gebruikte u andere zakelijke bezittingen dan onroerende zaken met een totale waarde van meer dan € 2500?": "Did you use other business assets than real estate with a total value of more than € 2500?",
   "Gebruikte u andere zakelijke bezittingen met een totale waarde van meer dan € 2500?": "Did you use other business assets with a total value of more than € 2500?",
@@ -333,7 +326,7 @@
   "Waren dit (ook) inkomsten uit het beschikbaar stellen van onroerende zaken?": "Were these (also) income from making real estate available?",
   "Wij vullen de vooraf ingevulde gegevens uit uw aangifte over 2023 voor u in. Het kan zijn dat deze gegevens niet meer juist zijn. Controleer ze daarom goed.": "We will pre-fill the details from your 2023 tax return for you. These details may no longer be correct, so check them carefully.",
   "Vul alleen het deel van de kosten in waarvoor u geen vergoeding kreeg. Hebt u dieetkosten? Dan vult u het dieet en de eventuele vergoeding apart in.": "Only enter the part of the expenses for which you did not receive reimbursement. Do you have diet-related expenses? Then enter the diet and any reimbursement separately.",
-  "Wij hebben de gegevens die al bij ons bekend zijn over 2023 alvast voor u ingevuld. Controleer of deze gegevens nog kloppen met uw situatie in 2025. U kunt deze gegevens eenvoudig aanpassen of verwijderen.": "We have pre-filled the details already known to us for 2023. Check whether these details still match your situation in 2025. You can easily adjust or delete them."
+  "Wij hebben de gegevens die al bij ons bekend zijn over 2023 alvast voor u ingevuld. Controleer of deze gegevens nog kloppen met uw situatie in 2025. U kunt deze gegevens eenvoudig aanpassen of verwijderen.": "We have pre-filled the details already known to us for 2023. Check whether these details still match your situation in 2025. You can easily adjust or delete them.",
   "U bent allebei kwalificerend buitenlands belastingplichtig. Als u de inkomensverklaringen nog gaat sturen, stuur dit dan bij voorkeur tegelijk met deze aangifte. Mocht dit niet lukken, verstuur dan toch alvast deze aangifte. Stuur de inkomensverklaringen na het doen van aangifte alsnog op. Download het formulier van Belastingdienst.nl/inkomensverklaringbuitenland (opent nieuw venster).": "You are both qualifying non-resident taxpayers. If you are still going to send the income statements, preferably send them together with this tax return. If this is not possible, submit this tax return anyway. Send the income statements after submitting the tax return. Download the form from Belastingdienst.nl/inkomensverklaringbuitenland (opens in a new browser tab).",
   "U bent allebei kwalificerend buitenlands belastingplichtig.": "You are both qualifying non-resident taxpayers.",
   "U bent kwalificerend buitenlands belastingplichtig. Als u de inkomensverklaring nog gaat sturen, stuur dit dan bij voorkeur tegelijk met deze aangifte. Mocht dit niet lukken, verstuur dan toch alvast deze aangifte. Stuur de inkomensverklaring na het doen van aangifte alsnog op. Download het formulier van Belastingdienst.nl/inkomensverklaringbuitenland (opent nieuw venster).": "You are a qualifying non-resident taxpayer. If you are still going to send the income statement, preferably send it together with this tax return. If this is not possible, submit this tax return anyway. Send the income statement after submitting the tax return. Download the form from Belastingdienst.nl/inkomensverklaringbuitenland (opens in a new browser tab).",
@@ -351,516 +344,256 @@
   "U ziet de gegevens van uw uit- en thuiswonende kinderen. Hebt u nog meer kinderen?": "You see the details of your children living at home and away from home. Do you have more children?",
   "Voor de inkomstenbelasting bent u alleen fiscale partners in de periode dat u in Nederland woonde. U mag voor de binnenlandse periode de volgende bedragen verdelen. Deze verdeling heeft alleen invloed op de hoogte van uw belastbaar inkomen voor de inkomstenbelasting.": "For Personal Income Tax purposes, you are only tax partners during the period that you lived in the Netherlands. You may divide the following amounts for the domestic period. This division only affects the amount of your taxable income for Personal Income Tax.",
   "Voor de premie volksverzekeringen bent u fiscale partners in de periode dat u in Nederland woonde en in de periode dat u buiten Nederland woonde. U mag voor de buitenlandse periode de volgende bedragen verdelen. Deze verdeling heeft alleen invloed op de hoogte van uw premie-inkomen voor de premie volksverzekeringen.": "For social security contributions, you are tax partners during the period that you lived in the Netherlands and the period that you lived abroad. You may divide the following amounts for the foreign period. This division only affects the amount of your contribution income for social security contributions.",
-  "Wij hebben deze rekening vooraf ingevuld als bankrekening. Controleer of het hier inderdaad om een bankrekening gaat en niet om een rekening met beleggingen (aandelen, obligaties e.d.). Bij een bankrekening kiest u 'Ja', bij beleggingen 'Nee'. Is deze rekening een bankrekening die is gekoppeld aan een beleggingsrekening, dan kiest u ook 'Ja'.": "We have pre-filled this account as a bank account. Check whether this really is a bank account and not an account with investments (shares, bonds, etc.). For a bank account, choose 'Yes', for investments 'No'. If this account is a bank account linked to an investment account, then also choose 'Yes'."
-
+  "Wij hebben deze rekening vooraf ingevuld als bankrekening. Controleer of het hier inderdaad om een bankrekening gaat en niet om een rekening met beleggingen (aandelen, obligaties e.d.). Bij een bankrekening kiest u 'Ja', bij beleggingen 'Nee'. Is deze rekening een bankrekening die is gekoppeld aan een beleggingsrekening, dan kiest u ook 'Ja'.": "We have pre-filled this account as a bank account. Check whether this really is a bank account and not an account with investments (shares, bonds, etc.). For a bank account, choose 'Yes', for investments 'No'. If this account is a bank account linked to an investment account, then also choose 'Yes'.",
+  "Geef aan wie een voorlopige aanslag had.": "Indicate who had a Provisional Tax Assessment.",
+  "Kijk op belastingdienst.nl/aangifte (opent nieuw venster).": "Visit belastingdienst.nl/aangifte (opens in new window).",
+  "Of neem contact met ons op. Wij helpen u graag verder.": "Or contact us. We'll be happy to help you.",
+  "Kijk op belastingdienst.nl/voorlopige-aanslag (opent nieuw venster)": "Visit belastingdienst.nl/voorlopige-aanslag (opens in new window).",
+  "Of neem contact (opent nieuw venster) met ons op. Wij helpen u graag verder.": "Or contact us (opens in a new window). We'll be happy to help you.",
+  "Klik op het vraagteken voor een toelichting bij die vraag.": "Click the question mark for an explanation of that question.",
+  "Kijk op belastingdienst.nl/box3 (opent nieuw venster) voor algemene informatie over box 3.": "Visit belastingdienst.nl/box3 (opens in a new window) for general information about box 3.",
+  "Kijk welke gegevens u nodig hebt om het werkelijk rendement in te vullen (opent nieuw venster).": "Check what information you need to enter the actual return (opens in a new window).",
+  "Neem contact op via de BelastingTelefoon (opent nieuw venster).": "Contact us via the Tax Information Line (opens in a new window).",
+  "Aftrekbare lijfrentepremies voor ondernemers door een afname van de oudedagsreserve. Deze valt niet onder de stakingswinst.": "Deductible annuity premiums for entrepreneurs due to a decrease in the retirement reserve. This does not fall under the discontinuation profit.",
+  "Aftrekbare lijfrentepremies voor ondernemers door een afname van de oudedagsreserve. Specifiek bij staking van een onderneming.": "Deductible annuity premiums for entrepreneurs due to a decrease in the retirement reserve. Specifically for the discontinuation of a business.",
+  "Aftrekbare lijfrentepremies voor ondernemers door het omzetten van stakingswinst. Het gaat hier niet om de afname van de oudedagsreserve.": "Deductible annuity premiums for entrepreneurs by converting discontinuation profit. This does not concern the decrease in the retirement reserve.",
+  "Als deze hypotheek in feite (voor een deel) een voortzetting was van een vorige hypotheek, begint de termijn van 360 maanden te lopen op de afsluitdatum van die vorige hypotheek.": "If this mortgage was in fact (partially) a continuation of a previous mortgage, the 360-month term begins on the closing date of that previous mortgage.",
+  "Als het (tijdelijke) arbeidscontract al was afgelopen vóór 1 januari 2024, vul dan het bedrag in van de uitkering zelf.": "If the (temporary) employment contract had already ended before January 1, 2024, enter the amount of the benefit itself.",
+  "Als u inkomsten als actief militair of als militair met buitengewoon verlof had, beantwoord dan de vragen 'Was u in 2024 in Nederland verplicht verzekerd voor AOW en de Anw?' en 'Was u in 2024 in Nederland verplicht verzekerd voor de Wlz en de Zvw?' met 'Ja'.": "If you had income as an active military member or a military member on exceptional leave, answer 'Yes' to the questions 'In 2024, were you compulsorily insured in the Netherlands under the National Old Age Pensions Act (AOW) and the Surviving Dependants Act (Anw)?' and 'In 2024, were you compulsorily insured in the Netherlands under the Long-term Care Act (Wlz) and the Health Insurance Act (Zvw)?'.",
+  "Als u wilt, kunnen wij het gezamenlijk fictief rendement ook voor u berekenen.": "If you wish, we can also calculate the joint notional return for you.",
+  "Als uw partner in het buitenland werkt, vul dan alleen het in Nederland belaste deel van het verzamelinkomen in.": "If your partner works abroad, only enter the part of the aggregate income that is taxable in the Netherlands.",
+  "Als uw inkomsten geen inkomsten uit een onderneming waren, dan waren het mogelijk inkomsten uit overig werk (opent nieuw venster). In dat geval kiest u in het scherm ‘Inkomsten’ voor ‘Inkomsten uit overig werk’.": "If your income was not from a business, it may have been income from other work (opens in a new window). In that case, on the 'Income' screen, choose 'Income from other work'.",
+  "BECON '{label}' niet herkend. Gebruik exact 6 cijfers.": "BECON '{label}' not recognized. Use exactly 6 digits.",
+  "Beëindigt u de kapitaalverzekering op een moment dat u geen eigen woning meer hebt?": "Are you ending the capital insurance policy at a time when you no longer have an owner-occupied home?",
+  "Beantwoord de volgende vragen alleen voor de buitenlandse afkoopsom die u van dit pensioenfonds kreeg in de periode dat u in Nederland woonde.": "Answer the following questions only for the lump-sum foreign pension payment you received from this pension fund during the period you lived in the Netherlands.",
+  "Beantwoord de volgende vragen alleen voor de buitenlandse lijfrente die u van de bank of verzekeringsmaatschappij kreeg in de periode dat u in Nederland woonde.": "Answer the following questions only for the foreign annuity you received from the bank or insurance company during the period you lived in the Netherlands.",
+  "Beantwoord de volgende vragen alleen voor de buitenlandse uitkering die u van de uitkeringsinstantie kreeg in de periode dat u in Nederland woonde.": "Answer the following questions only for the foreign benefit you received from the benefits provider during the period you lived in the Netherlands.",
+  "Beantwoord de volgende vragen alleen voor het buitenlandse pensioen dat u van dit pensioenfonds kreeg in de periode dat u in Nederland woonde.": "Answer the following questions only for the foreign pension you received from this pension fund during the period you lived in the Netherlands.",
+  "Beantwoord de volgende vragen alleen voor het loon dat u van deze werkgever kreeg in de periode dat u in Nederland woonde.": "Answer the following questions only for the salary you received from this employer during the period you lived in the Netherlands.",
+  "Beantwoord de volgende vragen alleen voor het pensioen dat u van de uitkeringsinstantie kreeg in de periode dat u in Nederland woonde.": "Answer the following questions only for the pension you received from the benefits provider during the period you lived in the Netherlands.",
+  "Beantwoord de volgende vragen over de periode waarin de auto jonger was dan 15 jaar.": "Answer the following questions for the period in which the car was younger than 15 years.",
+  "Beantwoord de volgende vragen voor de periode dat u in Nederland woonde.": "Answer the following questions for the period you lived in the Netherlands.",
+  "Beantwoord de vraag met 'Ja' of 'Nee'.": "Answer the question with 'Yes' or 'No'.",
+  "Bedrag aan lijfrentepremies dat u in 2024 betaalde uit alleen de oudedagsreserve.": "Amount of annuity premiums you paid in 2024, exclusively from the retirement reserve.",
+  "Bedrag aan lijfrentepremies dat u in 2024 betaalde uit alleen de oudedagsreserve. Niet bij staking van de onderneming.": "Amount of annuity premiums you paid in 2024, exclusively from the retirement reserve. Not upon discontinuation of the business.",
+  "Bedrag aan lijfrentepremies dat u in 2024 betaalde uit alleen de stakingswinst.": "Amount of annuity premiums you paid in 2024, exclusively from the discontinuation profit.",
+  "Bedrag aan lijfrentepremies dat u in 2024 betaalde uit de oudedagsreserve, bij staking van een onderneming.": "Amount of annuity premiums you paid in 2024 from the retirement reserve, upon discontinuation of a business.",
+  "Bedrag aan lijfrentepremies dat u in de periode 1 januari 2025 tot en met 30 juni 2025 betaalde uit alleen de oudedagsreserve.": "Amount of annuity premiums you paid between January 1, 2025, and June 30, 2025, exclusively from the retirement reserve.",
+  "Bedrag aan lijfrentepremies dat u in de periode 1 januari 2025 tot en met 30 juni 2025 betaalde uit alleen de oudedagsreserve. Niet bij staking van de onderneming.": "Amount of annuity premiums you paid between January 1, 2025, and June 30, 2025, exclusively from the retirement reserve. Not upon discontinuation of the business.",
+  "Bedrag aan lijfrentepremies dat u in de periode 1 januari 2025 tot en met 30 juni 2025 betaalde uit alleen de stakingswinst.": "Amount of annuity premiums you paid between January 1, 2025, and June 30, 2025, exclusively from the discontinuation profit.",
+  "Bedrag aan lijfrentepremies dat u in de periode 1 januari 2025 tot en met 30 juni 2025 betaalde uit de oudedagsreserve, bij staking van een onderneming.": "Amount of annuity premiums you paid between January 1, 2025, and June 30, 2025, from the retirement reserve, upon discontinuation of a business.",
+  "Bedrag mag niet negatief zijn.": "The amount cannot be negative.",
+  "Begin- en einddatum van de periode kunnen niet hetzelfde zijn.": "The start and end dates of the period cannot be the same.",
+  "Beleggingen, zoals: beleggingsrekeningen aandelen obligaties opties winstbewijzen": "Investments, such as: investment accounts, shares, bonds, options, profit-sharing certificates",
+  "Beleggingen: beleggingsrekeningen, aandelen, obligaties, opties, winstbewijzen en dergelijke": "Investments: investment accounts, shares, bonds, options, profit-sharing certificates and similar assets",
+  "Bent u erkend als 'Verfolgte'?": "Are you recognized as a 'Persecuted Person' ('Verfolgte')?",
+  "Bent u heel 2025, of een deel daarvan, in Nederland verplicht verzekerd voor de volksverzekeringen (AOW, Anw en Wlz)?": "Were you compulsorily insured in the Netherlands under the social security schemes AOW, Anw, and Wlz for all or part of 2025?",
+  "Bent u in 2025 of een deel van dat jaar alleenstaand?": "Were you single for all or part of 2025?",
+  "Bent u bij de berekening van het investeringsbedrag van het nieuwe bedrijfsmiddel uitgegaan van de kostprijs zonder dat deze is verminderd met de herinvesteringsreserve? Kies alleen 'Ja' als u akkoord bent met onderdeel 4.2 van het Besluit Investeringsaftrek van 17 maart 2014, gewijzigd bij besluit van 8 december 2016. Klik op het vraagteken voor meer informatie.": "When calculating the investment amount for the new business asset, did you use the cost price without it being reduced by the reinvestment reserve? Only select 'Yes' if you agree with section 4.2 of the Investment Allowance Decree of March 17, 2014, as amended by the decree of December 8, 2016. Click the question mark for more information.",
+  "Bent u in 2024 van werkgever veranderd?": "Did you change employers in 2024?",
+  "Bent u in 2025 in Nederland verzekerd voor de AOW en de Anw?": "In 2025, are you socially insured in the Netherlands under the National Old Age Pensions Act (AOW) and the Surviving Dependants Act (Anw)?",
+  "Bent u in 2025 in Nederland verzekerd voor de Wlz en de Zvw?": "In 2025, are you socially insured in the Netherlands under the Long-term Care Act (Wlz) and the Health Insurance Act (Zvw)?",
+  "Bent u in 2025 ingeschreven bij de Kamer van Koophandel in Nederland?": "In 2025, are you registered with the Dutch Chamber of Commerce?",
+  "Bent u in 2025 van werkgever veranderd?": "Did you change employers in 2025?",
+  "Bent u medegerechtigde (commanditair vennoot) in deze onderneming?": "Do you have a co-entitlement (as a limited partner) in this business?",
+  "Bent u medegerechtigde in deze onderneming?": "Do you have a co-entitlement in this business?",
+  "Bent u na 2022 naar Nederland geëmigreerd?": "Did you immigrate to the Netherlands after 2022?",
+  "Bent u op 1 januari 2025 eigenaar van deze onroerende zaak?": "On January 1, 2025, were you the owner of this real estate?",
+  "Bent u over deze inkomsten in Nederland premie volksverzekeringen verschuldigd?": "Are you liable for social security contributions in the Netherlands on this income?",
+  "Bent u over het totaal van deze inkomsten in Nederland premie volksverzekeringen verschuldigd?": "Are you liable for social security contributions in the Netherlands on the total of this income?",
+  "Bent u tijdelijk uitgezonden of overgeplaatst waardoor deze woning leegstaat?": "Were you temporarily posted abroad or relocated, causing this home to be unoccupied?",
+  "Bent u erkend als 'Verfolgte'?": "Are you recognized as a 'Persecuted Person' ('Verfolgte')?",
+  "Bent u in 2025 (mede-)eigenaar van deze onroerende zaak?": "In 2025, were you the (co-)owner of this real estate?",
+  "Bestaat het inkomen van u in 2025 alleen uit AOW? Dan krijgt u geen aanslag en hoeft u niets te betalen.": "Does your income in 2025 consist only of state pension (AOW)? If so, you will not receive a tax assessment and you do not have to pay anything.",
+  "Besteedt u in 2025 minstens 1.225 uur aan de onderneming(en)?": "Do you spend at least 1,225 hours on your business(es) in 2025?",
+  "Besteedt u in 2025 minstens 800 uur aan de onderneming(en)?": "Do you spend at least 800 hours on your business(es) in 2025?",
+  "Besteedt u minstens 500 uur aan erkend speur- en ontwikkelingswerk?": "Do you spend at least 500 hours on recognized research and development work?",
+  "Berekende loonheffing aanpassen Wij maken een berekening van de ingehouden loonheffing. Soms kunnen wij dit niet nauwkeurig doen. Bijvoorbeeld als u een AOW-uitkering hebt en de Sociale Verzekeringsbank (SVB) hebt gevraagd om hierop geen loonheffingskorting toe te passen. U kunt ervoor kiezen om de door ons berekende loonheffing aan te passen. U moet de loonheffing dan zelf berekenen. U hoeft dit onderwerp niet te kiezen. De voorlopige aanslag is dan mogelijk minder nauwkeurig. Bij de definitieve aanslag wordt altijd rekening gehouden met het juiste bedrag aan ingehouden loonheffing.": "Adjusting calculated payroll withholding tax\n\nWe calculate the payroll withholding tax. Sometimes we cannot do this accurately, for example, if you receive a state pension (AOW) and have asked the Social Insurance Bank (SVB) not to apply the payroll tax credit to it. You can choose to adjust the payroll tax we have calculated. You will then have to calculate the payroll tax yourself. You do not have to choose this option. The provisional tax assessment may then be less accurate. The correct amount of payroll withholding tax will always be taken into account in the final tax assessment.",
+  "Besteedt u in 2025 minstens 50% van de werktijd aan de onderneming(en)?": "Do you spend at least 50% of your working time on your business(es) in 2025?",
+  "Bestond het inkomen van u in 2024 alleen uit AOW? Dan hoeft u niets te betalen.": "Did your income in 2024 consist only of state pension (AOW)? If so, you do not have to pay anything.",
+  "Betaalde het APV winstbelasting over de winst?": "Did the segregated private fund or trust ('APV') pay profit tax on the profit?",
+  "Betaalde premies voor een nettopensioen.": "Premiums paid for a net pension.",
+  "Betaalde u een erfpachtcanon voor deze woning?": "Did you pay a ground rent for this property?",
+  "Betaalde u geen belasting omdat u een laag totaal inkomen had?": "Did you not pay tax because you had a low total income?",
+  "Betaalde u nog partneralimentatie aan iemand anders?": "Did you still pay spousal alimony to someone else?",
+  "Betaalde u over het pensioen van de internationale volkenrechtelijke organisatie in Nederland premie AOW en/of Anw?": "Did you pay AOW and/or Anw premiums on the pension from the international public law organization in the Netherlands?",
+  "Betaalde u over het pensioen van de internationale volkenrechtelijke organisatie in Nederland premie Wlz en Zvw?": "Did you pay Wlz and Zvw premiums on the pension from the international public law organization in the Netherlands?",
+  "Betaalt de werkgever over deze inkomsten de werkgeversheffing Zorgverzekeringswet (Zvw)?": "Does the employer pay the Health Insurance Act (Zvw) employer contribution on this income?",
+  "Betaalt u (een deel van) de rente over 2025 in een ander jaar dan 2025?": "Will you pay (part of) the interest for 2025 in a year other than 2025?",
+  "Betaalt u een erfpachtcanon voor deze woning?": "Do you pay a ground rent for this property?",
+  "Betaalt u geen belasting omdat u een laag totaal inkomen had?": "Do you not pay tax because you had a low total income?",
+  "Betaalt u in 2025 rente over andere jaren?": "In 2025, will you pay interest for other years?",
+  "Betaalt u nog partneralimentatie aan iemand anders?": "Do you still pay spousal alimony to someone else?",
+  "Bij dit bedrag is het rentevoordeel uit de personeelslening niet meegeteld. Dit rentevoordeel ziet u als u alle leningen hebt ingevuld.": "The interest benefit from the employee loan is not included in this amount. You will see this interest benefit once you have entered all the loans.",
+  "Bij koersverlies in de binnenlandse periode zet u een minteken voor het bedrag.": "For a currency loss in the domestic period, place a minus sign before the amount.",
+  "Bij koersverlies in de buitenlandse periode zet u een minteken voor het bedrag.": "For a currency loss in the foreign period, place a minus sign before the amount.",
+  "Bij de uitbetaling van uw loon hebt u meer arbeidskorting gekregen dan waar u volgens de inkomstenbelasting recht op hebt. Dit gebeurt bijvoorbeeld als u 2 werkgevers hebt, of als u een andere baan hebt gekregen waarmee u meer verdient. De werkgever die de arbeidskorting toepast, kan geen rekening houden met andere inkomsten. De arbeidskorting die u ten onrechte hebt ontvangen, wordt in deze aangifte verrekend.": "When you were paid, you received more employment tax credit than you are entitled to under the Personal Income Tax rules. This happens, for example, if you have two employers or if you have a new job with a higher salary. The employer applying the employment tax credit cannot take other income into account. The employment tax credit you received incorrectly will be settled in this tax return.",
+  "Bij de berekening van de verschuldigde belasting in dit formulier houden wij geen rekening met de compensatieregeling. Bij de definitieve aanslag houden wij daar wel rekening mee.": "When calculating the tax payable in this form, we do not take the compensation scheme into account. We will, however, take it into account in the final tax assessment.",
+  "Bij 'Aanvullende gegevens' hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer is dan € 36.952. Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. Ga daarom terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Waren deze bezittingen op 1 januari 2024 in totaal meer waard dan € 36.952?'.": "Under 'Additional details' you indicated that the value of the surrendered net annuity is more than €36,952. The surrendered net annuity is also included in the calculation of the value of your assets. Therefore, go back to 'Bank accounts and other assets' and select 'Yes' for 'Were these assets on January 1, 2024, worth a total of more than €36,952?'.",
+  "Bij 'Aanvullende gegevens' hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer is dan € 36.952. Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. Ga daarom terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Waren deze bezittingen op 1 januari 2024 in totaal meer waard dan € 73.904?'.": "Under 'Additional details' you indicated that the value of the surrendered net annuity is more than €36,952. The surrendered net annuity is also included in the calculation of the value of your assets. Therefore, go back to 'Bank accounts and other assets' and select 'Yes' for 'Were these assets on January 1, 2024, worth a total of more than €73,904?'.",
+  "Bij 'Aanvullende gegevens' hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer is dan € 73.904. Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. Ga daarom terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Waren deze bezittingen op 1 januari 2024 in totaal meer waard dan € 36.952?'.": "Under 'Additional details' you indicated that the value of the surrendered net annuity is more than €73,904. The surrendered net annuity is also included in the calculation of the value of your assets. Therefore, go back to 'Bank accounts and other assets' and select 'Yes' for 'Were these assets on January 1, 2024, worth a total of more than €36,952?'.",
+  "Bij 'Aanvullende gegevens' hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer is dan € 73.904. Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. Ga daarom terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Waren deze bezittingen op 1 januari 2024 in totaal meer waard dan € 73.904?'.": "Under 'Additional details' you indicated that the value of the surrendered net annuity is more than €73,904. The surrendered net annuity is also included in the calculation of the value of your assets. Therefore, go back to 'Bank accounts and other assets' and select 'Yes' for 'Were these assets on January 1, 2024, worth a total of more than €73,904?'.",
+  "Bij 'Bankrekeningen en andere bezittingen' hebt u aangegeven dat uw bezittingen op 1 januari 2024 niet meer waard waren dan € 36.952. Maar volgens deze berekening was dat wel het geval. Ga terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Waren deze bezittingen op 1 januari 2024 in totaal meer waard dan € 36.952?'. Of pas uw gegevens aan.": "Under 'Bank accounts and other assets' you indicated that your assets on January 1, 2024, were not worth more than €36,952. However, according to this calculation, they were. Go back to 'Bank accounts and other assets' and select 'Yes' for 'Were these assets on January 1, 2024, worth a total of more than €36,952?'. Or adjust your details.",
+  "Bij 'Bankrekeningen en andere bezittingen' hebt u aangegeven dat uw bezittingen op 1 januari 2024 niet meer waard waren dan € 36.952. Maar volgens deze berekening was dat wel het geval. Ga terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Waren deze bezittingen op 1 januari 2024 in totaal meer waard dan € 73.904?'. Of pas uw gegevens aan.": "Under 'Bank accounts and other assets' you indicated that your assets on January 1, 2024, were not worth more than €36,952. However, according to this calculation, they were. Go back to 'Bank accounts and other assets' and select 'Yes' for 'Were these assets on January 1, 2024, worth a total of more than €73,904?'. Or adjust your details.",
+  "Bij 'Bankrekeningen en andere bezittingen' hebt u aangegeven dat uw bezittingen op 1 januari 2024 niet meer waard waren dan € 73.904. Maar volgens deze berekening was dat wel het geval. Ga terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Waren deze bezittingen op 1 januari 2024 in totaal meer waard dan € 36.952?'. Of pas uw gegevens aan.": "Under 'Bank accounts and other assets' you indicated that your assets on January 1, 2024, were not worth more than €73,904. However, according to this calculation, they were. Go back to 'Bank accounts and other assets' and select 'Yes' for 'Were these assets on January 1, 2024, worth a total of more than €36,952?'. Or adjust your details.",
+  "Bij 'Bankrekeningen en andere bezittingen' hebt u aangegeven dat uw bezittingen op 1 januari 2024 niet meer waard waren dan € 73.904. Maar volgens deze berekening was dat wel het geval. Ga terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Waren deze bezittingen op 1 januari 2024 in totaal meer waard dan € 73.904?'. Of pas uw gegevens aan.": "Under 'Bank accounts and other assets' you indicated that your assets on January 1, 2024, were not worth more than €73,904. However, according to this calculation, they were. Go back to 'Bank accounts and other assets' and select 'Yes' for 'Were these assets on January 1, 2024, worth a total of more than €73,904?'. Or adjust your details.",
+  "Bij 'Aanvullende gegevens' hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer waard is dan € 37.395. Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. Ga daarom terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Zijn deze bezittingen op 1 januari 2025 in totaal meer waard dan € 37.395?'.": "Under 'Additional details' you indicated that the value of the surrendered net annuity is worth more than €37,395. The surrendered net annuity is also included in the calculation of the value of your assets. Therefore, go back to 'Bank accounts and other assets' and select 'Yes' for 'Are these assets on January 1, 2025, worth a total of more than €37,395?'.",
+  "Bij 'Aanvullende gegevens' hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer waard is dan € 37.395. Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. Ga daarom terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Zijn deze bezittingen op 1 januari 2025 in totaal meer waard dan € 74.790?'.": "Under 'Additional details' you indicated that the value of the surrendered net annuity is worth more than €37,395. The surrendered net annuity is also included in the calculation of the value of your assets. Therefore, go back to 'Bank accounts and other assets' and select 'Yes' for 'Are these assets on January 1, 2025, worth a total of more than €74,790?'.",
+  "Bij 'Aanvullende gegevens' hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer waard is dan € 74.790. Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. Ga daarom terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Zijn deze bezittingen op 1 januari 2025 in totaal meer waard dan € 37.395?'.": "Under 'Additional details' you indicated that the value of the surrendered net annuity is worth more than €74,790. The surrendered net annuity is also included in the calculation of the value of your assets. Therefore, go back to 'Bank accounts and other assets' and select 'Yes' for 'Are these assets on January 1, 2025, worth a total of more than €37,395?'.",
+  "Bij 'Aanvullende gegevens' hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer waard is dan € 74.790. Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. Ga daarom terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Zijn deze bezittingen op 1 januari 2025 in totaal meer waard dan € 74.790?'.": "Under 'Additional details' you indicated that the value of the surrendered net annuity is worth more than €74,790. The surrendered net annuity is also included in the calculation of the value of your assets. Therefore, go back to 'Bank accounts and other assets' and select 'Yes' for 'Are these assets on January 1, 2025, worth a total of more than €74,790?'.",
+  "Bij 'Bankrekeningen en andere bezittingen' hebt u aangegeven dat uw bezittingen op 1 januari 2025 niet meer waard zijn dan € 37.395. Maar volgens deze berekening is dat wel het geval. Ga terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Zijn deze bezittingen op 1 januari 2025 in totaal meer waard dan € 37.395?'. Of pas uw gegevens aan.": "Under 'Bank accounts and other assets' you indicated that your assets on January 1, 2025, are not worth more than €37,395. However, according to this calculation, they are. Go back to 'Bank accounts and other assets' and select 'Yes' for 'Are these assets on January 1, 2025, worth a total of more than €37,395?'. Or adjust your details.",
+  "Bij 'Bankrekeningen en andere bezittingen' hebt u aangegeven dat uw bezittingen op 1 januari 2025 niet meer waard zijn dan € 37.395. Maar volgens deze berekening is dat wel het geval. Ga terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Zijn deze bezittingen op 1 januari 2025 in totaal meer waard dan € 74.790?'. Of pas uw gegevens aan.": "Under 'Bank accounts and other assets' you indicated that your assets on January 1, 2025, are not worth more than €37,395. However, according to this calculation, they are. Go back to 'Bank accounts and other assets' and select 'Yes' for 'Are these assets on January 1, 2025, worth a total of more than €74,790?'. Or adjust your details.",
+  "Bij 'Bankrekeningen en andere bezittingen' hebt u aangegeven dat uw bezittingen op 1 januari 2025 niet meer waard zijn dan € 74.790. Maar volgens deze berekening is dat wel het geval. Ga terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Zijn deze bezittingen op 1 januari 2025 in totaal meer waard dan € 37.395?'. Of pas uw gegevens aan.": "Under 'Bank accounts and other assets' you indicated that your assets on January 1, 2025, are not worth more than €74,790. However, according to this calculation, they are. Go back to 'Bank accounts and other assets' and select 'Yes' for 'Are these assets on January 1, 2025, worth a total of more than €37,395?'. Or adjust your details.",
+  "Bij 'Bankrekeningen en andere bezittingen' hebt u aangegeven dat uw bezittingen op 1 januari 2025 niet meer waard zijn dan € 74.790. Maar volgens deze berekening is dat wel het geval. Ga terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Zijn deze bezittingen op 1 januari 2025 in totaal meer waard dan € 74.790?'. Of pas uw gegevens aan.": "Under 'Bank accounts and other assets' you indicated that your assets on January 1, 2025, are not worth more than €74,790. However, according to this calculation, they are. Go back to 'Bank accounts and other assets' and select 'Yes' for 'Are these assets on January 1, 2025, worth a total of more than €74,790?'. Or adjust your details.",
+  "Bouwdepots. Naast uw hypotheek had u een rekening met een verbouwings- of nieuwbouwdepot.": "Construction deposits. In addition to your mortgage, you had an account with a renovation or new-build deposit.",
+  "Bouwdepots. Naast uw hypotheek hebt u een rekening met een verbouwings- of nieuwbouwdepot.": "Construction deposits. In addition to your mortgage, you have an account with a renovation or new-build deposit."
+  "Controleer en vergelijk altijd uw aangifte met de aangifte van uw fiscale partner.": "Always check and compare your tax return with your tax partner's tax return.",
+  "Controleer op de volgende schermen uw gegevens. Wilt u na het controleren uw gegevens wijzigen? Pas deze dan in uw boekhoudsoftware aan. Om uw nieuwe gegevens te kunnen uploaden moet u eerst het oude bestand verwijderen. Ga hiervoor naar het scherm ‘Onderneming’ waar u het bestand hebt geüpload. Verwijder het oude bestand door op de prullenbak te klikken. Daarna kunt u het nieuwe bestand uploaden.": "Check your data on the following screens. If you want to change your data after checking, please do so in your accounting software. To upload your new data, you must first delete the old file. To do this, go to the 'Business' screen where you uploaded the file. Delete the old file by clicking the trash can icon. You can then upload the new file.",
+  "Datum mag niet in de toekomst liggen.": "Date cannot be in the future.",
+  "Datum mag niet in het verleden liggen.": "Date cannot be in the past.",
+  "De Hoge Raad heeft een aantal uitspraken gedaan over het berekenen van het voordeel uit sparen en beleggen (box 3). In plaats van het voordeel uit sparen en beleggen dat uitgaat van een fictief rendement, mag u ook belasting betalen over het werkelijk rendement. Met dit formulier geeft u uw werkelijk rendement aan over ": "The Supreme Court has made a number of rulings on the calculation of income from savings and investments (Box 3). Instead of the income from savings and investments based on a notional return, you may also choose to pay tax on the actual return. With this form, you report your actual return for ",
+  "De Hoge Raad heeft recent een uitspraak gedaan over de hoogte van sommige heffingskortingen voor buitenlandse belastingplichtigen. Het kan zijn dat u daardoor recht hebt op een hogere heffingskorting dan hier vermeld staat. U betaalt daardoor minder belasting. U hoeft hiervoor niets te doen. Wij houden er bij het opleggen van uw definitieve aanslag rekening mee. ": "The Supreme Court recently made a ruling about the amount of some tax credits for non-resident taxpayers. This may entitle you to a higher tax credit than stated here, meaning you would pay less tax. You do not have to do anything about this. We will take it into account when issuing your final tax assessment.",
+  "De afkoopsom mag niet negatief zijn.": "The lump-sum payment cannot be negative.",
+  "De arbeidskorting is hoger dan het loon. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op uw jaaropgaaf.": "The employment tax credit is higher than the salary. This is not common. Check whether the amount entered matches the amount on your annual income statement.",
+  "De arbeidskorting is hoger dan het maximum van deze korting. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.": "The employment tax credit is higher than the maximum for this credit. Check whether the amount entered matches the amount on the annual income statement.",
+  "De bedragen zijn te groot. Hierdoor kan het resultaat van 1 of meer berekeningen niet correct getoond worden. Het formulier kan niet worden verstuurd.": "The amounts are too large. As a result, the result of one or more calculations cannot be displayed correctly. The form cannot be sent.",
+  "De begindatum van de periode kan niet na de einddatum liggen.": "The start date of the period cannot be after the end date.",
+  "De bijgeschreven rente over de genoemde periode kan niet meer zijn dan het totaal van de bijgeschreven rente in 2024. Controleer uw gegevens.": "The accrued interest for the specified period cannot exceed the total accrued interest in 2024. Check your data.",
+  "De bijgeschreven rente over de genoemde periode kan niet meer zijn dan het totaal van de bijgeschreven rente in 2025. Controleer uw gegevens.": "The accrued interest for the specified period cannot exceed the total accrued interest in 2025. Check your data.",
+  "De bijlagen die u toevoegt, mogen niet dezelfde naam hebben. Pas de naam van een bijlage aan. U kunt ook een bijlage verwijderen.": "The attachments you add cannot have the same name. Change the name of an attachment. You can also delete an attachment.",
+  "De bijtelling maximumverliesbepaling is in dit boekjaar niet van toepassing.": "The maximum loss provision addition is not applicable in this financial year.",
+  "De datum moet in het boekjaar liggen.": "The date must be within the financial year.",
+  "De datum van de aanvraag kan niet liggen voor de datum dat u 16 jaar werd.": "The date of the application cannot be before the date you turned 16.",
+  "De datum van de beëindiging van de (ver)bouw kan niet liggen voor de datum van de overeenkomst van het depot.": "The date the (re)construction was completed cannot be before the date of the deposit agreement.",
+  "De datum van de ingebruikname van de investering mag niet voor het begin van het boekjaar liggen.": "The date the investment was put into use may not be before the start of the financial year.",
+  "De datum van de investering moet in het boekjaar liggen.": "The date of the investment must be within the financial year.",
+  "De datum waarop het eigendomsdeel veranderde kan niet liggen vóór de datum van de vorige verandering van het eigendomsdeel.": "The date on which the ownership share changed cannot be before the date of the previous change in the ownership share.",
+  "De datum waarop het eigendomsdeel verandert kan niet liggen vóór de datum van de vorige verandering van het eigendomsdeel.": "The date on which the ownership share changes cannot be before the date of the previous change in the ownership share.",
+  "De datum waarop u de onderneming hebt gestaakt moet gelijk zijn aan de einddatum van het boekjaar. Controleer de ingevulde datums.": "The date on which you discontinued the business must be the same as the end date of the financial year. Check the dates entered.",
+  "De einddatum van de periode kan niet voor de begindatum liggen.": "The end date of the period cannot be before the start date.",
+  "De einddatum van deze situatie kan niet liggen voor de begindatum van deze situatie.": "The end date of this situation cannot be before the start date of this situation.",
+  "De einddatum van deze situatie kan niet liggen voor de einddatum van de vorige situatie.": "The end date of this situation cannot be before the end date of the previous situation.",
+  "De extra aftrek voor culturele giften is maximaal € 1.250.": "The additional deduction for cultural donations is a maximum of €1,250.",
+  "De extra aftrek voor culturele giften is maximaal € 1.250. Dit geldt voor periodieke en gewone giften samen.": "The additional deduction for cultural donations is a maximum of €1,250. This applies to periodic and regular donations combined.",
+    "De gegevens van uw fiscale partner kunnen niet vooraf worden ingevuld in de aangifte. Ga verder met aangifte doen door zelf de gegevens in te vullen.": "Your tax partner's details cannot be pre-filled in the tax return. Continue by entering the details yourself.",
+  "De gegevens van uw fiscale partner kunnen niet vooraf worden ingevuld in dit formulier. Ga verder met dit formulier door zelf de gegevens in te vullen.": "Your tax partner's details cannot be pre-filled in this form. Continue by entering the details yourself.",
+  "De giften die uw partner deed, mag u alleen meetellen voor de Nederlandse periode.": "You may only include the donations your partner made for the period in the Netherlands.",
+  "De ingehouden dividendbelasting kan niet hoger zijn dan 15% van het dividend. Controleer uw gegevens en pas deze aan.": "The withheld dividend tax cannot be higher than 15% of the dividend. Check your details and adjust them.",
+  "De ingehouden dividendbelasting kan niet hoger zijn dan 15% van het dividend. Controleer uw gegevens.": "The withheld dividend tax cannot be higher than 15% of the dividend. Check your details.",
+  "De kosten die uw partner maakte, mag u alleen meetellen voor de Nederlandse periode.": "You may only include the expenses your partner incurred for the period in the Netherlands.",
+  "De loonheffing is hoger dan de afkoopsom. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.": "The payroll withholding tax is higher than the lump-sum payment. This is not common. Check whether the entered amount corresponds to the amount on the annual income statement.",
+  "De loonheffing is hoger dan de uitkering. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.": "The payroll withholding tax is higher than the benefit. This is not common. Check whether the entered amount corresponds to the amount on the annual income statement.",
+  "De loonheffing is hoger dan de uitkering. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.": "The payroll withholding tax is higher than the benefit. This is not common. Check whether the entered amount corresponds to the amount on the annual income statement.",
+  "De loonheffing is hoger dan het belaste deel van de afkoopsom of de lijfrente. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.": "The payroll withholding tax is higher than the taxable portion of the lump-sum payment or annuity. This is not common. Check whether the entered amount corresponds to the amount on the annual income statement.",
+  "De loonheffing is hoger dan het loon. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.": "The payroll withholding tax is higher than the salary. This is not common. Check whether the entered amount corresponds to the amount on the annual income statement.",
+  "De loonheffing is hoger dan het loon. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op uw jaaropgaaf.": "The payroll withholding tax is higher than the salary. This is not common. Check whether the entered amount corresponds to the amount on your annual income statement.",
+  "De loonheffing is hoger dan het pensioen. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.": "The payroll withholding tax is higher than the pension. This is not common. Check whether the entered amount corresponds to the amount on the annual income statement.",
+  "De loonheffing is hoger dan het pensioen. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.": "The payroll withholding tax is higher than the pension. This is not common. Check whether the entered amount corresponds to the amount on the annual income statement.",
+  "De loonheffing wijkt af van de gebruikelijke 52,00%. Controleer de gegevens.": "The payroll withholding tax deviates from the usual 52.00%. Check the details.",
+  "De loonheffing wijkt af van de gebruikelijke 52,00%. Controleer de gegevens.": "The payroll withholding tax deviates from the usual 52.00%. Check the details.",
+  "De omzet is lager dan € 10.000. Waarschijnlijk hebt u minder dan 1.225 uur in de onderneming gewerkt. Controleer de urenberekening en pas zo nodig uw antwoord aan.": "Your turnover is less than €10,000. It's likely that you worked fewer than 1,225 hours in the business. Check the hour calculation and adjust your answer if necessary.",
+  "De onderneming heeft een gebroken boekjaar. Vul de gegevens van de auto in per kalenderjaar.": "The business has a broken financial year. Please enter the car's data on a calendar year basis.",
+  "De onderneming heeft een gebroken boekjaar. Vul de gegevens van de woning in per kalenderjaar.": "The business has a broken financial year. Please enter the property's data on a calendar year basis.",
+  "De opbrengst is lager dan € 5.000. Waarschijnlijk is er geen sprake van winst uit onderneming, maar van inkomsten uit overig werk. Ga in dat geval terug naar het scherm 'Ondernemingen', verwijder deze onderneming en geef op het scherm 'Inkomsten' aan dat u inkomsten uit overig werk had.": "The revenue is less than €5,000. It's likely that this is not self-employment income (business profit), but rather income from other work. If so, go back to the 'Businesses' screen, delete this business, and on the 'Income' screen, indicate that you had income from other work.",
+  "De opbrengst is lager dan € 5.000. Waarschijnlijk is er geen sprake van winst uit onderneming, maar van inkomsten uit overig werk. Ga in dat geval terug naar het scherm 'Ondernemingen', verwijder deze onderneming en geef op het scherm 'Inkomsten' aan dat u inkomsten uit overig werk hadden.": "The revenue is less than €5,000. It's likely that this is not self-employment income (business profit), but rather income from other work. If so, go back to the 'Businesses' screen, delete this business, and on the 'Income' screen, indicate that you had income from other work.",
+  "De periode die u hebt ingevuld dat u verzekerd was voor AOW en de Anw is ongelijk aan de periode die u hebt ingevuld bij Wlz en de Zvw. Dit is ongebruikelijk. Controleer uw gegevens.": "The period you entered for being insured under the AOW and Anw is different from the period you entered for the Wlz and Zvw. This is unusual. Please check your details.",
+  "De periode kan niet eindigen na de datum van overlijden.": "The period cannot end after the date of death.",
+  "De periode waarin u ingeschreven stond op hetzelfde adres kan niet eindigen na de datum van overlijden.": "The period in which you were registered at the same address cannot end after the date of death.",
+  "De periodes bij 'Reiskosten' overlappen elkaar. Reisde u op dezelfde dag naar verschillende plaatsen? Vul dan in: de plaats waar u het vaakst naartoe ging. Reisde u even vaak naar de verschillende plaatsen? Vul dan in: de plaats met de langste reisafstand. Klik op 'OK' als u akkoord gaat met uw gegevens. Klik op 'Annuleren' als u uw gegevens wilt wijzigen.": "The periods for 'Travel expenses' overlap. Did you travel to different places on the same day? If so, enter the place you went to most often. Did you travel to different places equally often? If so, enter the place with the longest travel distance. Click 'OK' if you agree with your details. Click 'Cancel' if you want to change your details.",
+  "De periodes bij 'Reiskosten' overlappen elkaar. Reisde u op dezelfde dag naar verschillende plaatsen? Vul dan in: de plaats waar u het vaakst naartoe ging. Reisde u even vaak naar de verschillende plaatsen? Vul dan in: de plaats met de langste reisafstand. Klik op 'OK' als u op iedere dag dat u reisde maar 1 werkplaats bezocht. Klik op 'Annuleren' als u uw gegevens wilt wijzigen.": "The periods for 'Travel expenses' overlap. Did you travel to different places on the same day? If so, enter the place you went to most often. Did you travel to different places equally often? If so, enter the place with the longest travel distance. Click 'OK' if you only visited one workplace each day you traveled. Click 'Cancel' if you want to change your details.",
+  "De periodes bij 'Reiskosten' overlappen elkaar. Reist u op dezelfde dag naar verschillende plaatsen? Vul dan in: de plaats waar u het vaakst naartoe gaat. Reist u even vaak naar de verschillende plaatsen? Vul dan in: de plaats met de langste reisafstand. Klik op 'OK' als u akkoord gaat met uw gegevens. Klik op 'Annuleren' als u uw gegevens wilt wijzigen.": "The periods for 'Travel expenses' overlap. Do you travel to different places on the same day? If so, enter the place you go to most often. Do you travel to different places equally often? If so, enter the place with the longest travel distance. Click 'OK' if you agree with your details. Click 'Cancel' if you want to change your details.",
+  "De periodes met studiefinanciering overlappen. Controleer uw gegevens.": "The periods with student financing overlap. Check your details.",
+  "De rendementsgrondslag (vermogen) en de vrijstelling groene beleggingen worden in dezelfde verhouding verdeeld als de grondslag uit sparen en beleggen. De rendementsgrondslag is van belang voor inkomensafhankelijke regelingen. Deze had u niet in 2024.": "The net wealth tax base (box 3) and the green investment exemption are allocated in the same proportion as the tax base from savings and investments. The net wealth tax base is important for income-related schemes. You did not have these in 2024.",
+  "De rendementsgrondslag (vermogen) wordt in dezelfde verhouding verdeeld als de grondslag uit sparen en beleggen. De rendementsgrondslag is van belang voor inkomensafhankelijke regelingen. Deze had u niet in 2024.": "The net wealth tax base (box 3) is allocated in the same proportion as the tax base from savings and investments. The net wealth tax base is important for income-related schemes. You did not have these in 2024.",
+  "De rente die u betaalde voor de woning over de periode dat u niet meer samen op 1 adres woonde.": "The interest you paid for the home for the period when you were no longer living together at one address.",
+  "De rente die u betaalde voor de woning over de periode dat u niet meer samen op 1 adres woonden.": "The interest you paid for the home for the period when you were no longer living together at one address.",
+  "De rente die u betaalde voor de woning over de periode dat zij niet meer samen op 1 adres woonde.": "The interest you paid for the home for the period when they were no longer living together at one address.",
+  "De rente die u betaalde voor de woning over de periode dat zij niet meer samen op 1 adres woonden.": "The interest you paid for the home for the period when they were no longer living together at one address.",
+  "De rente die u ontvangt over uw verbouwings- of nieuwbouwdepot is meer dan de aftrekbare (hypotheek)rente van uw eigen woning. Deze situatie is niet toegestaan. Pas uw gegevens aan in het scherm 'Bouwdepots' onder 'Bankrekeningen en andere bezittingen' of in het scherm 'Hypotheken en andere schulden'.": "The interest you receive on your renovation or new-build deposit is more than the deductible (mortgage) interest on your owner-occupied home. This situation is not allowed. Adjust your details on the 'Construction deposits' screen under 'Bank accounts and other assets' or on the 'Mortgages and other debts' screen.",
+  "De rente over andere jaren die u betaalde in 2024 kan niet hoger zijn dan het totaal van de betaalde rente in 2024. Controleer uw gegevens en pas deze aan.": "The interest for other years that you paid in 2024 cannot be higher than the total interest paid in 2024. Check your details and adjust them.",
+  "De rente over andere jaren die u betaalt in 2025 kan niet hoger zijn dan het totaal van de rente die u betaalt in 2025. Controleer uw gegevens en pas deze aan.": "The interest for other years that you pay in 2025 cannot be higher than the total interest you pay in 2025. Check your details and adjust them.",
+  "De rente over uw verbouwings- of nieuwbouwdepot is hoger dan de aftrekbare (hypotheek)rente van uw eigen woning. Deze situatie kunnen wij niet verwerken. Pas de rente aan die u hebt ingevuld in het scherm 'Bouwdepots'. Het bedrag daar mag niet hoger zijn dan het bedrag aan betaalde hypotheekrente dat is ingevuld in het scherm 'Hypotheken en andere schulden'.": "The interest on your renovation or new-build deposit is higher than the deductible (mortgage) interest on your owner-occupied home. We cannot process this situation. Adjust the interest you entered on the 'Construction deposits' screen. The amount there may not be higher than the amount of paid mortgage interest entered on the 'Mortgages and other debts' screen.",
+  "De revisierente is meer dan 20% van de afkoopsom. Dit is niet gebruikelijk. Controleer uw gegevens.": "The revision interest is more than 20% of the lump-sum payment. This is not common. Check your details.",
+  "De revisierente is meer dan 20% van het belaste deel van de afkoopsom. Dit is niet gebruikelijk. Controleer uw gegevens.": "The revision interest is more than 20% of the taxable portion of the lump-sum payment. This is not common. Check your details.",
+  "De revisierente is meer dan 20% van de afkoopsom. Dit is niet gebruikelijk. Controleer de gegevens.": "The revision interest is more than 20% of the lump-sum payment. This is not common. Check the details.",
+  "De revisierente is meer dan 20% van het belaste deel van de afkoopsom. Dit is niet gebruikelijk. Controleer de gegevens.": "The revision interest is more than 20% of the taxable portion of the lump-sum payment. This is not common. Check the details.",
+  "De totale premie volksverzekeringen kan afwijken door de afronding van de bedragen.": "The total social security contributions may differ due to the rounding of amounts.",
+  "De trouwdatum kan niet liggen na de datum van overlijden.": "The marriage date cannot be after the date of death.",
+  "De vergoeding voor woon-werkverkeer kan niet hoger zijn dan de vergoeding van de werkgever. Pas de gegevens aan.": "The commuting allowance cannot be higher than the employer's reimbursement. Adjust the details.",
+  "De vergoeding voor woon-werkverkeer met het openbaar vervoer kan niet hoger zijn dan de vergoeding van de werkgever. Pas de gegevens aan.": "The commuting allowance for public transport cannot be higher than the employer's reimbursement. Adjust the details.",
+  "De vergoeding voor woon-werkverkeer met het openbaar vervoer kan niet hoger zijn dan de vergoeding voor woon-werkverkeer. Pas de gegevens aan.": "The commuting allowance for public transport cannot be higher than the commuting allowance. Adjust the details.",
+  "De verdeling van de rendementsgrondslag (vermogen) heeft geen gevolgen voor uw belasting over box 3. De rendementsgrondslag is van belang voor inkomensafhankelijke regelingen. Deze had u niet in 2024. Maar de verdeling van de rendementsgrondslag heeft wel gevolgen voor de heffingskorting voor groene beleggingen. Dat komt doordat de vrijstelling groene beleggingen in dezelfde verhouding wordt verdeeld als de rendementsgrondslag.": "The allocation of the net wealth tax base (box 3) does not affect your Box 3 tax. The net wealth tax base is important for income-related schemes, which you did not have in 2024. However, the allocation of the net wealth tax base does affect the tax credit for green investments because the green investment exemption is allocated in the same proportion as the net wealth tax base.",
+  "De verhouding van uw deel van de rente tot de totaal betaalde rente wijkt af van de verhouding van uw schuld tot de totale gemiddelde schuld. Controleer uw gegevens. Is uw (vroegere) fiscale partner in de woning blijven wonen waar deze schuld bij hoort? En betaalde u de rente voor deze persoon? Vul hier dan alleen de rente in voor het deel van de woning dat uw eigendom is. Hebt u de rente voor uw partner betaald als gevolg van afspraken die u onderling hebt gemaakt? Dan mag u dat deel van de rente invullen in het scherm 'Uitgaven voor partneralimentatie'.": "The ratio of your share of the interest to the total interest paid differs from the ratio of your debt to the total average debt. Check your details. Did your (former) tax partner continue to live in the home to which this debt belongs? And did you pay the interest for that person? If so, only enter the interest for the portion of the home that you own. Did you pay the interest for your partner as a result of mutual agreements? If so, you may enter that portion of the interest on the 'Spousal maintenance payments' screen.",
+  "De verkoopdatum kan niet liggen vóór de aankoopdatum.": "The sale date cannot be before the purchase date.",
+  "De volgende vragen gaan alleen over het deel van de schuld dat is gebruikt voor het hoofdverblijf in Nederland.": "The following questions only concern the portion of the debt that was used for the main residence in the Netherlands.",
+  "De volgende vragen gaan alleen over het deel van de schuld dat is gebruikt voor het hoofdverblijf.": "The following questions only concern the portion of the debt that was used for the main residence.",
+  "De volgende vragen gaan alleen over het deel van de schuld dat wordt gebruikt voor het hoofdverblijf.": "The following questions only concern the portion of the debt that is used for the main residence.",
+  "De waarde van deze onroerende zaak bij het hoofdverblijf is hoger dan € 100.000. Dat is ongebruikelijk. Controleer of u de juiste waarde hebt ingevuld en pas het bedrag eventueel aan.": "The value of this real estate for the main residence is higher than €100,000. This is unusual. Check whether you have entered the correct value and adjust the amount if necessary.",
+  "De waarde van het bewoonde deel van dit pand kan niet groter zijn dan de WOZ-waarde van het hele pand.": "The value of the occupied part of this property cannot be greater than the WOZ value of the entire property.",
+  "De ziektewetuitkering of WAZO heeft consequenties voor de hoogte van uw heffingskortingen. Om het risico te beperken dat u teveel heffingskortingen ontvangt die u later moet terugbetalen is het van belang om contact op te nemen met de werkgever of het UWV bij de beantwoorden van de volgende vragen.": "The Sickness Benefits Act (Ziektewet) or Work and Care Act (WAZO) benefit has consequences for the amount of your tax credits. To reduce the risk of receiving too many tax credits that you will have to repay later, it is important to contact your employer or the UWV when answering the following questions.",
+  "De waarde van het eigen gebruik is de huurwaarde. De huurwaarde in de binnenlandse periode op jaarbasis berekenen wij op 5,06% van de WOZ-waarde, omdat dit het landelijk gemiddelde is.": "The value of personal use is the rental value. We calculate the rental value in the domestic period on an annual basis at 5.06% of the WOZ value, as this is the national average.",
+  "De waarde van het eigen gebruik is de huurwaarde. De huurwaarde in de binnenlandse periode op jaarbasis berekenen wij op 5,06% van de waarde van deze onroerende zaak, omdat dit het landelijk gemiddelde is.": "The value of personal use is the rental value. We calculate the rental value in the domestic period on an annual basis at 5.06% of the value of this real estate, as this is the national average.",
+  "De waarde van het eigen gebruik is de huurwaarde. De huurwaarde in de buitenlandse periode op jaarbasis berekenen wij op 5,06% van de WOZ-waarde, omdat dit het landelijk gemiddelde is.": "The value of personal use is the rental value. We calculate the rental value in the foreign period on an annual basis at 5.06% of the WOZ value, as this is the national average.",
+  "De waarde van het eigen gebruik is de huurwaarde. De huurwaarde in de buitenlandse periode op jaarbasis berekenen wij op 5,06% van de waarde van deze onroerende zaak, omdat dit het landelijk gemiddelde is.": "The value of personal use is the rental value. We calculate the rental value in the foreign period on an annual basis at 5.06% of the value of this real estate, as this is the national average.",
+  "De waarde van het eigen gebruik is de huurwaarde. De huurwaarde op jaarbasis berekenen wij op 5,06% van de WOZ-waarde, omdat dit het landelijk gemiddelde is.": "The value of personal use is the rental value. We calculate the rental value on an annual basis at 5.06% of the WOZ value, as this is the national average.",
+  "De waarde van het eigen gebruik is de huurwaarde. De huurwaarde op jaarbasis berekenen wij op 5,06% van de waarde van deze onroerende zaak, omdat dit het landelijk gemiddelde is.": "The value of personal use is the rental value. We calculate the rental value on an annual basis at 5.06% of the value of this real estate, as this is the national average.",
+  "Deze bedragen zijn alleen nodig voor een juist overzicht van de te betalen of terug te krijgen inkomstenbelasting en premie volksverzekeringen in het scherm 'Overzicht belastingen en premies'. U bent dus niet verplicht om het bedrag in te vullen. Wij houden bij het vaststellen van de definitieve aanslag al rekening met nog te verrekenen verliezen.": "These amounts are only needed for a correct overview of the Personal Income Tax and social security contributions to be paid or refunded on the 'Overview of taxes and contributions' screen. Therefore, you are not required to enter the amount. We already take into account any outstanding losses when determining the final tax assessment.",
+  "Deze bedragen zijn exclusief belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen' en bij 'Berekening bijdrage Zorgverzekeringswet'.": "These amounts do not include tax interest. No rights can be derived from these amounts or their calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions' and 'Calculation of Health Insurance Act contribution'.",
+  "Deze bedragen zijn exclusief belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen'.": "These amounts do not include tax interest. No rights can be derived from these amounts or their calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions'.",
+  "Deze bedragen zijn exclusief belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen' en bij 'Berekening bijdrage Zorgverzekeringswet'.": "This amount does not include tax interest. No rights can be derived from this amount or its calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions' and 'Calculation of Health Insurance Act contribution'.",
+  "Deze bedragen zijn exclusief belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen'.": "This amount does not include tax interest. No rights can be derived from this amount or its calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions'.",
+  "Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. In deze berekening hebben we geen rekening gehouden met de compensatieregeling. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen' en bij 'Berekening bijdrage Zorgverzekeringswet'.": "These amounts do not include any tax interest. No rights can be derived from these amounts or their calculation. In this calculation, we have not taken the compensation scheme into account. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions' and 'Calculation of Health Insurance Act contribution'.",
+  "Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. In deze berekening hebben we geen rekening gehouden met de compensatieregeling. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen'.": "These amounts do not include any tax interest. No rights can be derived from these amounts or their calculation. In this calculation, we have not taken the compensation scheme into account. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions'.",
+  "Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen' en bij 'Berekening bijdrage Zorgverzekeringswet'.": "These amounts do not include any tax interest. No rights can be derived from these amounts or their calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions' and 'Calculation of Health Insurance Act contribution'.",
+  "Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen'.": "These amounts do not include any tax interest. No rights can be derived from these amounts or their calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions'.",
+  "Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. In deze berekening hebben we geen rekening gehouden met de compensatieregeling. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen' en bij 'Berekening bijdrage Zorgverzekeringswet'.": "This amount does not include any tax interest. No rights can be derived from this amount or its calculation. In this calculation, we have not taken the compensation scheme into account. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions' and 'Calculation of Health Insurance Act contribution'.",
+  "Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. In deze berekening hebben we geen rekening gehouden met de compensatieregeling. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen'.": "This amount does not include any tax interest. No rights can be derived from this amount or its calculation. In this calculation, we have not taken the compensation scheme into account. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions'.",
+  "Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen' en bij 'Berekening bijdrage Zorgverzekeringswet'.": "This amount does not include any tax interest. No rights can be derived from this amount or its calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions' and 'Calculation of Health Insurance Act contribution'.",
+  "Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen'.": "This amount does not include any tax interest. No rights can be derived from this amount or its calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions'.",
+  "Dit bedrag kan niet hoger zijn dan de WOZ-waarde.": "This amount cannot be higher than the WOZ value.",
+  "Dit bedrag kan niet hoger zijn dan de waarde in het economisch verkeer.": "This amount cannot be higher than the fair market value.",
+  "Dit bedrag heeft geen invloed op de hoogte van uw belastbaar inkomen voor de inkomstenbelasting, maar wel op de hoogte van uw premie-inkomen voor de premie volksverzekeringen. U mag het totaalbedrag van u en uw partner in de buitenlandse periode verdelen tussen u en uw partner in het scherm 'Verdelen' verderop in de aangifte.": "This amount does not affect your taxable income for Personal Income Tax, but it does affect your premium income for social security contributions. You may divide the total amount for you and your partner for the foreign period between you and your partner on the 'Allocation' screen later in the tax return.",
+  "Dit bedrag is exclusief belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen' en bij 'Berekening bijdrage Zorgverzekeringswet'.": "This amount does not include tax interest. No rights can be derived from these amounts or their calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions' and 'Calculation of Health Insurance Act contribution'.",
+  "Dit bedrag is exclusief belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen'.": "This amount does not include tax interest. No rights can be derived from these amounts or their calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions'.",
+  "Dit bedrag is exclusief belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen' en bij 'Berekening bijdrage Zorgverzekeringswet'.": "This amount does not include tax interest. No rights can be derived from this amount or its calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions' and 'Calculation of Health Insurance Act contribution'.",
+  "Dit bedrag is exclusief belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen'.": "This amount does not include tax interest. No rights can be derived from this amount or its calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions'.",
+  "Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. In deze berekening hebben we geen rekening gehouden met de compensatieregeling. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen' en bij 'Berekening bijdrage Zorgverzekeringswet'.": "This amount does not include any tax interest. No rights can be derived from these amounts or their calculation. In this calculation, we have not taken the compensation scheme into account. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions' and 'Calculation of Health Insurance Act contribution'.",
+  "Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. In deze berekening hebben we geen rekening gehouden met de compensatieregeling. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen'.": "This amount does not include any tax interest. No rights can be derived from these amounts or their calculation. In this calculation, we have not taken the compensation scheme into account. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions'.",
+  "Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen' en bij 'Berekening bijdrage Zorgverzekeringswet'.": "This amount does not include any tax interest. No rights can be derived from these amounts or their calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions' and 'Calculation of Health Insurance Act contribution'.",
+  "Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen'.": "This amount does not include any tax interest. No rights can be derived from these amounts or their calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions'.",
+  "Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. In deze berekening hebben we geen rekening gehouden met de compensatieregeling. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen' en bij 'Berekening bijdrage Zorgverzekeringswet'.": "This amount does not include any tax interest. No rights can be derived from this amount or its calculation. In this calculation, we have not taken the compensation scheme into account. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions' and 'Calculation of Health Insurance Act contribution'.",
+  "Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. In deze berekening hebben we geen rekening gehouden met de compensatieregeling. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen'.": "This amount does not include any tax interest. No rights can be derived from this amount or its calculation. In this calculation, we have not taken the compensation scheme into account. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions'.",
+  "Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen' en bij 'Berekening bijdrage Zorgverzekeringswet'.": "This amount does not include any tax interest. No rights can be derived from this amount or its calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions' and 'Calculation of Health Insurance Act contribution'.",
+  "Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. De details van de berekening ziet u hierna bij 'Berekening inkomstenbelasting en premie volksverzekeringen'.": "This amount does not include any tax interest. No rights can be derived from this amount or its calculation. The details of the calculation can be found below under 'Calculation of Personal Income Tax and social security contributions'.",
+  "Doet u in 2025 gewone giften?": "Are you making regular donations in 2025?",
+  "Doet u in 2025 periodieke giften die schriftelijk zijn vastgelegd?": "Are you making periodic donations in 2025 that have been formally recorded in writing?",
+  "Dit is een ongeldig meldingsnummer. Vul eerst de hoofletter E in, en daarna 9 cijfers.": "This is an invalid notification number. First enter the capital letter 'E', followed by 9 digits.",
+  "Dit is een ongeldig meldingsnummer. Vul eerst de hoofletter M in, en daarna 9 cijfers.": "This is an invalid notification number. First enter the capital letter 'M', followed by 9 digits.",
+  "Dit is geen geldig Nederlands kenteken.": "This is not a valid Dutch license plate.",
+  "Door een technische fout kunt u niet verder met dit formulier. Sluit dit formulier en verwijder deze in Mijn Belastingdienst. Daarna kunt u opnieuw een Voorlopige aanslag openen.": "Due to a technical error, you cannot continue with this form. Close this form and delete it in Mijn Belastingdienst. You can then open a new Provisional Tax Assessment.",
+  "Dit formulier ondersteunt deze situatie niet.": "This form does not support this situation.",
+  "Dit formulier ondersteunt deze situatie niet. U kunt aangifte doen met het papieren M-formulier. Dit kunt u aanvragen bij de BelastingTelefoon: 0800 - 0543 of de BelastingTelefoon Buitenland: +31 555 385 385.": "This form does not support this situation. You can file your tax return using the paper M-form. You can request this from the Tax Information Line: 0800 - 0543 or the Tax Information Line Abroad: +31 555 385 385.",
+  "Dit is het grensbedrag voor bepaalde regelingen, zoals huurtoeslag. Het heffingsvrij vermogen voor de inkomstenbelasting is hoger.": "This is the threshold amount for certain schemes, such as rent allowance. The tax-free allowance for Personal Income Tax is higher.",
+  "Dreef het APV een onderneming?": "Did the segregated private fund (APV) run a business?",
+  "Een aantal inkomsten en/of aftrekposten moet u verdelen tussen u en uw partner. Wij hebben dit zo gunstig mogelijk voor u gedaan, zodat u zo min mogelijk belasting betaalt. Als u toch een andere verdeling wilt, beantwoordt u de vraag 'Gaat u akkoord met de optimale verdeling?' met 'Nee'.": "You must allocate some income and/or deductions between you and your partner. We have done this in the most favorable way for you, so you pay as little tax as possible. If you would like a different allocation, answer 'No' to the question 'Do you agree with the optimal allocation?'.",
+  "Een hulpveld kan niet aangemaakt worden omdat de bijbehorende hulpmethode met refid %s niet gevonden kan worden.": "A help field cannot be created because the corresponding help method with refid %s cannot be found.",
+  "Er is een technische fout. U bent automatisch uitgelogd. Probeer het later nog eens.": "There was a technical error. You have been automatically logged out. Please try again later.",
+  "Er is iets misgegaan bij het berekenen van uw belasting.  Uw gegevens zijn wel opgeslagen. Probeer het later nog eens.": "Something went wrong while calculating your tax. Your data has been saved. Please try again later.",
+  "Er is iets misgegaan bij het bewaren van uw aangifte. Misschien zijn niet al uw gegevens opgeslagen.": "Something went wrong while saving your tax return. Not all of your data may have been saved.",
+  "Er is iets misgegaan bij het bewaren van uw bijlage. Misschien zijn niet al uw gegevens opgeslagen.": "Something went wrong while saving your attachment. Not all of your data may have been saved.",
+  "Er is iets misgegaan bij het openen van uw aangifte. Probeer het later nog eens.": "Something went wrong while opening your tax return. Please try again later.",
+  "Er is iets misgegaan bij het versturen van uw aangifte.  Probeer het later nog eens.": "Something went wrong while submitting your tax return. Please try again later.",
+  "Er is iets misgegaan bij het verwijderen van uw bijlage. Misschien zijn niet al uw gegevens opgeslagen.": "Something went wrong while deleting your attachment. Not all of your data may have been saved.",
+  "Er is iets misgegaan met het ophalen van de gegevens van u. Sluit de aangifte af en probeer het later nog eens.": "Something went wrong while retrieving your data. Close the tax return and try again later.",
+  "Er is iets misgegaan met het ophalen van de gegevens van uw fiscale partner. U kunt doorgaan zonder deze gegevens. Of kies 'Annuleren', sluit de aangifte af en probeer het later nog eens.": "Something went wrong while retrieving your tax partner's data. You can continue without this data. Alternatively, select 'Cancel', close the tax return, and try again later.",
+  "Er is iets misgegaan met het ophalen van de gegevens van uw fiscale partner. U kunt doorgaan zonder deze gegevens. Of kies 'Annuleren', sluit dit formulier af en probeer het later nog eens.": "Something went wrong while retrieving your tax partner's data. You can continue without this data. Alternatively, select 'Cancel', close this form, and try again later.",
+  "Er is iets misgegaan met het ophalen van uw gegevens. U kunt doorgaan zonder deze gegevens. Of kies 'Annuleren', sluit de aangifte af en probeer het later nog eens.": "Something went wrong while retrieving your data. You can continue without this data. Alternatively, select 'Cancel', close the tax return, and try again later.",
+  "Er is iets misgegaan met het ophalen van uw gegevens. U kunt doorgaan zonder deze gegevens. Of kies 'Annuleren', sluit dit formulier af en probeer het later nog eens.": "Something went wrong while retrieving your data. You can continue without this data. Alternatively, select 'Cancel', close this form, and try again later."
 }
 
 
-"": ""
 
 
-Excessief priv&eacute;gebruik<br />In alle gevallen geldt dat u rekening moet houden met een hogere onttrekking priv&eacute;gebruik auto als wij kunnen aantonen dat de werkelijke kosten van het priv&eacute;gebruik hoger waren.
-Let op! U hebt uw aangifte nog niet helemaal ingevuld. In deze berekening zijn dus nog niet alle gegevens verwerkt.
-Uploaden gegevens niet gelukt. Er is iets fout gegaan bij het uploaden van het winstdeel in uw aangifte inkomstenbelasting.<br /><br />Neem voor hulp bij module &lsquo;Automatische Winstaangifte&rsquo; contact op met de softwareleverancier van uw boekhoudsoftware.
-Uw partner moet inloggen<br />U kunt geen&nbsp;voorlopige aanslag aanvragen of wijzigen voor uw partner, omdat u volgens onze gegevens geen machtiging hebt. Alleen uw partner kan daarom zijn deel van de voorlopige aanslag aanvragen of wijzigen. Uw partner kan nu inloggen. U wordt dan uitgelogd. Als uw partner nu niet kan inloggen, kunt u niet verder met de voorlopige aanslag aanvragen of wijzigen.
-Uw partner moet nu inloggen<br />Om samen aangifte te doen, moet uw partner nu zelf inloggen. De gegevens van uw partner worden dan opgehaald. U wordt automatisch uitgelogd. Daarna logt u nogmaals in om de aangifte verder in te vullen. Kan uw partner nu niet inloggen, klik dan op &#39;Afsluiten&#39;. Uw aangifte blijft bewaard.
-Welke inkomsten hebt u in 2025?
-<ul class="bullet-list"><li>Geef aan wie een voorlopige aanslag had.<\/li><\/ul>
-<ul class="bullet-list"><li>Kijk op <a href="http://www.belastingdienst.nl/aangifte" target="_blank">belastingdienst.nl/aangifte (opent nieuw venster)<\/a>.<\/li><li>Of neem <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/contact/contact" target="_blank">contact<\/a> met ons op. Wij helpen u graag verder.<\/li><\/ul>
-<ul class="bullet-list"><li>Kijk op <a href="https://www.belastingdienst.nl/voorlopige-aanslag" target="_blank">belastingdienst.nl/voorlopige-aanslag (opent nieuw venster)<\/a><\/li><li>Of neem <a href="https://www.belastingdienst.nl/contact" target="_blank">contact (opent nieuw venster)<\/a>&nbsp;met ons op. Wij helpen u graag verder.<\/li><\/ul>
-<ul class="bullet-list"><li>Klik op het vraagteken voor een toelichting bij die vraag.<\/li><li>Kijk op <a href="http://www.belastingdienst.nl/box3" target="_blank">belastingdienst.nl/box3&nbsp;(opent nieuw venster)<\/a>&nbsp;voor algemene informatie over box 3.<\/li><li><a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/box-3/content/welke-gegevens-doorgeven-werkelijk-rendement" target="_blank">Kijk welke gegevens u nodig hebt om het werkelijk rendement in te vullen (opent nieuw venster)<\/a>.<\/li><li>Neem <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/contact/content/belastingdienst-bellen" target="_blank">contact op via de BelastingTelefoon (opent nieuw venster)<\/a>.<\/li><\/ul>
-Aftrekbare lijfrentepremies voor ondernemers door een afname van de oudedagsreserve. Deze valt niet onder de stakingswinst.
-Aftrekbare lijfrentepremies voor ondernemers door een afname van de oudedagsreserve. Specifiek bij staking van een onderneming.
-Aftrekbare lijfrentepremies voor ondernemers door het omzetten van stakingswinst. Het gaat hier niet om de afname van de oudedagsreserve.
-Als deze hypotheek in feite (voor een deel) een voortzetting was van een vorige hypotheek, begint de termijn van 360 maanden te lopen op de afsluitdatum van die vorige hypotheek.
-Als het (tijdelijke)&nbsp;arbeidscontract al was afgelopen v&oacute;&oacute;r 1 januari 2024, vul dan het bedrag in van de uitkering zelf.
-Als u inkomsten als actief militair of als militair met buitengewoon verlof had, beantwoord dan de vragen 'Was u in <span class=\"nowrap\">2024 in Nederland verplicht verzekerd voor AOW en de Anw?' en 'Was u in <span class=\"nowrap\">2024 in Nederland&nbsp;verplicht verzekerd voor de Wlz en de Zvw?' met 'Ja'.
-Als u wilt, kunnen wij het gezamenlijk fictief rendement ook voor u berekenen.
-Als uw partner in het buitenland werkt, vul dan alleen het in Nederland belaste deel van het verzamelinkomen in.
-Als uw partner in het buitenland werkt, vul dan alleen het in Nederland belaste&nbsp;deel van het verzamelinkomen in.
-Als uw inkomsten geen inkomsten uit een onderneming waren, dan waren&nbsp;het mogelijk <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/werk-en-inkomen/content/wat-zijn-inkomsten-uit-overig-werk" target="_blank">inkomsten uit overig werk&nbsp;(opent nieuw venster)<\/a>.&nbsp;In dat geval kiest u in het scherm &lsquo;Inkomsten&rsquo; voor &lsquo;Inkomsten uit overig werk&rsquo;.
-BECON '{label}' niet herkend. Gebruik exact 6 cijfers.
-
-Be&euml;indigt u de kapitaal&shy;verzekering op een moment dat u geen eigen woning meer hebt?
-Be&euml;indigt u de kapitaal&shy;verzekering op een moment dat u geen eigen woning meer heeft?
-Beantwoord de volgende vragen alleen voor de buitenlandse afkoopsom die u van dit pensioenfonds kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor de buitenlandse lijfrente die u van de bank of verzekeringsmaatschappij kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor de buitenlandse uitkering die u van de uitkeringsinstantie kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor het buitenlandse pensioen dat u van dit pensioenfonds kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor het loon dat u van deze werkgever kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor het loon dat u van&nbsp;deze werkgever kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen alleen voor het pensioen dat&nbsp;u van de uitkeringsinstantie kreeg in de periode dat u in Nederland woonde.
-Beantwoord de volgende vragen over de periode waarin de auto jonger was dan 15 jaar.
-Beantwoord de volgende vragen voor de periode dat u in Nederland woonde.
-Beantwoord de vraag met 'Ja' of 'Nee'.
-Bedrag aan lijfrentepremies dat u in 2024 betaalde uit alleen de oudedagsreserve.
-Bedrag aan lijfrentepremies dat u in 2024 betaalde uit alleen de oudedagsreserve. Niet&nbsp;bij staking van de onderneming.
-Bedrag aan lijfrentepremies dat u in 2024 betaalde uit alleen de stakingswinst.
-Bedrag aan lijfrentepremies dat u in 2024 betaalde uit de oudedagsreserve, bij staking van een onderneming.
-Bedrag aan lijfrentepremies dat u in de periode 1 januari 2025 tot en met 30 juni 2025 betaalde uit alleen de oudedagsreserve.
-Bedrag aan lijfrentepremies dat u in de periode 1 januari 2025 tot en met 30 juni 2025 betaalde uit alleen de oudedagsreserve. Niet&nbsp;bij staking van de onderneming.
-Bedrag aan lijfrentepremies dat u in de periode 1 januari 2025 tot en met 30 juni 2025 betaalde uit alleen de stakingswinst.
-Bedrag aan lijfrentepremies dat u in de periode 1 januari 2025 tot en met 30 juni 2025 betaalde uit de oudedagsreserve, bij staking van een onderneming.
-Bedrag mag niet negatief zijn.
-Begin- en einddatum van de periode kunnen niet hetzelfde zijn.
-Beleggingen, zoals:<br /><ul class="bullet-list"><li>beleggingsrekeningen<\/li><li>aandelen<\/li><li>obligaties<\/li><li>opties<\/li><li>winstbewijzen<\/li><\/ul>
-Beleggingen:<br /><ul class="bullet-list"><li>beleggingsrekeningen, aandelen, obligaties, opties, winstbewijzen en dergelijke<\/li><\/ul>
-Bent u erkend als 'Verfolgte'?
-Bent u heel 2025, of een deel daarvan, in Nederland verplicht verzekerd voor de volksverzekeringen (AOW, Anw en Wlz)?
-Bent u in 2025 of een deel van dat jaar alleenstaand?
-Bent u bij de berekening van het investeringsbedrag van het nieuwe bedrijfsmiddel uitgegaan van de kostprijs zonder dat deze is verminderd met de herinvesteringsreserve?<br />Kies alleen &#39;Ja&#39; als u akkoord bent met onderdeel 4.2 van het Besluit Investeringsaftrek van 17 maart 2014, gewijzigd bij besluit van 8 december 2016. Klik op het vraagteken voor meer informatie.
-Bent u bij de berekening van het investeringsbedrag van het nieuwe bedrijfsmiddel uitgegaan van de kostprijs zonder dat deze is verminderd met de herinvesteringsreserve?<br />Kies alleen 'Ja' als u akkoord bent met onderdeel 4.2 van het Besluit Investeringsaftrek van 17 maart 2014, gewijzigd bij besluit van 8 december 2016. Klik op het vraagteken voor meer informatie.
-Bent u in 2024 van werkgever veranderd?
-Bent u in 2025 in Nederland verzekerd voor de AOW en de Anw?
-Bent u in 2025 in Nederland verzekerd voor de Wlz en de Zvw?
-Bent u in 2025 ingeschreven bij de Kamer van Koophandel in Nederland?
-Bent u in 2025 van werkgever veranderd?
-Bent u medegerechtigde (commanditair vennoot) in deze onderneming?
-Bent u medegerechtigde in deze onderneming?
-Bent u na 2022 naar Nederland ge&iuml;mmigreerd?
-Bent u op 1 januari 2025 eigenaar van deze onroerende zaak?
-Bent u over deze inkomsten in Nederland premie volksverzekeringen verschuldigd?
-Bent u over het totaal van deze inkomsten in Nederland premie volksverzekeringen verschuldigd?
-Bent u tijdelijk uitgezonden of overgeplaatst waardoor deze woning leegstaat?
-Bent u&nbsp;erkend als &#39;Verfolgte&#39;?
-Bent&nbsp;u in 2025 (mede-)eigenaar van deze onroerende zaak?
-Bestaat het inkomen van u in 2025 alleen uit AOW? Dan krijgt u geen aanslag en hoeft u niets te betalen.
-Bestaat het inkomen van u in 2025 alleen uit AOW? Dan krijgt u geen aanslag en hoeft u niets te betalen.
-Besteedt u in 2025 minstens 1.225 uur aan de onderneming(en)?
-Besteedt u in 2025 minstens 800 uur aan de onderneming(en)?
-Besteedt u minstens 500 uur aan erkend speur- en<br />ontwikkelingswerk?
-Berekende loonheffing aanpassen<br /><br />Wij maken een berekening van de ingehouden loonheffing. Soms kunnen wij dit niet nauwkeurig doen. Bijvoorbeeld als u een AOW-uitkering hebt en de Sociale Verzekeringsbank (SVB) hebt gevraagd om hierop geen loonheffingskorting toe te passen. <br /><br />U kunt ervoor kiezen om de door ons berekende loonheffing aan te passen. U moet de loonheffing dan zelf berekenen. U hoeft dit onderwerp niet te kiezen. De voorlopige aanslag is dan mogelijk minder nauwkeurig. Bij de definitieve aanslag wordt altijd rekening gehouden met het juiste bedrag aan ingehouden loonheffing.
-Besteedt&nbsp;u in 2025 minstens 50&#37; van de werktijd aan de onderneming(en)?
-Bestond het inkomen van u in 2024 alleen uit AOW? Dan hoeft u niets te betalen.
-Betaalde het APV winstbelasting over de winst?
-Betaalde premies voor een nettopensioen.
-Betaalde premies voor een nettopensioen. Zie uw Uniform pensioenoverzicht(en) onder Jaarruimte.
-Betaalde premies voor een nettopensioen. Zie uw Uniform pensioenoverzicht(en) onder&nbsp;Jaarruimte.
-Betaalde u een erfpachtcanon voor deze woning?
-Betaalde u geen belasting omdat u een laag totaal inkomen had?
-Betaalde u nog partneralimentatie aan iemand anders?
-Betaalde u over het pensioen van de&nbsp;internationale volkenrechtelijke organisatie in Nederland premie AOW en/of Anw?
-Betaalde u over het pensioen van de&nbsp;internationale volkenrechtelijke organisatie in Nederland premie Wlz en Zvw?
-Betaalt de werkgever over deze inkomsten de werkgeversheffing Zorgverzekeringswet (Zvw)?
-Betaalt u (een deel van) de rente over 2025 in een ander jaar dan 2025?
-Betaalt u een erfpachtcanon voor deze woning?
-Betaalt u geen belasting omdat u een laag totaal inkomen had?
-Betaalt u in 2025 rente over andere jaren?
-Betaalt u nog partneralimentatie aan iemand anders?
-Bij dit bedrag is het rentevoordeel uit de personeelslening niet meegeteld. Dit rentevoordeel ziet u als u alle leningen hebt ingevuld.
-Bij koersverlies in de binnenlandse periode zet u een minteken voor het bedrag.
-Bij koersverlies in de buitenlandse periode zet u een minteken voor het bedrag.
-Bij de uitbetaling van uw loon hebt u meer arbeidskorting gekregen dan waar u volgens de inkomstenbelasting recht op hebt. Dit gebeurt bijvoorbeeld als u 2 werkgevers hebt, of als u een andere baan hebt gekregen waarmee u meer verdient. De werkgever die de arbeidskorting toepast, kan geen rekening houden met andere inkomsten. De arbeidskorting die u ten onrechte hebt ontvangen, wordt in deze aangifte verrekend.
-Bij de uitbetaling van uw loon hebt&nbsp;u meer arbeidskorting gekregen dan waar u volgens de inkomstenbelasting recht op hebt. Dit gebeurt bijvoorbeeld als u 2 werkgevers hebt, of als u een andere baan hebt gekregen waarmee u meer verdient. De werkgever die de arbeidskorting toepast, kan geen rekening houden met andere inkomsten. De arbeidskorting die u ten onrechte hebt ontvangen, wordt in deze aangifte verrekend.
-Bij de berekening van de verschuldigde belasting in dit formulier houden wij geen rekening met de compensatieregeling. Bij de definitieve aanslag houden wij daar wel rekening mee.
-
-Bij &#39;Aanvullende gegevens&#39; hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer is dan \u20AC 36.952. <br /><br />Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. <br /><br />Ga daarom terug naar &#39;Bankrekeningen en andere bezittingen&#39; en kies &#39;Ja&#39; bij &#39;Waren deze bezittingen op 1 januari&nbsp;2024 in totaal meer waard dan \u20AC 36.952?&#39;.
-Bij &#39;Aanvullende gegevens&#39; hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer is dan \u20AC 36.952. <br /><br />Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. <br /><br />Ga daarom terug naar &#39;Bankrekeningen en andere bezittingen&#39; en kies &#39;Ja&#39; bij &#39;Waren deze bezittingen op 1 januari&nbsp;2024 in totaal meer waard dan \u20AC 73.904?&#39;.
-Bij &#39;Aanvullende gegevens&#39; hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer is dan \u20AC 73.904. <br /><br />Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. <br /><br />Ga daarom terug naar &#39;Bankrekeningen en andere bezittingen&#39; en kies &#39;Ja&#39; bij &#39;Waren deze bezittingen op 1 januari&nbsp;2024 in totaal meer waard dan \u20AC 36.952?&#39;.
-Bij &#39;Aanvullende gegevens&#39; hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer is dan \u20AC 73.904. <br /><br />Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente. <br /><br />Ga daarom terug naar &#39;Bankrekeningen en andere bezittingen&#39; en kies &#39;Ja&#39; bij &#39;Waren deze bezittingen op 1 januari&nbsp;2024 in totaal meer waard dan \u20AC 73.904?&#39;.
-Bij &#39;Bankrekeningen en andere bezittingen&#39; hebt u aangegeven dat uw bezittingen op 1 januari&nbsp;2024 niet meer waard waren dan \u20AC 36.952. Maar volgens deze berekening was dat wel het geval. <br /><br />Ga terug naar &#39;Bankrekeningen en andere bezittingen&#39; en kies &#39;Ja&#39; bij &#39;Waren deze bezittingen op 1 januari&nbsp;2024 in totaal meer waard dan \u20AC 36.952?&#39;. Of pas uw gegevens aan.
-Bij &#39;Bankrekeningen en andere bezittingen&#39; hebt u aangegeven dat uw bezittingen op 1 januari&nbsp;2024 niet meer waard waren dan \u20AC 36.952. Maar volgens deze berekening was dat wel het geval. <br /><br />Ga terug naar &#39;Bankrekeningen en andere bezittingen&#39; en kies &#39;Ja&#39; bij &#39;Waren deze bezittingen op 1 januari&nbsp;2024 in totaal meer waard dan \u20AC 73.904?&#39;. Of pas uw gegevens aan.
-Bij &#39;Bankrekeningen en andere bezittingen&#39; hebt u aangegeven dat uw bezittingen op 1 januari&nbsp;2024 niet meer waard waren dan \u20AC 73.904. Maar volgens deze berekening was dat wel het geval. <br /><br />Ga terug naar &#39;Bankrekeningen en andere bezittingen&#39; en kies &#39;Ja&#39; bij &#39;Waren deze bezittingen op 1 januari&nbsp;2024 in totaal meer waard dan \u20AC 36.952?&#39;. Of pas uw gegevens aan.
-Bij &#39;Bankrekeningen en andere bezittingen&#39; hebt u aangegeven dat uw bezittingen op 1 januari&nbsp;2024 niet meer waard waren dan \u20AC 73.904. Maar volgens deze berekening was dat wel het geval. <br /><br />Ga terug naar &#39;Bankrekeningen en andere bezittingen&#39; en kies &#39;Ja&#39; bij &#39;Waren deze bezittingen op 1 januari&nbsp;2024 in totaal meer waard dan \u20AC 73.904?&#39;. Of pas uw gegevens aan.
-Bij 'Aanvullende gegevens' hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer waard&nbsp;is dan <span class=\"nowrap\">\u20AC 37.395. <br /><br />Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente.<br /><br />Ga daarom terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Zijn deze bezittingen op 1 januari&nbsp;<span class=\"nowrap\">2025 in totaal meer waard dan <span class=\"nowrap\">\u20AC 37.395?'.
-Bij 'Aanvullende gegevens' hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer waard&nbsp;is dan <span class=\"nowrap\">\u20AC 37.395. <br /><br />Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente.<br /><br />Ga daarom terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Zijn deze bezittingen op 1 januari&nbsp;<span class=\"nowrap\">2025 in totaal meer waard dan <span class=\"nowrap\">\u20AC 74.790?'.
-Bij 'Aanvullende gegevens' hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer waard&nbsp;is dan <span class=\"nowrap\">\u20AC 74.790. <br /><br />Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente.<br /><br />Ga daarom terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Zijn deze bezittingen op 1 januari&nbsp;<span class=\"nowrap\">2025 in totaal meer waard dan <span class=\"nowrap\">\u20AC 37.395?'.
-Bij 'Aanvullende gegevens' hebt u aangegeven dat de waarde van de afgekochte nettolijfrente meer waard&nbsp;is dan <span class=\"nowrap\">\u20AC 74.790. <br /><br />Voor de berekening van de waarde van uw bezittingen hoort ook de afgekochte nettolijfrente.<br /><br />Ga daarom terug naar 'Bankrekeningen en andere bezittingen' en kies 'Ja' bij 'Zijn deze bezittingen op 1 januari&nbsp;<span class=\"nowrap\">2025 in totaal meer waard dan <span class=\"nowrap\">\u20AC 74.790?'.
-Bij \'Bankrekeningen en andere bezittingen\' hebt u aangegeven dat uw bezittingen op 1 januari&nbsp;2025 niet meer waard zijn dan \u20AC 37.395. Maar volgens deze berekening is dat wel het geval.<br /><br />Ga terug naar \'Bankrekeningen en andere bezittingen\' en kies \'Ja\' bij \'Zijn deze bezittingen op 1 januari&nbsp;2025 in totaal meer waard dan \u20AC 37.395?\'. Of pas uw gegevens aan.
-Bij \'Bankrekeningen en andere bezittingen\' hebt u aangegeven dat uw bezittingen op 1 januari&nbsp;2025 niet meer waard zijn dan \u20AC 37.395. Maar volgens deze berekening is dat wel het geval.<br /><br />Ga terug naar \'Bankrekeningen en andere bezittingen\' en kies \'Ja\' bij \'Zijn deze bezittingen op 1 januari&nbsp;2025 in totaal meer waard dan \u20AC 74.790?\'. Of pas uw gegevens aan.
-Bij \'Bankrekeningen en andere bezittingen\' hebt u aangegeven dat uw bezittingen op 1 januari&nbsp;2025 niet meer waard zijn dan \u20AC 74.790. Maar volgens deze berekening is dat wel het geval.<br /><br />Ga terug naar \'Bankrekeningen en andere bezittingen\' en kies \'Ja\' bij \'Zijn deze bezittingen op 1 januari&nbsp;2025 in totaal meer waard dan \u20AC 37.395?\'. Of pas uw gegevens aan.
-Bij \'Bankrekeningen en andere bezittingen\' hebt u aangegeven dat uw bezittingen op 1 januari&nbsp;2025 niet meer waard zijn dan \u20AC 74.790. Maar volgens deze berekening is dat wel het geval.<br /><br />Ga terug naar \'Bankrekeningen en andere bezittingen\' en kies \'Ja\' bij \'Zijn deze bezittingen op 1 januari&nbsp;2025 in totaal meer waard dan \u20AC 74.790?\'. Of pas uw gegevens aan.
-
-Bouwdepots. Naast uw hypotheek had u een rekening met een verbouwings- of nieuwbouwdepot.
-Bouwdepots. Naast uw hypotheek hebt u een rekening met een verbouwings- of nieuwbouwdepot.
-
-
-Bonaire, Sint Eustatius en Saba
-
-
-Bouwkavel of woning in aanbouw
-Box 1: werk en woning, aftrekposten
-Box 2: aanmerkelijk belang, aftrekposten
-Box 3: sparen en beleggen, aftrekposten
-Brits Indische Oceaanterritorium
-Brutodividend op aandelen of rente op obligaties
-Buiten Nederland ondergebrachte lijfrenteaanspraken in de Nederlandse periode
-Buiten Nederland ondergebrachte lijfrenteaanspraken in de buitenlandse periode
-Buiten Nederland ondergebrachte pensioenaanspraken
-Buitenlands fiscaal identificatienummer
-Buitenlands loon waarover geen bijdrage Zvw wordt afgedragen
-Buitenlandse belasting in de periode
-Buitenlandse belasting over de inkomsten als artiest of beroepssporter
-Buitenlandse belasting over deze inkomsten
-Buitenlandse belasting over dit loon
-Buitenlandse bronbelasting dividend
-Buitenlandse bronbelasting in de periode dat u in Nederland woonde
-Buitenlandse bronbelasting over de rente
-Buitenlandse bronbelasting over de rente in&nbsp;de periode 
-Buitenlandse bronbelasting&nbsp;
-Buitenvennootschappelijk ondernemingsvermogen
-Burgerservicenummer&nbsp;
-Controleer de balans. Aan het begin van het boekjaar moet het totaal van de passiva
-Controleer de balans. Aan het einde van het boekjaar moet het totaal van de passiva
-Controleer en vergelijk altijd uw aangifte met de aangifte van uw fiscale partner.
-Controleer op de volgende schermen uw gegevens. Wilt u na het controleren uw gegevens wijzigen? Pas deze dan in uw boekhoudsoftware aan. Om uw nieuwe gegevens te kunnen uploaden moet u eerst het oude bestand verwijderen. Ga hiervoor naar het scherm &lsquo;Onderneming&rsquo; waar u het bestand hebt ge&uuml;pload. Verwijder het oude bestand door op de prullenbak te klikken. Daarna kunt u het nieuwe bestand uploaden.
-Correctie niet zelfstandig verkoopbaar
-Correctie voor erfpacht (
-Correctie voor erfpacht (
-Correctie voor huurbescherming (
-Correctie voor huurbescherming (0% van 
-Correctie voor huurbescherming (
-Correctie voor huurbescherming (0 % van 
-Correctie voor onvolledig eigendom (
-Correctie voor onvolledig eigendom (
-Correctie voor verpachting (
-Correctie voor verpachting (0% van 
-Correctie voor verpachting (
-Correctie voor verpachting (0 % van 
-Courante bezittingen op 1 januari 2024
-Cryptobezittingen (bijvoorbeeld bitcoins of NFT's)
-Cryptobezittingen (bijvoorbeeld bitcoins of&nbsp;NFT's)
-Cryptobezittingen op 1 januari 2025
-Dagen in 2024
-Dagen in 2025
-Dagtekening voorlopige aanslag
-Datum afsluiten contract aannemer
-Datum be&euml;indiging (ver)bouw
-Datum in 2024 waarop het eigendomsdeel is veranderd
-Datum in 2024 waarop het eigendomsdeel is veranderd of niet meer tot het priv&eacute;vermogen hoorde
-Datum in 2025 waarop het eigendomsdeel verandert
-Datum mag niet in de toekomst liggen.
-Datum mag niet in het verleden liggen.
-Datum opname 
-Datum opname in het verzorgings- of verpleeghuis
-Datum van overlijden&nbsp;
-Datum waarop 
-Datum waarop de investering in gebruik is genomen
-Datum waarop deze woning niet meer het hoofdverblijf van 
-Datum waarop deze woning niet meer het hoofdverblijf van u of 
-Datum waarop deze woning niet meer uw hoofdverblijf is
-Datum waarop deze woning niet meer uw hoofdverblijf was
-Datum waarop u de looptijd van de verzekering hebt verlengd
-Datum waarop u de premie hebt verhoogd
-Datum waarop u het verzekerde kapitaal of de premie hebt verhoogd
-Datum waarop u of 
-Datum waarop u of 
-Datum waarop u werd opgenomen in het verzorgings- of verpleeghuis
-Datum waarop volgens het contract de lening afgelost moet zijn
-Datum waarop&nbsp;
-Datum waarop&nbsp;u de onderneming hebt gestaakt of doorgeschoven
-Datum waarop&nbsp;u en 
-De Hoge Raad heeft een aantal uitspraken gedaan over het berekenen van het voordeel uit sparen en beleggen (box 3). In plaats van het voordeel uit sparen en beleggen dat uitgaat van een fictief rendement, mag u ook belasting betalen over het werkelijk rendement. Met dit formulier geeft u uw werkelijk rendement aan over 
-De Hoge Raad heeft recent een uitspraak gedaan over de hoogte van sommige heffingskortingen voor buitenlandse belastingplichtigen. Het kan zijn dat u daardoor recht hebt op een hogere heffingskorting dan hier vermeld staat. U betaalt daardoor minder belasting. U hoeft hiervoor niets te doen. Wij houden er bij het opleggen van uw definitieve aanslag rekening mee.&nbsp;
-De afkoopsom mag niet negatief zijn.
-De arbeidskorting is hoger dan het loon. Dit is niet gebruikelijk.&nbsp;Controleer of het ingevulde bedrag overeenkomt met het bedrag op uw jaaropgaaf.
-De arbeidskorting is hoger dan het maximum van deze korting. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.
-De arbeidskorting is hoger dan het maximum van deze korting.&nbsp;Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.
-De bedragen zijn te groot. Hierdoor kan het resultaat van 1 of meer berekeningen niet correct getoond worden. Het formulier kan niet worden verstuurd.
-De begindatum van de periode kan niet na de einddatum liggen.
-De betalingen die 
-De bijgeschreven rente over de genoemde periode kan niet meer zijn dan het totaal van de bijgeschreven rente in 2024. Controleer uw gegevens.
-De bijgeschreven rente over de genoemde periode kan niet meer zijn dan het totaal van de bijgeschreven rente in 2024. Controleer uw gegevens. <br /><br />
-De bijgeschreven rente over de genoemde periode kan niet meer zijn dan het totaal van de bijgeschreven rente in 2025. Controleer uw gegevens.&nbsp;
-De bijlagen die u toevoegt, mogen niet dezelfde naam hebben. Pas de naam van een bijlage aan. U kunt ook een bijlage verwijderen.
-De bijtelling maximumverliesbepaling is in dit boekjaar niet van toepassing.
-De boekwaarde aan het einde van het boekjaar bij \'(Bedrijfs)gebouwen en terreinen\' (
-De buitenlandse bronbelasting is hoger dan 
-De buitenlandse bronbelasting is hoger dan 
-De buitenlandse bronbelasting&nbsp;is hoger dan 
-De datum moet in het boekjaar liggen.
-De datum van de aanvraag kan niet liggen voor de datum dat u 16 jaar werd.
-De datum van de be&euml;indiging van de (ver)bouw kan niet liggen voor de datum van de overeenkomst van het depot.
-De datum van de ingebruikname van de investering mag niet voor het begin van het boekjaar liggen.
-De datum van de investering moet in het boekjaar liggen.
-De datum waarop het eigendomsdeel veranderde kan niet liggen v&oacute;&oacute;r de datum 
-De datum waarop het eigendomsdeel veranderde kan niet liggen v&oacute;&oacute;r de datum van de vorige verandering van het eigendomsdeel.
-De datum waarop het eigendomsdeel verandert kan niet liggen v&oacute;&oacute;r de datum 
-De datum waarop het eigendomsdeel verandert kan niet liggen v&oacute;&oacute;r de datum van de vorige verandering van het eigendomsdeel.
-De datum waarop u de onderneming hebt gestaakt moet gelijk zijn aan de einddatum van het boekjaar. Controleer de ingevulde datums.
-De einddatum kan niet na 
-De einddatum van de periode kan niet voor de begindatum liggen.
-De einddatum van deze situatie kan niet liggen v&oacute;&oacute;r de datum 
-De einddatum van deze situatie kan niet liggen voor de begindatum van deze situatie.
-De einddatum van deze situatie kan niet liggen voor de einddatum van de vorige situatie.
-De extra aftrek voor culturele giften is maximaal \u20AC 1.250.
-De extra aftrek voor culturele giften is maximaal \u20AC 1.250. Dit geldt voor periodieke en gewone giften samen.
-De extra aftrek voor culturele giften is maximaal \u20AC 1.250.
-De extra aftrek voor culturele giften is maximaal \u20AC 1.250. Dit geldt voor periodieke en gewone giften samen.
-De gegevens van uw fiscale partner kunnen niet vooraf worden ingevuld in de aangifte. Ga verder met aangifte doen door zelf de gegevens in te vullen.
-De gegevens van uw fiscale partner kunnen niet vooraf worden ingevuld in dit formulier. Ga verder met dit formulier door zelf de gegevens in te vullen.
-De giften die uw partner deed, mag u alleen meetellen voor de Nederlandse periode.
-De ingehouden dividendbelasting kan niet hoger zijn dan 15% van het dividend. Controleer uw gegevens en pas deze aan.
-De ingehouden dividendbelasting kan niet hoger zijn dan 15% van het dividend. Controleer uw gegevens.
-De kosten die uw partner maakte, mag u alleen meetellen voor de Nederlandse periode.
-De loonheffing is hoger dan de afkoopsom. Dit is niet gebruikelijk.&nbsp;Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.
-De loonheffing is hoger dan de uitkering. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.
-De loonheffing is hoger dan de uitkering. Dit is niet gebruikelijk.&nbsp;Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.
-De loonheffing is hoger dan het belaste deel van de afkoopsom of de lijfrente. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.
-De loonheffing is hoger dan het belaste deel van de afkoopsom of de lijfrente. Dit is niet gebruikelijk.&nbsp;Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.
-De loonheffing is hoger dan het loon. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.
-De loonheffing is hoger dan het loon. Dit is niet gebruikelijk.&nbsp;Controleer of het ingevulde bedrag overeenkomt met het bedrag op uw jaaropgaaf.
-De loonheffing is hoger dan het pensioen. Dit is niet gebruikelijk. Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.
-De loonheffing is hoger dan het pensioen. Dit is niet gebruikelijk.&nbsp;Controleer of het ingevulde bedrag overeenkomt met het bedrag op de jaaropgaaf.
-De loonheffing wijkt af van de gebruikelijke 52,00%. Controleer de gegevens.
-De loonheffing wijkt af van de gebruikelijke 52,00%. Controleer&nbsp;de gegevens.
-De maximale waarde mag niet groter zijn dan
-De minimale waarde mag niet lager zijn dan
-De omzet is lager dan &euro; 10.000. Waarschijnlijk hebt u minder dan 1.225 uur in de onderneming gewerkt. Controleer de urenberekening en pas zo nodig uw antwoord aan.
-De omzet is lager dan &euro; 10.000. Waarschijnlijk heeft 
-De omzet is lager dan &euro; 10.000. Waarschijnlijk\n#hebt u-heeft null minder\ndan 1.225 uur in de onderneming gewerkt. Controleer\nde urenberekening en pas zo nodig uw antwoord aan.
-De omzet is lager dan &euro; 10.000. Waarschijnlijk\nhebt u minder\ndan 1.225 uur in de onderneming gewerkt. Controleer\nde urenberekening en pas zo nodig uw antwoord aan.
-De omzet is lager dan &euro; 10.000. Waarschijnlijk\nheeft 
-De onderneming heeft een gebroken boekjaar. Vul de gegevens van de auto in per kalenderjaar.
-De onderneming heeft een gebroken boekjaar. Vul de gegevens van de woning in per kalenderjaar.
-De opbrengst is lager dan &euro; 5.000.&nbsp;Waarschijnlijk&nbsp;is er geen sprake van winst uit onderneming, maar van inkomsten uit overig werk. Ga in dat geval terug naar het scherm &#39;Ondernemingen&#39;, verwijder deze onderneming en geef op het scherm &#39;Inkomsten&#39; aan dat 
-De opbrengst is lager dan &euro; 5.000.&nbsp;Waarschijnlijk&nbsp;is er geen sprake van winst uit onderneming, maar van inkomsten uit overig werk. Ga in dat geval terug naar het scherm &#39;Ondernemingen&#39;, verwijder deze onderneming en geef op het scherm &#39;Inkomsten&#39; aan dat u en 
-De opbrengst is lager dan &euro; 5.000.&nbsp;Waarschijnlijk&nbsp;is er geen sprake van winst uit onderneming, maar van inkomsten uit overig werk. Ga in dat geval terug naar het scherm &#39;Ondernemingen&#39;, verwijder deze onderneming en geef op het scherm &#39;Inkomsten&#39; aan dat u inkomsten uit overig werk had.
-De opbrengst is lager dan &euro; 5.000.&nbsp;Waarschijnlijk&nbsp;is er geen sprake van winst uit onderneming, maar van inkomsten uit overig werk. Ga in dat geval terug naar het scherm &#39;Ondernemingen&#39;, verwijder deze onderneming en geef op het scherm &#39;Inkomsten&#39; aan dat u inkomsten uit overig werk hadden.
-De periode die u hebt ingevuld dat 
-De periode die u hebt ingevuld dat u verzekerd was voor AOW en de Anw is ongelijk aan de periode die u hebt ingevuld bij Wlz en de Zvw. Dit is ongebruikelijk. Controleer uw gegevens.
-De periode kan niet eindigen na de datum van overlijden.
-De periode waarin u ingeschreven stond op hetzelfde adres kan niet eindigen na de datum van overlijden.
-De periodes bij &#39;Reiskosten&#39; overlappen elkaar. Reisde u op dezelfde dag naar verschillende plaatsen? Vul dan in: de plaats waar u het vaakst naartoe ging. Reisde u even vaak naar de verschillende plaatsen? Vul dan in: de plaats met de langste reisafstand.<br /><br />Klik op &#39;OK&#39; als u akkoord gaat met uw gegevens.<br />Klik op &#39;Annuleren&#39; als u uw gegevens wilt wijzigen.
-De periodes bij &#39;Reiskosten&#39; overlappen elkaar. Reisde u op dezelfde dag naar verschillende plaatsen? Vul dan in: de plaats waar u het vaakst naartoe ging. Reisde u even vaak naar de verschillende plaatsen? Vul dan in: de plaats met de langste reisafstand.<br /><br />Klik op &#39;OK&#39; als u op iedere dag dat u reisde maar 1 werkplaats bezocht.<br />Klik op &#39;Annuleren&#39; als u uw gegevens wilt wijzigen.
-De periodes bij &#39;Reiskosten&#39; overlappen elkaar. Reist u op dezelfde dag naar verschillende plaatsen? Vul dan in: de plaats waar u het vaakst naartoe gaat. Reist u even vaak naar de verschillende plaatsen? Vul dan in: de plaats met de langste reisafstand.<br /><br />Klik op &#39;OK&#39; als u akkoord gaat met uw gegevens.<br />Klik op &#39;Annuleren&#39; als u uw gegevens wilt wijzigen.
-De periodes met studiefinanciering overlappen. Controleer uw gegevens.
-De rendementsgrondslag (vermogen) en de vrijstelling groene beleggingen worden in dezelfde verhouding verdeeld als de grondslag uit sparen en beleggen.&nbsp;De rendementsgrondslag is van belang voor inkomensafhankelijke regelingen. Deze had u niet in&nbsp;2024.
-De rendementsgrondslag (vermogen) wordt in dezelfde verhouding verdeeld als de grondslag uit sparen en beleggen.&nbsp;De rendementsgrondslag is van belang voor inkomensafhankelijke regelingen. Deze had u niet in&nbsp;2024.
-De rente die 
-De rente die u betaalde voor de woning over de periode dat u niet meer samen op 1 adres woonde. Het gaat om het deel waarvan&nbsp;
-De rente die u betaalde voor de woning over de periode dat u niet meer samen op 1 adres woonden. Het gaat om het deel waarvan&nbsp;
-De rente die u betaalde voor de woning over de periode dat zij niet meer samen op 1 adres woonde. Het gaat om het deel waarvan&nbsp;
-De rente die u betaalde voor de woning over de periode dat zij niet meer samen op 1 adres woonden. Het gaat om het deel waarvan&nbsp;
-De rente die u ontvangt over uw verbouwings- of nieuwbouwdepot is meer dan de aftrekbare (hypotheek)rente van uw eigen woning. Deze situatie is niet toegestaan. Pas uw gegevens aan in het scherm 'Bouwdepots' onder 'Bankrekeningen en andere bezittingen' of in het scherm 'Hypotheken en andere schulden'.
-De rente over andere jaren die u betaalde in&nbsp;2024 kan niet hoger zijn dan het totaal van de betaalde rente in 2024. Controleer uw gegevens en pas deze aan.
-De rente over andere jaren die u betaalt in&nbsp;2025 kan niet hoger zijn dan het totaal van de rente die u betaalt in 2025. Controleer uw gegevens en pas deze aan.
-De rente over uw verbouwings- of nieuwbouwdepot is hoger&nbsp;dan de aftrekbare (hypotheek)rente van uw eigen woning. Deze situatie kunnen wij niet verwerken. Pas de rente aan&nbsp;die u hebt ingevuld in het scherm &#39;Bouwdepots&#39;. Het bedrag daar mag niet hoger zijn dan het bedrag aan betaalde hypotheekrente dat is ingevuld in het scherm &#39;Hypotheken en andere schulden&#39;.
-De revisierente is meer dan 20&#37; van de afkoopsom. Dit is niet gebruikelijk. Controleer uw gegevens.
-De revisierente is meer dan 20&#37; van&nbsp;het belaste deel van de afkoopsom. Dit is niet gebruikelijk. Controleer uw gegevens.
-De revisierente is meer dan 20&#37; van de afkoopsom. Dit is niet gebruikelijk. Controleer de gegevens.
-De revisierente is meer dan 20&#37; van de afkoopsom. Dit is niet gebruikelijk. Controleer&nbsp;de gegevens.
-De revisierente is meer dan 20&#37; van het belaste deel van de afkoopsom. Dit is niet gebruikelijk. Controleer de gegevens.
-De revisierente is meer dan 20&#37; van&nbsp;het belaste deel van de afkoopsom. Dit is niet gebruikelijk. Controleer&nbsp;de gegevens.
-De studiekosten van&nbsp;
-De studiekosten van&nbsp;
-De totale premie volksverzekeringen kan afwijken door de afronding van de bedragen.
-De trouwdatum kan niet liggen na de datum van overlijden.
-De uitgaven die 
-De verdeling kan ook van invloed zijn op het inkomen of vermogen van uzelf en&nbsp;
-De verdeling van de rendementsgrondslag (vermogen) heeft geen gevolgen voor uw belasting over box 3.&nbsp;De rendementsgrondslag is van belang voor inkomensafhankelijke regelingen. Deze had u niet in&nbsp;2024.<br /><br />Maar de verdeling van de rendementsgrondslag heeft wel gevolgen voor de heffingskorting voor groene beleggingen. Dat komt doordat de vrijstelling groene beleggingen in dezelfde verhouding wordt verdeeld als de rendementsgrondslag.
-De vergoeding voor woon-werkverkeer kan niet hoger zijn dan de vergoeding van de werkgever. Pas de gegevens aan.
-De vergoeding voor woon-werkverkeer met het openbaar vervoer kan niet hoger zijn dan de vergoeding van de werkgever. Pas de gegevens aan.
-De vergoeding voor woon-werkverkeer met het openbaar vervoer kan niet hoger zijn dan de vergoeding voor woon-werkverkeer. Pas de gegevens aan.
-De verhouding&nbsp;van uw deel van de rente tot de totaal betaalde rente wijkt af van de verhouding van uw schuld tot de totale gemiddelde schuld. Controleer uw gegevens.<br /><br />Is uw (vroegere) fiscale partner in de woning blijven wonen waar deze schuld bij hoort? En betaalde u de rente voor deze persoon? Vul hier dan alleen de rente in voor het deel van de woning dat uw eigendom is.<br /><br />Hebt u de rente voor uw partner betaald als gevolg van afspraken die u onderling hebt gemaakt? Dan mag u dat deel van de rente invullen in het scherm &#39;Uitgaven voor partneralimentatie&#39;.
-De verkoopdatum kan niet liggen v\xF3\xF3r de aankoopdatum.
-De volgende vragen gaan alleen over het deel van de schuld dat is gebruikt voor het hoofdverblijf in Nederland.
-De volgende vragen gaan alleen over het deel van de schuld dat is gebruikt voor het hoofdverblijf.
-De volgende vragen gaan alleen over het deel van de schuld dat wordt gebruikt voor het hoofdverblijf.
-De waarde mag niet hoger liggen dan
-De waarde mag niet hoger zijn dan&nbsp;
-De waarde mag niet lager liggen dan
-De waarde van deze onroerende zaak bij het hoofdverblijf is hoger dan &euro; 100.000. Dat is ongebruikelijk. Controleer of u de juiste waarde hebt ingevuld en pas het bedrag eventueel aan.
-De waarde van het bewoonde deel van dit pand kan niet groter zijn dan de WOZ-waarde van het hele pand.
-De waarde van het eigen gebruik is de huurwaarde. De huurwaarde in de binnenlandse periode op jaarbasis berekenen wij op 5,06&#37; van de WOZ-waarde, omdat dit het landelijk gemiddelde is. Uw huurwaarde in de binnenlandse periode op jaarbasis is dan 
-De waarde van het eigen gebruik is de huurwaarde. De huurwaarde in de binnenlandse periode op jaarbasis berekenen wij op 5,06&#37; van de waarde van deze onroerende zaak, omdat dit het landelijk gemiddelde is. Uw huurwaarde in de binnenlandse periode op jaarbasis is dan 
-De waarde van het eigen gebruik is de huurwaarde. De huurwaarde in de buitenlandse periode op jaarbasis berekenen wij op 5,06&#37; van de WOZ-waarde, omdat dit het landelijk gemiddelde is. Uw huurwaarde in de buitenlandse periode op jaarbasis is dan 
-De waarde van het eigen gebruik is de huurwaarde. De huurwaarde in de buitenlandse periode op jaarbasis berekenen wij op 5,06&#37; van de waarde van deze onroerende zaak, omdat dit het landelijk gemiddelde is. Uw huurwaarde in de buitenlandse periode op jaarbasis is dan 
-De waarde van het eigen gebruik is de huurwaarde. De huurwaarde op jaarbasis berekenen wij op 5,06&#37; van de WOZ-waarde, omdat dit het landelijk gemiddelde is. Uw huurwaarde op jaarbasis is dan 
-De waarde van het eigen gebruik is de huurwaarde. De huurwaarde op jaarbasis berekenen wij op 5,06&#37; van de waarde van deze onroerende zaak, omdat dit het landelijk gemiddelde is. Uw huurwaarde op jaarbasis is dan 
-De ziektewetuitkering of WAZO heeft consequenties voor de hoogte van uw heffingskortingen. Om het risico te beperken dat u teveel heffingskortingen ontvangt die u later moet terugbetalen is het van belang om contact op te nemen met de werkgever of het UWV bij de beantwoorden van de volgende vragen.
-De&nbsp;Bijstand die de Sociale Dienst&nbsp;aan een ex-partner gaf en op 
-De&nbsp;alimentatie die 
-De&nbsp;rente die 
-Deed u in 
-Deed u of 
-Deed u uitgaven na uw emigratie op 
-Deel fiscale parter, aftrek vanwege geen of kleine eigenwoningschuld
-Deel fiscale parter, rendementsgrondslag
-Deel fiscale parter, vrijstelling groene beleggingen
-Deel fiscale partner, Grondslag voordeel uit sparen en beleggen
-Deel fiscale partner, aanmerkelijk belang
-Deel fiscale partner, aftrek eigen woning
-Deel fiscale partner, aftrekbare uitgaven eigen woning
-Deel fiscale partner, aftrekbare uitgaven van v&oacute;&oacute;r 2024
-Deel fiscale partner, buitenlandse bronbelasting dividend
-Deel fiscale partner, grondslag voordeel uit sparen en beleggen
-Deel fiscale partner, ingehouden dividendbelasting
-Deel fiscale partner, inkomsten eigen woning
-Deel fiscale partner, partneralimentatie en andere onderhoudsverplichtingen
-Deel fiscale partner, tijdelijk verblijf thuis gehandicapten
-Deel fiscale partner, voordeel uit aanmerkelijk belang
-Deel fiscale partner, zorgkosten
-Deel fiscale partner,&nbsp;rendementsgrondslag
-Deel periode 
-Deel periode Nederland van 
-Deel periode Nederland van uzelf
-Deel periode Nederland van uzelf en 
-Deel periode&nbsp;
-Deel priv&eacute;gebruik van 
-Deel van  waarvan eerder gebruik is gemaakt
-Deel van de  winst van 
-Deel van de WOZ-waarde dat niet hoort bij het zakelijk vermogen
-Deel van de financieringskosten dat hoort bij een lening voor een woning buiten Nederland
-Deel van de financieringskosten dat&nbsp;hoort bij een lening voor een woning buiten&nbsp;Nederland
-Deel van de inkomsten dat niet in Nederland belast is
-Deel van de ondernemersaftrek dat u mag toerekenen aan de winst in Nederland
-Deel van de vergoeding voor woon-werkverkeer met het openbaar vervoer
-Deel van de vergoeding voor&nbsp;woon-werkverkeer
-Deel van de vrijstelling van&nbsp;
-Deel van de vrijstelling van&nbsp;
-Deel van de winst van 
-Deel van deze afkoopsom dat niet in Nederland belast is
-Deel van deze inkomsten dat niet in Nederland belast is
-Deel van deze inkomsten dat volgens het belastingverdrag niet in Nederland belast is
-Deel van deze lijfrente dat niet in Nederland belast is
-Deel van deze rente over de periode 
-Deel van deze schuld dat een eigenwoningschuld was
-Deel van deze schulden dat een eigenwoningschuld was
-Deel van deze uitkering dat niet in Nederland belast is
-Deel van deze vergoeding dat voor het openbaar vervoer is
-Deel van deze waarde dat niet hoort bij het zakelijk vermogen
-Deel van deze&nbsp;uitkering dat niet in Nederland belast is
-Deel van dit loon dat niet in Nederland belast is
-Deel van dit loon dat volgens het belastingverdrag niet in Nederland belast is
-Deel van dit pensioen dat niet in Nederland belast is
-Deel van het eigendom op 
-Deel van het eigendom van u en 
-Deel van het eigendom van u&nbsp;en 
-Deel van u en 
-Deel van u en&nbsp;
-Deel van uw vrijstelling waarvan eerder gebruik is gemaakt
-Deel van uw winst van 
-Deel van&nbsp;
-Deel van&nbsp;deze inkomsten dat niet in Nederland belast is
-Deel&nbsp;van het eigendom van 
-Deelname van 
-Definitieve lening over 
-Desinvesteringsbijtelling wegens het staken van de onderneming
-Deze bedragen zijn alleen nodig voor een juist overzicht van de te betalen of terug te krijgen inkomstenbelasting en premie volksverzekeringen in het scherm 'Overzicht belastingen en premies'. U bent dus niet verplicht om het bedrag in te vullen. Wij houden bij het vaststellen van de definitieve aanslag al rekening met nog te verrekenen verliezen.
-Deze bedragen zijn exclusief belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39; en bij &#39;Berekening bijdrage Zorgverzekeringswet&#39;.
-Deze bedragen zijn exclusief belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39;.
-Deze bedragen zijn exclusief belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39; en bij &#39;Berekening bijdrage Zorgverzekeringswet&#39;.
-Deze bedragen zijn exclusief belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39;.
-Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. &nbsp;In deze berekening hebben we geen rekening gehouden met de compensatieregeling.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39; en bij &#39;Berekening bijdrage Zorgverzekeringswet&#39;.
-Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. &nbsp;In deze berekening hebben we geen rekening gehouden met de compensatieregeling.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39;.
-Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39; en bij &#39;Berekening bijdrage Zorgverzekeringswet&#39;.
-Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39;.
-Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. &nbsp;In deze berekening hebben we geen rekening gehouden met de compensatieregeling.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39; en bij &#39;Berekening bijdrage Zorgverzekeringswet&#39;.
-Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. &nbsp;In deze berekening hebben we geen rekening gehouden met de compensatieregeling.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39;.
-Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39; en bij &#39;Berekening bijdrage Zorgverzekeringswet&#39;.
-Deze bedragen zijn exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39;.
-Dieet op voorschrift dokter of di&euml;tist
-Dieet op voorschrift van een dokter of di&euml;tist
-Dieet op voorschrift van een dokter of di&euml;tist (vast bedrag)
-Dieet van: 
-Dit bedrag heeft geen invloed op de hoogte van uw belastbaar inkomen voor de inkomstenbelasting, maar wel op de hoogte van uw premie-inkomen voor de premie volksverzekeringen. U mag het totaalbedrag van u en uw partner in de buitenlandse periode verdelen tussen u en uw partner in het scherm &#39;Verdelen&#39; verderop in de aangifte.
-Dit bedrag heeft geen invloed op de hoogte van uw belastbaar inkomen voor de inkomstenbelasting, maar wel op de hoogte van uw premie-inkomen voor de premie volksverzekeringen. U mag het totaalbedrag van u en uw partner in de buitenlandse periode verdelen tussen u en uw partner in het scherm 'Verdelen' verderop in de aangifte.
-Dit bedrag heeft geen invloed op de hoogte van uw belastbaar inkomen voor de\ninkomstenbelasting, maar wel op de hoogte van uw premie-inkomen voor de premie volksverzekeringen.\nU mag het totaalbedrag van u en uw partner in de buitenlandse periode verdelen tussen u en uw partner\nin het scherm 'Verdelen' verderop in de aangifte.
-Dit bedrag is exclusief belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39; en bij &#39;Berekening bijdrage Zorgverzekeringswet&#39;.
-Dit bedrag is exclusief belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39;.
-Dit bedrag is exclusief belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39; en bij &#39;Berekening bijdrage Zorgverzekeringswet&#39;.
-Dit bedrag is exclusief belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39;.
-Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. &nbsp;In deze berekening hebben we geen rekening gehouden met de compensatieregeling.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39; en bij &#39;Berekening bijdrage Zorgverzekeringswet&#39;.
-Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan. &nbsp;In deze berekening hebben we geen rekening gehouden met de compensatieregeling.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39;.
-Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39; en bij &#39;Berekening bijdrage Zorgverzekeringswet&#39;.
-Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan deze bedragen of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39;.
-Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. &nbsp;In deze berekening hebben we geen rekening gehouden met de compensatieregeling.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39; en bij &#39;Berekening bijdrage Zorgverzekeringswet&#39;.
-Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan. &nbsp;In deze berekening hebben we geen rekening gehouden met de compensatieregeling.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39;.
-Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39; en bij &#39;Berekening bijdrage Zorgverzekeringswet&#39;.
-Dit bedrag is exclusief eventuele belastingrente. U kunt geen rechten ontlenen aan dit bedrag of de berekening ervan.<br /><br />De details van de berekening ziet u hierna bij &#39;Berekening inkomstenbelasting en premie volksverzekeringen&#39;.
-Dit bedrag kan niet hoger zijn dan de WOZ-waarde.
-Dit bedrag kan niet hoger zijn dan de waarde in het economisch verkeer.
-Dit bedrag&nbsp;kan niet hoger zijn dan de WOZ-waarde.
-Dit bedrag&nbsp;kan niet hoger zijn dan de waarde in het economisch verkeer.
-Dit dieet is gevolgd in de periode dat u in Nederland woonde \xE9n in de periode dat u in 
-Dit formulier ondersteunt deze situatie niet. <br /><br />Wilt u toch met dit formulier aangifte doen, kies dan &#39;Ja&#39; bij de vraag &#39;Wilt u met 
-Dit formulier ondersteunt deze situatie niet.<br /><br />U kunt aangifte doen met het papieren M-formulier. Dit kunt u aanvragen bij de BelastingTelefoon: 0800 - 0543 of de BelastingTelefoon Buitenland: +31 555 385 385.
-Dit formulier ondersteunt deze situatie niet.<br /><br />Wilt u toch met dit formulier een voorlopige aanslag aanvragen of wijzigen, kies dan 'Ja' bij de vraag 'Wilt u met <span class=\"nowrap\">
-Dit is een ongeldig meldingsnummer. Vul eerst de hoofletter E in, en daarna 9 cijfers.
-Dit is een ongeldig meldingsnummer. Vul eerst de hoofletter M in, en daarna 9 cijfers.
-Dit is geen geldig Nederlands kenteken.
-Dit is het grensbedrag voor bepaalde regelingen, zoals huurtoeslag. Het heffingsvrij&nbsp;vermogen voor&nbsp;de inkomstenbelasting&nbsp;is hoger.
-Dividend- en kansspelbelasting
-Do you use a screen reader for blind and visually impaired people? You should state this here, so that we can adjust the settings to this.
-Doe v&oacute;&oacute;r 1 mei 2025 aangifte
-Doe v&oacute;&oacute;r 1&nbsp;mei&nbsp;2025 aangifte
-Doet u in 2025 gewone giften?
-Doet u in 2025 periodieke giften die schriftelijk zijn vastgelegd?
-Doet u of 
-Door een technische fout kunt u niet verder met dit formulier. Sluit dit formulier en verwijder deze in Mijn Belastingdienst. Daarna kunt u opnieuw een Voorlopige aanslag openen.
-Door u betaald bedrag in dit boekjaar voor deze investering
-Door u betaald bedrag voor deze investering in dit boekjaar
-Doorgeschoven winst of in te halen verlies uit vorige jaren
-Doorgeven taalkeuze in Voorziening Schermen
-Dreef het APV een onderneming?
-Echtgenoot: 
-Een aantal inkomsten en/of aftrekposten moet u verdelen tussen u en uw partner. Wij hebben dit zo gunstig mogelijk voor u gedaan, zodat u zo min mogelijk belasting betaalt. Als u toch een andere verdeling wilt,&nbsp;beantwoordt u de vraag &#39;Gaat u akkoord met de optimale verdeling?&#39; met &#39;Nee&#39;.
-Een aantal inkomsten en/of aftrekposten moet u verdelen tussen u en uw partner. Wij hebben dit zo gunstig mogelijk voor u gedaan, zodat u zo min mogelijk belasting betaalt. Als u toch een andere verdeling wilt,&nbsp;beantwoordt u de vraag 'Gaat u akkoord met de optimale verdeling?' met 'Nee'.
-Een dieet voor 
-Een hulpveld kan niet aangemaakt worden omdat de bijbehorende hulpmethode met refid %s niet gevonden kan worden.
-Een hulpveld moet berekend worden maar een bijbehorende hulpmethode kon niet gevonden worden
-Een normale FormEntity kan geen donefield bevatten,deze kan alleen geregisteerd worden op formentiteiten die de IMainFormEntity implementeren
-Een veld in het model kan niet als hulp veld worden gemarkeerd, als de parent entiteit (%s) de interface HasHulpMethoden niet implementeert
-Eerdere voorlopige aanslag 2025. Dit kan zijn:<br /><ul class="bullet-list"><li>een eerdere voorlopige aanslag inkomstenbelasting en premie volksverzekeringen<\/li><li>een eerdere voorlopige aanslag Zorgverzekeringswet<\/li><\/ul>
-Eerdere voorlopige aanslag Zorgverzekeringswet 2025
-Eerdere voorlopige aanslag inkomstenbelasting en premie volksverzekeringen 2025
-Eerdere voorlopige aanslagen 2025
-Eerste letter bedrijfsmiddelcode
-Eigen vermogen op 1 januari 2024
-Eigenwoningforfait min afgetrokken rente en kosten
-Einddatum van deze situatie in 2024
-Einddatum van deze situatie in 2025
-Einddatum waarop 
-Einddatum waarop u in 
-Eindigt (een deel van) uw aanmerkelijk belang in 2025 om een andere reden?
-Eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt
-Eiwitverrijkt in combinatie met sterk zoutbeperkt
-Energie- en milieu-investering
-Energie- en milieu-investering 
-Energie- en milieu-investeringsaftrek
-Energieverrijkt in combinatie met MCT-vetverrijkt
-Energieverrijkt in combinatie met MCT-vetverrijkt met vitaminepreparaat
-Energieverrijkt in combinatie met eiwitverrijkt
-Energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij
-Energieverrijkt met vitaminepreparaat
-Er is een technische fout. U bent automatisch uitgelogd. Probeer het later nog eens.
-Er is iets misgegaan bij het berekenen van uw belasting.  Uw gegevens zijn wel opgeslagen. Probeer het later nog eens.
-Er is iets misgegaan bij het bewaren van uw aangifte. Misschien zijn niet al uw gegevens opgeslagen.
-Er is iets misgegaan bij het bewaren van uw bijlage. Misschien zijn niet al uw gegevens opgeslagen.
-Er is iets misgegaan bij het openen van uw aangifte. Probeer het later nog eens.
-Er is iets misgegaan bij het versturen van uw aangifte.  Probeer het later nog eens.
-Er is iets misgegaan bij het verwijderen van uw bijlage. Misschien zijn niet al uw gegevens opgeslagen.
-Er is iets misgegaan met het ophalen van de gegevens van u. Sluit de aangifte af en probeer het later nog eens.
-Er is iets misgegaan met het ophalen van de gegevens van uw fiscale partner. U kunt doorgaan zonder deze gegevens. Of kies &#39;Annuleren&#39;, sluit de aangifte af en probeer het later nog eens.
-Er is iets misgegaan met het ophalen van de gegevens van uw fiscale partner. U kunt doorgaan zonder deze gegevens. Of kies 'Annuleren', sluit dit formulier af en probeer het later nog eens.
-Er is iets misgegaan met het ophalen van uw gegevens. U kunt doorgaan zonder deze gegevens. Of kies &#39;Annuleren&#39;, sluit de aangifte af en probeer het later nog eens.
-Er is iets misgegaan met het ophalen van uw gegevens. U kunt doorgaan zonder deze gegevens. Of kies 'Annuleren', sluit dit formulier af en probeer het later nog eens.
-Exception can not suppress itself.
-Extra aftrek gewone culturele giften
-Extra aftrek voor culturele giften
-Extra aftrek voor periodieke culturele giften
-Extra gezinshulp (Uw uitgaven
-Extra gezinshulp (Uw uitgaven &euro; 
-Extra gezinshulp (Uw uitgaven 0 min de drempel
-Extra gezinshulp (Uw uitgaven 0 min de drempel &euro; 
-Extra gezinshulp (Uw uitgaven 0 min de drempel 
-Extra gezinshulp (Uw uitgaven 
-Extra uitgaven voor kleding en beddengoed
-Extra uitgaven voor kleding en beddengoed (vast bedrag)
-Factor A in 
-Fermenteerbare oligosachariden, disachariden, monosachariden en polyolen beperkt (FODMAP)
-Fictief regulier voordeel&nbsp;
-Fictief rendement (voordeel uit sparen en beleggen) over
-Fictief rendement&nbsp;over&nbsp;
-File your tax return before 1 May 2025
-Financi&euml;le baten en lasten
-Fiscale&shy;winst&shy;berekening
-Fiscalewinstberekening 
-Fout bij bestandsupload! HTTP foutcode:
-Franse Zuidelijke en Antarctische Gebieden
-Fyto/plantensterolen-verrijkt bij verzadigd vetbeperkt
-GWT no longer supports Quirks Mode (document.compatMode=' BackCompat').<br>Make sure your application's host HTML page has a Standards Mode (document.compatMode=' CSS1Compat') doctype,<br>e.g. by using &lt;!doctype html&gt; at the start of your application's HTML page.<br><br>To continue using this unsupported rendering mode and risk layout problems, suppress this message by adding<br>the following line to your*.gwt.xml module file:<br>&nbsp;&nbsp;&lt;extend-configuration-property name=\"document.compatMode\" value=\"
 Ga bij het specificeren van deze onroerende zaak alleen uit van de periode dat u in Nederland woonde.
 Ga voor een overzicht van belastingverdragen naar <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/verdragsstaten_ib_ingezetenen" target="_blank">belastingdienst.nl/verdragen (opent nieuw venster)<\/a>.
 Ga voor een overzicht van belastingverdragen naar <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/verdragsstaten_ib_niet_ingezetenen" target="_blank">belastingdienst.nl/verdragen (opent nieuw venster)<\/a>.
