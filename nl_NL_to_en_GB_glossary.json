@@ -1,6 +1,7 @@
 {
   "bsn": "BSN → Citizen Service Number",
   "voorlopige aanslag": "Provisional Tax Assessment",
+  "aanslag": "Tax Assessment",
   "loonheffing": "Payroll Withholding Tax",
   "inkomstenbelasting": "Personal Income Tax",
   "btw": "VAT",
@@ -24,9 +25,355 @@
   "periodieke giften": "periodic donations (to qualifying organisations)",
   "rendementsgrondslag (vermogen)": "net wealth tax base (box 3)",
   "nabestaandenmachtiging": "bereavement power of attorney",
-  "fictief rendement": "notional return"
+  "fictief rendement": "notional return",
+  "(niet-gebruikte) jaarruimte": "(unused) annual pension allowance"
+  "partneralimentatie": "spousal alimony",
+  "studiekosten": "education expenses",
+  "uitgaven tijdelijk verblijf thuis gehandicapten": "expenses for temporary home care of disabled persons",
+  "kapitaalverzekeringen": "capital insurance policies ('kapitaalverzekering')",
+  "uitkeringen uit een kapitaalverzekering": "payouts from a capital insurance policy ('kapitaalverzekering')",
+  "premieheffing": "social security contributions",
+  "eigenwoning-forfait": "imputed rental value of the owner-occupied home ('eigenwoningforfait')",
+  "eigenwoningforfait": "imputed rental value of the owner-occupied home ('eigenwoningforfait')",
+  "grondslag rendementsberekening": "tax base for notional return calculation",
+  "IBAN (rekeningnummer)": "IBAN (bank account number)",
+  "geldverstrekker": "lender",
+  "Inkomstenbelasting box 1": "Personal Income Tax Box 1: income from work and owner-occupied home",
+  "Inkomstenbelasting box 2": "Personal Income Tax Box 2: substantial interest",
+  "Inkomstenbelasting box 3": "Personal Income Tax Box 3: savings and investments",
+  "kortingsfactor": "tax reduction factor",
+  "naam van het schip": "name of the boat or ship",
+  "ondernemersaftrek": "entrepreneurs’ allowance",
+  "onroerende zaken in box 3": "real estate in Box 3",
+  "Persoonsgebonden aftrek te verrekenen in box 2": "personal deductions to be offset in Box 2",
+  "Persoonsgebonden aftrek te verrekenen in box 3": "personal deductions to be offset in Box 3",
+  "Persoonsgebonden aftrek": "personal deductions",
+  "Privégebruik auto toevoegen": "add private use of car",
+  "Privégebruik woning toevoegen": "add private use of home",
+  "Te verrekenen heffingskortingen": "tax credits to be offset",
+  "Totaal Nederlandse dividendbelasting": "total Dutch dividend withholding tax",
+  "Totaal aftrek lijfrente": "total annuity deduction",
+  "Totaal aftrek lijfrente voor de inkomstenbelasting": "total annuity deduction for personal income tax",
+  "Totaal aftrek lijfrente voor de premieheffing": "total annuity deduction for social security contributions",
+  "Totaal aftrekbare uitgaven eigen woning": "total deductible expenses owner-occupied home",
+  "Totaal aftrekbare uitgaven restschuld eigen woning": "total deductible expenses residual debt owner-occupied home",
+  "Totaal aftrekbare uitgaven voor inkomensvoorzieningen": "total deductible expenses for income protection schemes",
+  "Totaal bezittingen": "total assets",
+  "Totaal box 1: werk en woning": "total Box 1: income from work and owner-occupied home",
+  "Totaal box 2: aanmerkelijk belang": "total Box 2: substantial interest",
+  "Totaal box 3: sparen en beleggen": "total Box 3: savings and investments",
+  "Totaal dividendbelasting": "total dividend withholding tax",
+  "Totaal eigen woning": "total owner-occupied home",
+  "Totaal gezamenlijk werkelijk rendement": "total joint actual return",
+  "Totaal heffingskortingen": "total tax credits",
+  "Totaal inkomsten uit eigen woning": "total income from owner-occupied home",
+  "Totaal inkomsten uit werk en woning": "total income from work and owner-occupied home",
+  "Totaal inkomstenbelasting en premie volksverzekeringen": "total personal income tax and social security contributions",
+  "Totaal inkomstenbelasting": "total personal income tax",
+  "Totaal loonheffing": "total payroll withholding tax",
+  "Totaal onttrekking privégebruik auto van de onderneming": "total withdrawal for private use of company car",
+  "Totaal overige privéonttrekkingen": "total other private withdrawals",
+  "Totaal pensioen en andere uitkeringen": "total pension and other benefits",
+  "Totaal persoonsgebonden aftrek": "total personal deductions",
+  "Totaal privéonttrekkingen in natura en in goederen": "total private withdrawals in kind and in goods",
+  "Totaal te betalen": "total payable",
+  "Totaal terug te krijgen": "total refundable",
+  "Totaal teruggekregen bedragen en vergoedingen": "total refunded amounts and reimbursements",
+  "Totaal voordeel uit aanmerkelijk belang": "total benefit from substantial interest",
+  "Totaal werkelijk rendement": "total actual return",
+  "Saldo op 01-01-2024": "Balance on 01-01-2024",
+  "Saldo op 01-01-2025": "Balance on 01-01-2025",
+  "Waarde op 01-01-2024": "Value on 01-01-2024",
+  "Waarde op 01-01-2025": "Value on 01-01-2025",
+  "Aanvragen of wijzigen voorlopige aanslag": "Request or change Provisional Tax Assessment",
+  "Box 1: werk en woning": "Box 1: income from work and owner-occupied home",
+  "Box 2: aanmerkelijk belang": "Box 2: substantial interest",
+  "Box 3: sparen en beleggen": "Box 3: savings and investments",
+  "inkomensafhankelijke regelingen": "income-related schemes",
+  "Vermogensbestanddeel": "asset component",
+  "Verzamelinkomen": "aggregate income",
+  "Voordeel sparen en beleggen": "Taxable income from savings and investments",
+  "Voordeel uit sparen en beleggen": "Taxable income from savings and investments"
+  "Waarde bezittingen en schulden voor deze inkomsten": "value of assets and liabilities for this income",
+  "Werkgever of uitkeringsinstantie": "employer or pension/benefits provider",
+  "voorlopige aanslag inkomstenbelasting en premie volksverzekeringen": "Provisional Tax Assessment personal income tax and social security contributions",
+  "AOW, pensioen en andere uitkeringen": "state pension (AOW), pension and other benefits",
+  "AOW, pensioen en andere uitkeringen in Nederland": "state pension (AOW), pension and other benefits in the Netherlands",
+  "Aangepast loonheffingsbedrag per pensioen of uitkering": "adjusted payroll withholding per pension or benefit",
+  "Aangepaste huurwaarde in de binnenlandse periode op jaarbasis": "adjusted rental value in the domestic period on an annual basis",
+  "Aangepaste huurwaarde op jaarbasis": "adjusted rental value on an annual basis",
+  "Aangifte inkomstenbelasting 2024": "Personal Income Tax Return 2024",
+  "Aangifte inkomstenbelasting 2024 bij emigratie of immigratie": "Personal Income Tax Return 2024 for emigration or immigration",
+  "Aangifte inkomstenbelasting 2024 voor buitenlandse belastingplichtigen": "Personal Income Tax Return 2024 for non-resident taxpayers",
+  "Aangifte voor binnenlandse belastingplichtigen": "Tax Return for resident taxpayers"
+
 }
 
+Boekwaarde 01-01-2024
+Boekwaarde 
+Boekwaarde begin boekjaar, (bedrijfs)gebouwen en terreinen
+Boekwaarde begin boekjaar, Niet-agrarische voorraden
+Boekwaarde begin boekjaar, Plantgoed, pootgoed en boom&shy;opstanden
+Boekwaarde begin boekjaar, Plantgoed, pootgoed en boomopstanden
+Boekwaarde begin boekjaar, Voorraden
+Boekwaarde begin boekjaar, andere agrarische materi&euml;le vaste activa
+Boekwaarde begin boekjaar, bloembollenkraam
+Boekwaarde begin boekjaar, champignons
+Boekwaarde begin boekjaar, dieren
+Boekwaarde begin boekjaar, effecten
+Boekwaarde begin boekjaar, egalisatiereserve
+Boekwaarde begin boekjaar, eigen vermogen
+Boekwaarde begin boekjaar, financi&euml;le vaste activa
+Boekwaarde begin boekjaar, garantievoorziening
+Boekwaarde begin boekjaar, goodwill
+Boekwaarde begin boekjaar, herinvesteringsreserve
+Boekwaarde begin boekjaar, liquide middelen
+Boekwaarde begin boekjaar, machines en installaties
+Boekwaarde begin boekjaar, onderhanden werk
+Boekwaarde begin boekjaar, oudedagsreserve
+Boekwaarde begin boekjaar, overige agrarische voorraden
+Boekwaarde begin boekjaar, overige immateri&euml;le vaste activa
+Boekwaarde begin boekjaar, overige kortlopende schulden
+Boekwaarde begin boekjaar, overige langlopende schulden
+Boekwaarde begin boekjaar, overige materi&euml;le vaste activa
+Boekwaarde begin boekjaar, overige voorzieningen
+Boekwaarde begin boekjaar, overige vorderingen
+Boekwaarde begin boekjaar, productie&shy;rechten
+Boekwaarde begin boekjaar, productierechten
+Boekwaarde begin boekjaar, schuld loonheffingen
+Boekwaarde begin boekjaar, schuld omzetbelasting
+Boekwaarde begin boekjaar, schulden aan kredietinstellingen
+Boekwaarde begin boekjaar, schulden aan leveranciers en handelskredieten
+Boekwaarde begin boekjaar, terugkeerreserve
+Boekwaarde begin boekjaar, veldinventaris
+Boekwaarde begin boekjaar, vordering omzetbelasting
+Boekwaarde begin boekjaar, vorderingen op handelsdebiteuren
+Boekwaarde einde boekjaar, (Bedrijfs)gebouwen die ter beschikking zijn gesteld en waarop wordt afgeschreven (met bodemwaarde)
+Boekwaarde einde boekjaar, (Bedrijfs)gebouwen in eigen gebruik waarop wordt afgeschreven (met bodemwaarde)
+Boekwaarde einde boekjaar, (Bedrijfs)gebouwen waarop niet wordt afgeschreven
+Boekwaarde einde boekjaar, (Bedrijfs)terreinen
+Boekwaarde einde boekjaar, (bedrijfs)gebouwen en terreinen
+Boekwaarde einde boekjaar, Niet-agrarische voorraden
+Boekwaarde einde boekjaar, Voorraden
+Boekwaarde einde boekjaar, andere agrarische materi&euml;le vaste activa
+Boekwaarde einde boekjaar, bloembollenkraam
+Boekwaarde einde boekjaar, champignons
+Boekwaarde einde boekjaar, dieren
+Boekwaarde einde boekjaar, effecten
+Boekwaarde einde boekjaar, egalisatiereserve
+Boekwaarde einde boekjaar, eigen vermogen
+Boekwaarde einde boekjaar, financi&euml;le vaste activa
+Boekwaarde einde boekjaar, garantievoorziening
+Boekwaarde einde boekjaar, goodwill
+Boekwaarde einde boekjaar, herinvesteringsreserve
+Boekwaarde einde boekjaar, liquide middelen
+Boekwaarde einde boekjaar, machines en installaties
+Boekwaarde einde boekjaar, milieubedrijfsmiddelen (zonder bodemwaarde)
+Boekwaarde einde boekjaar, onderhanden werk
+Boekwaarde einde boekjaar, oudedagsreserve
+Boekwaarde einde boekjaar, overige agrarische voorraden
+Boekwaarde einde boekjaar, overige immateri&euml;le vaste activa
+Boekwaarde einde boekjaar, overige kortlopende schulden
+Boekwaarde einde boekjaar, overige langlopende schulden
+Boekwaarde einde boekjaar, overige materi&euml;le vaste activa
+Boekwaarde einde boekjaar, overige voorzieningen
+Boekwaarde einde boekjaar, overige vorderingen
+Boekwaarde einde boekjaar, plantgoed, pootgoed en boom&shy;opstanden
+Boekwaarde einde boekjaar, plantgoed, pootgoed en boomopstanden
+Boekwaarde einde boekjaar, productie&shy;rechten
+Boekwaarde einde boekjaar, productierechten
+Boekwaarde einde boekjaar, schuld loonheffingen
+Boekwaarde einde boekjaar, schuld omzetbelasting
+Boekwaarde einde boekjaar, schulden aan kredietinstellingen
+Boekwaarde einde boekjaar, schulden aan leveranciers en handelskredieten
+Boekwaarde einde boekjaar, terugkeerreserve
+Boekwaarde einde boekjaar, veldinventaris
+Boekwaarde einde boekjaar, vordering omzetbelasting
+Boekwaarde einde boekjaar, vorderingen op handelsdebiteuren
+Boekwaarde op vervreemdings&shy;moment
+Boetes die niet aftrekbaar zijn
+Betaalde u in 2024 rente over het deel van de woning waarvan 
+Betaalde u voor de hele periode huur aan 
+Betalingen voor de verrekening van bijvoorbeeld pensioenrechten
+Betalingen voor de verrekening van bijvoorbeeld pensioenrechten&nbsp;in de Nederlandse periode
+Betalingen voor erfpacht, opstal of beklemming
+Bewaar formulier in Voorziening Schermen
+Bezittingen box 3 verplaatst rondom 1 januari 2024 (peildatumarbitrage)
+Betaald bedrag via voorlopige aanslag
+Betaald via voorlopige aanslag
+Contant geld 
+Bouwdepot
+Bij de winst meegeteld loon waarover een bijdrage Zvw wordt afgedragen
+Bij een aantal gezamenlijke inkomsten en aftrekbare uitgaven moet u ook het deel van&nbsp;
+Bij koersverlies zet u een minteken voor het bedrag.
+Bij winst meegetelde inkomsten
+Bijdrage-inkomen Zorgverzekeringswet
+Bijgeschreven rente in 2024
+Bijgeschreven rente in 2025
+Bijstand die de Sociale Dienst aan een ex-partner gaf en op 
+Bijstand die de Sociale Dienst aan een ex-partner gaf en op u verhaalde
+Bijstand die de Sociale Dienst aan een ex-partner geeft en op u of 
+Bijstand die de Sociale Dienst aan een ex-partner geeft en op u verhaalt
+Bijstand op #u_u of {pgpartnaam}# verhaald
+Bijstand op {pgpartnaam} verhaald
+Bijtelling maximumverliesbepaling dit boekjaar
+Bijtelling maximumverliesbepaling vorig boekjaar
+Bijzondere situaties 
+Bijzondere waardeveranderingen van vlottende activa
+Bloembollen- en knollenkwekerij
+Bodemwaarde, (Bedrijfs)gebouwen die ter beschikking zijn gesteld en waarop wordt afgeschreven (met bodemwaarde)
+Bodemwaarde, (Bedrijfs)gebouwen in eigen gebruik waarop wordt afgeschreven (met bodemwaarde)
+Betaalde premies of stortingen
+Betaalde premies of stortingen die u hebt betaald v&oacute;&oacute;r 1 januari 2001
+Betaalde premies of stortingen die u hebt betaald v&oacute;&oacute;r 
+Betaalde premies of stortingen die u hebt betaald v\xF3\xF3r 1 januari 2001
+Betaalde premies of stortingen die u hebt betaald v\xF3\xF3r 
+Betaalde premies voor een nettopensioen
+Betaalde rente en andere kosten van schulden
+Betaalde rente in 2024
+Betaalde rente in de binnenlandse periode
+Betaalde rente in de buitenlandse periode
+Betaalde rente in&nbsp;2024
+Berekening belasting en premie
+Berekening inkomensafhankelijke bijdrage Zorgverzekeringswet
+Berekening inkomensafhankelijke bijdrage Zorgverzekeringswet (Zvw)
+Berekening inkomstenbelasting
+Berekening inkomstenbelasting en premie volksverzekeringen
+Berekening voordeel uit sparen en beleggen
+Berekening winst uit medegerechtigdheid
+Beschikbaar gestelde bezittingen
+Bent u in 2024 in de woning blijven wonen die (deels) eigendom is van 
+Bent u in&nbsp;2025&nbsp;minstens 6 maanden co-ouder van&nbsp;
+Berekend priv&eacute;gebruik voor deze auto
+Bemiddelingskosten tussenpersoon
+Belangrijkste agrarische activiteiten
+Belast bedrag kapitaalverzekeringen
+Belastbaar deel inkomsten uit tijdelijke verhuur van het hoofdverblijf
+Belastbaar deel uitkering kapitaalverzekering
+Belastbaar deel uitkering kapitaalverzekering van v&oacute;&oacute;r 2001
+Belastbaar deel van een uitkering uit een kapitaalverzekering eigen woning of een spaarrekening eigen woning
+Belastbare winst uit onderneming
+Belastingkorting voor verlies uit aanmerkelijk belang
+Bedrag periodieke giften aan culturele instellingen
+Bedrag uitkering dat 
+Bedrag uitkering dat <span id="autocomplete-delimiter">u ontving nadat het tijdelijke arbeidscontract afliep
+Bedrag uitkering dat u ontvangt nadat&nbsp;het tijdelijke arbeidscontract afloopt
+Bedrag van de bijtelling voor 
+Bedrag van de eigenwoningschuld v&oacute;&oacute;r het moment van aflossing
+Bedrag van de lening op 31 december 2024 in deze valuta
+Bedrag van de lening op 
+Bedrag van de rente over de schuldvordering
+Bedrag van de uitkering of opname
+Bedrag van deze buitenlandse belasting
+Bedrag volgens winst-en-verliesrekening
+Bedrag&nbsp;dat volgens RVO in aanmerking komt voor investeringsaftrek
+Bedrag, voorlopige aanslag inkomstenbelasting en premie volksverzekeringen 2024
+Bedrag eigenwoningschuld op het moment van verkoop van de woning die uw hoofdverblijf was
+Bedrag gewone giften aan culturele instellingen
+Balans: passiva 
+Bank of andere geldverstrekker
+Bank of verzekeringsmaatschappij
+Bank- en spaarrekeningen 
+Bank- en spaarrekeningen in de periode dat u in 
+Bank- en spaarrekeningen op 1 januari 2025
+Bank- en spaarrekeningen op 1 januari&nbsp;2024
+Bankrekening: 
+Bankrekening: 
+Bankrekeningen en andere bezittingen
+Be&euml;indigt 
+Be&euml;indigt u 1 of meer ondernemingen in 2025?
+Ander gebouw (zoals bedrijfspand)
+Andere agrarische materi&euml;le vaste activa
+Andere inkomsten bij deze werkgever waarop geen loonheffing wordt ingehouden, zoals fooien
+Andere inkomsten bij deze werkgever waarover geen loonheffing wordt ingehouden, zoals fooien
+Andere onderhoudsverplichtingen
+Andere onderhoudsverplichtingen, zoals pensioenbetalingen aan vroeger huispersoneel
+Arbeidsbeloning aan fiscale partner die geen (mede)eigenaar was van de onderneming
+Arbeidsongeschiktheidsverzekering toevoegen
+Als u het fictief rendement over
+Als u het gezamenlijk fictief rendement over 
+Als u in de periode dat u in 
+Aftrekbare lijfrentepremies voor ondernemers vanwege een afname van de oudedagsreserve bij staking
+Aftrekbare lijfrentepremies voor ondernemers vanwege een afname van de oudedagsreserve die niet valt onder de stakingswinst
+Aftrekbare premies in verband met afname oudedagsreserve of stakingswinst, betaald in 2025, maar v&oacute;&oacute;r 1 juli 2025
+Aftrekbare premies lijfrente voor een meerderjarig invalide (klein)kind
+Aftrekbare premies voor een arbeidsongeschiktheidsverzekering
+Aftrekbare rente van de restschuld 
+Aftrekbare rente van de restschuld 
+Aftrekbare rente van schuld 
+Aftrekbare rente van schuld 
+Aftrekbare rente voor de eigen woning
+Aftrekbare studiekosten 
+Aftrekbare studiekosten&nbsp;
+Aftrekbare studiekosten&nbsp;
+Aftrekbare uitgaven eigen woning
+Aftrekbare uitgaven restschuld eigen woning
+Aftrekbare uitgaven van 
+Aftrekbare uitgaven van v&oacute;&oacute;r 2025
+Aftrekbare uitgaven van v&oacute;&oacute;r 2024
+Aftrekbare uitgaven van v&oacute;&oacute;r 2025
+Aftrekbare uitgaven van v\xF3\xF3r 2024
+Aftrekbare uitgaven van v\xF3\xF3r 2025
+Aftrekbare uitgaven vanwege het omzetten van een oudedagsreserve of stakingswinst in lijfrente
+Aftrekbare zorgkosten van  
+Afwijkend premie inkomen Aangever
+Afwijkend premie inkomen Partner
+Afwijking Landelijke Landbouwnormen toevoegen
+Aankoopprijs van de gekochte woning, inclusief aankoopkosten
+Aankopen en stortingen in&nbsp;
+Aanmerkelijk belang (minimaal 5&#37; van de aandelen, opties en winstbewijzen in een bv of nv)
+Aanmerkelijk belang (minimaal 5&#37; van de aandelen, opties en winstbewijzen in een bv of nv)
+Aanmerkelijk belang in Nederland
+Aanmerkelijk belang in: 
+Aanmerkelijk belang&nbsp;in Nederland (minimaal 5&#37; van de aandelen, opties en winstbewijzen in een bv of nv)
+Aanmerkelijk belang: 
+Aantal auto&#39;s van de onderneming waarmee 
+Aantal auto&#39;s van de onderneming waarmee u of 
+Aantal auto&#39;s van de onderneming waarmee u priv&eacute; hebt gereden
+Aantal auto&#39;s van de onderneming waarmee u priv&eacute; heeft gereden
+Aantal dagen dat 
+Aantal dagen dat u verzekerd was voor de volksverzekeringen
+Aantal dagen eigen gebruik in de binnenlandse periode
+Aantal dagen eigen gebruik in de buitenlandse periode
+Aantal dagen in 2024
+Aantal dagen in 2025
+Aantal uur dat 
+Aantal uur dat u hebt meegewerkt in deze onderneming(en)
+Aantal uur dat uw partner heeft meegewerkt in deze onderneming
+Aanvraag Nationale Hypotheekgarantie
+Aanvragen uitspraak Belastingdienst
+Aanvragen uitspraak van de Belastingdienst
+Add not supported on this collection
+Add not supported on this list
+Adjust settings to screen reader
+Adjusting settings to screen reader
+Af: vrijstelling (12% van 
+Af: vrijstelling (12 % van &euro; 
+Afboeking herinvesteringsreserve op gekochte activa
+Afgezonderd particulier vermogen
+Afgezonderd particulier vermogen (APV)
+Afkoopsommen partneralimentatie
+Afkoopsommen partneralimentatie&nbsp;in de Nederlandse periode
+Afname van opgebouwde oudedagsreserve in 
+Afschrijving op uitgaven v&oacute;&oacute;r 2014 voor een rolstoel, scootmobiel of woningaanpassing
+Afschrijvings&amp;shy;percentage
+Aftrek geen of een kleine eigenwoningschuld
+Aftrek geen of een kleine eigenwoningschuld: 80% van 
+Aftrek geen of geringe eigenwoningschuld
+Aftrek in 2024
+Aftrek om dubbele belasting over buitenlandse winst te voorkomen
+Aftrek om dubbele belasting te voorkomen
+Aftrek om dubbele belasting te voorkomen in&nbsp;2024 en aftrek over buitenlandse inkomsten uit vorige jaren
+Aftrek tijdelijk verblijf thuis gehandicapten
+Aftrek vanwege geen of een kleine eigenwoningschuld
+Aftrek vanwege geen of kleine eigenwoningschuld
+Aftrek voor speur- en ontwikkelingswerk
+Aftrek voorkoming dubbele belasting
+Aftrekbare financieringskosten
+Aftrekbare financieringskosten van de restschuld
+Aftrekbare giften van 
+Aftrekbare kosten bij tijdelijke verhuur van het hoofdverblijf
+Aftrekbare kosten voor reguliere voordelen
 U hebt deze gegevens nog niet ingevuld
 (bijvoorbeeld tijdens vakanties)?
 &nbsp;de buitenlandse bronbelasting verrekenen volgens de afzonderlijke methode, in plaats van de gezamenlijke methode?
