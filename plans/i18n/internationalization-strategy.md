@@ -356,44 +356,7 @@ const changeLanguage = async (newLang: string) => {
 <meta property="og:locale:alternate" content="en_GB" />
 ```
 
-## 7. Dutch Tax Terminology Translation Guide
-
-### 7.1 Common Tax Terms
-| Dutch | English | Context |
-|-------|---------|---------|
-| Aangifte | Tax Return | General tax filing |
-| Aftrekpost | Deduction | Tax-deductible item |
-| Belastbaar inkomen | Taxable Income | Income subject to tax |
-| Belastingvrije voet | Tax-free Allowance | Personal allowance |
-| Bijtellingen | Additions | Added benefits |
-| Eigenwoningforfait | Imputed Rental Value | Notional rental income |
-| Heffingskorting | Tax Credit | Direct tax reduction |
-| Hypotheekrenteaftrek | Mortgage Interest Deduction | Home loan interest |
-| Loonheffing | Payroll Tax | Employer-withheld tax |
-| Voorlopige aanslag | Provisional Assessment | Advance tax payment |
-| Voorlopige teruggave | Provisional Refund | Advance tax refund |
-
-### 7.2 Form-Specific Translations
-```json
-{
-  "forms": {
-    "M": {
-      "nl": "M-biljet (Aangifte inkomstenbelasting)",
-      "en": "M-form (Income Tax Return)"
-    },
-    "IB": {
-      "nl": "IB - Inkomstenbelasting",
-      "en": "IB - Income Tax"
-    },
-    "VA": {
-      "nl": "VA - Voorlopige aanslag",
-      "en": "VA - Provisional Tax Assessment"
-    }
-  }
-}
-```
-
-## 8. Implementation Roadmap
+## 7. Implementation Roadmap
 
 ### Phase 1: Foundation (Weeks 1-2)
 - Set up react-i18next framework
@@ -419,9 +382,9 @@ const changeLanguage = async (newLang: string) => {
 - Performance optimization
 - Documentation completion
 
-## 9. Maintenance and Updates
+## 8. Maintenance and Updates
 
-### 9.1 Version Control
+### 8.1 Version Control
 ```json
 {
   "translations": {
@@ -436,26 +399,26 @@ const changeLanguage = async (newLang: string) => {
 }
 ```
 
-### 9.2 Update Process
+### 8.2 Update Process
 1. Annual review for tax law changes
 2. Quarterly community feedback integration
 3. Monthly bug fixes and improvements
 4. Continuous monitoring of translation quality
 
-## 10. Success Metrics
+## 9. Success Metrics
 
-### 10.1 Translation Coverage
+### 9.1 Translation Coverage
 - 100% coverage for primary languages
 - 95%+ coverage for secondary languages
 - <24h turnaround for critical updates
 
-### 10.2 User Satisfaction
+### 9.2 User Satisfaction
 - Language preference analytics
 - User feedback on translation quality
 - Support ticket analysis by language
 - Completion rates by language
 
-### 10.3 Performance Metrics
+### 9.3 Performance Metrics
 - Translation loading time <100ms
 - Language switch time <200ms
 - Bundle size increase <15% per language
