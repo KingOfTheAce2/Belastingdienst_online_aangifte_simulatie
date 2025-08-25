@@ -1,71 +1,36 @@
-Waarde bezittingen en schulden voor deze inkomsten
-Waarde economisch verkeer van opgebouwde kapitaalverzekering
-Waarde economisch verkeer van opgebouwde lijfrenteaanspraken
-Waarde economisch verkeer van opgebouwde pensioenaanspraken
-Waarde in het economisch verkeer
-Waarde ingelegde werknemers- en werkgeverspremies
-Waarde kapitaalverzekering eigen woning op 
-Waarde uitvaartverzekering met polisnummer 
-Waarde uitvaartverzekering met polisnummer 
-Waarde van het bewoonde deel van dit pand
-Waarde verzekering met polisnummer 
-Vul in dit scherm alleen de bedragen in van u over de periode dat u in&nbsp;
-Vul in dit scherm alleen de kosten in die u hebt gemaakt in de periode dat u in&nbsp;
-Vul in dit scherm alleen de kosten in die u maakt in de periode dat u in 
-Vul in dit scherm alleen de uitgaven in die u hebt gemaakt in de periode dat u in&nbsp;
-Vul in dit scherm alleen de uitgaven in die u maakt in de periode dat u in 
-Vul in dit scherm alleen de uitgaven in die u maakt in de periode dat u in 
-Vul in dit scherm alleen de uitgaven in die u maakt in de periode dat u in&nbsp;
-Vul in dit scherm alleen uitgaven in die u hebt gemaakt in de periode dat u in&nbsp;
-Vul in dit scherm alleen bedragen in die 
-Vul in dit scherm alleen bedragen in die u niet kunt aftrekken in het land waarin 
-Vul in dit scherm alleen bedragen in die u niet kunt aftrekken in het land waarin u of&nbsp;
-Vul in dit scherm alleen bedragen in die u of 
-Vul in dit scherm alleen bedragen in die u of 
-Vul in dit scherm alleen bedragen in die u&nbsp;niet&nbsp;kunt aftrekken in het land waarin 
-Vul in dit scherm alleen bedragen in die u&nbsp;niet&nbsp;kunt aftrekken in het land waarin u of&nbsp;
-Vul hier alleen de willekeurige afschrijvingen in van
-Vul hier alleen de willekeurige afschrijvingen in van 
-Vul hier alleen de willekeurige afschrijvingen in van u en
-Vul hier alleen de willekeurige afschrijvingen in van u en 
-Vul een datum in die voor of op
-Vul het aantal dagen binnenlandse periode in dat minder of gelijk is dan 
-Vul het aantal dagen buitenlandse periode in dat minder of gelijk is dan 
-Vul het aantal dagen in dat minder of gelijk is dan 
-Vul bij de kapitaalverzekering nog de premies of stortingen in die u of 
-Vul bij de kapitaal&shy;verzekering nog de premies of stortingen in die u of 
-Vul bij de kapitaal&shy;verzekering nog de premies of stortingen in die u of 
-Vul een bedrag in dat lager is dan 
-Vul een bedrag in dat lager is dan 
-Vul een bedrag in dat lager of gelijk is dan 
-Vul een datum in die op of na
-Vul alleen het deel in dat is toe te rekenen aan
-Voorlopige aanslag Zorgverzekeringswet 2024
-Voorlopige aanslag inkomstenbelasting en premie volksverzekeringen 2024
-Voorlopige aanslagen 2024
-Vooruit of achteraf betaalde rente
-Vordering omzetbelasting over dit boekjaar
-Vordering omzetbelasting over het vorige boekjaar
-Vordering omzetbelasting over oudere boekjaren
-Vorderingen op handelsdebiteuren
-Vorming negatieve terugkeerreserve
-Vlag waaronder het schip vaart
-Voldoet u samen met 
-Volgens het belastingverdrag zijn lijfrente-uitkeringen uit 
-Voor welke periode betaalde 
-Voor welke periode betaalde u huur aan 
-Vooraf ingevulde gegevens over 2023
-Vooraf ingevulde gegevens over 2023
-Voordeel sparen en beleggen (
-Voordeel sparen en beleggen voor vermindering (
-Voordeel uit aanmerkelijk belang
-Voordeel uit aanmerkelijk belang buiten Nederland
-Voordeel uit aanmerkelijk belang uit dit APV
-Voordeel uit aanmerkelijk belang waarvoor een verlaagd tarief geldt
-Voordeel uit sparen en beleggen
-Verpachtte u of 
-Verplicht deel van deze afname oudedagsreserve
-Verplichte afnames oudedagsreserve in 
+waarde bezittingen en schulden voor deze inkomsten
+waarde economisch verkeer van opgebouwde kapitaalverzekering
+waarde economisch verkeer van opgebouwde lijfrenteaanspraken
+waarde economisch verkeer van opgebouwde pensioenaanspraken
+waarde in het economisch verkeer
+waarde ingelegde werknemers- en werkgeverspremies
+waarde kapitaalverzekering eigen woning op 
+waarde uitvaartverzekering met polisnummer 
+waarde van het bewoonde deel van dit pand
+waarde verzekering met polisnummer 
+willekeurige afschrijvingen
+voorlopige aanslag Zorgverzekeringswet 2024
+voorlopige aanslag inkomstenbelasting en premie volksverzekeringen 2024
+voorlopige aanslagen {year}
+vooruit of achteraf betaalde rente
+vordering omzetbelasting over dit boekjaar
+vordering omzetbelasting over het vorige boekjaar
+vordering omzetbelasting over oudere boekjaren
+vorderingen op handelsdebiteuren
+vorming negatieve terugkeerreserve
+vlag waaronder het schip vaart
+ship
+lijfrente-uitkeringen  
+vooraf ingevulde gegevens over {year}
+voordeel sparen en beleggen 
+voordeel uit aanmerkelijk belang
+voordeel uit aanmerkelijk belang buiten Nederland
+voordeel uit aanmerkelijk belang uit dit APV
+voordeel uit aanmerkelijk belang waarvoor een verlaagd tarief geldt
+oudedagsreserve
+vetbeperkt in combinatie met MCT-vetverrijkt
+
+
 Verrekenbare buitenlandse belasting op buitenlands inkomen van dit boekjaar
 Verrekening buitenlandse bronbelasting artiest of beroepssporter box 1
 Verrekening buitenlandse bronbelasting box 1
@@ -73,7 +38,6 @@ Verrekening buitenlandse bronbelasting box 2
 Verrekening buitenlandse bronbelasting box 3
 Verrekening buitenlandse bronbelasting dividend, royalty's en rente box 1
 Verrekening buitenlandse bronbelasting loon en pensioen box 1
-Verrichtte 
 Verschuldigde inkomensafhankelijke bijdrage Zorgverzekeringswet: 5,26% van 
 Verschuldigde inkomensafhankelijke bijdrage Zorgverzekeringswet: 5,32% van 
 Vervoerskosten door ziekte of invaliditeit
@@ -85,8 +49,8 @@ Verzamelinkomen uit Nederland en buiten Nederland samen
 Verzamelinkomen uit Nederland en buiten Nederland samen 
 Verzekeringsmaatschappij en/of product
 Verzoek of wijziging voorlopige aanslag 2025
-Verzoek of wijziging voorlopige aanslag [JAAR]
-Vetbeperkt in combinatie met MCT-vetverrijkt
+Verzoek of wijziging voorlopige aanslag 
+
 Verkopen en onttrekkingen in&nbsp;
 Verlaagd premie-inkomen (&euro; 0 bij een negatieve uitkomst)
 Vermeld in dit scherm al de onroerende zaken die 
@@ -115,10 +79,7 @@ Verhuurde u deze woning of een deel ervan tijdelijk in de periode
 Vanuit priv&eacute;middelen betaalde kosten voor deze auto
 Valuta waarin u de lening hebt afgesloten
 Veranderde dit eigendomsdeel na 
-Veranderde dit eigendomsdeel na&nbsp;
-Verandert dit eigendomsdeel na 
-Verandert dit na 
-Verandert dit&nbsp;eigendomsdeel na 
+
 Verdeel de bedragen onder &#39;Totaal&#39; tussen u en 
 Uw zelfstandigenaftrek is hoger&nbsp;dan uw winst. Het bedrag dat overblijft (
 Uw voordeel sparen en beleggen over 
@@ -1418,92 +1379,6 @@ Buitenlandse bronbelasting in de periode dat u in Nederland woonde
 Buitenlandse bronbelasting over de rente
 Buitenlandse bronbelasting over de rente in&nbsp;de periode 
 Buitenlandse bronbelasting&nbsp;
-Buitenvennootschappelijk ondernemingsvermogen
-Burgerservicenummer&nbsp;
-Controleer de balans. Aan het begin van het boekjaar moet het totaal van de passiva
-Controleer de balans. Aan het einde van het boekjaar moet het totaal van de passiva
-Boekwaarde 01-01-2024
-Boekwaarde 
-Boekwaarde begin boekjaar, (bedrijfs)gebouwen en terreinen
-Boekwaarde begin boekjaar, Niet-agrarische voorraden
-Boekwaarde begin boekjaar, Plantgoed, pootgoed en boom&shy;opstanden
-Boekwaarde begin boekjaar, Plantgoed, pootgoed en boomopstanden
-Boekwaarde begin boekjaar, Voorraden
-Boekwaarde begin boekjaar, andere agrarische materi&euml;le vaste activa
-Boekwaarde begin boekjaar, bloembollenkraam
-Boekwaarde begin boekjaar, champignons
-Boekwaarde begin boekjaar, dieren
-Boekwaarde begin boekjaar, effecten
-Boekwaarde begin boekjaar, egalisatiereserve
-Boekwaarde begin boekjaar, eigen vermogen
-Boekwaarde begin boekjaar, financi&euml;le vaste activa
-Boekwaarde begin boekjaar, garantievoorziening
-Boekwaarde begin boekjaar, goodwill
-Boekwaarde begin boekjaar, herinvesteringsreserve
-Boekwaarde begin boekjaar, liquide middelen
-Boekwaarde begin boekjaar, machines en installaties
-Boekwaarde begin boekjaar, onderhanden werk
-Boekwaarde begin boekjaar, oudedagsreserve
-Boekwaarde begin boekjaar, overige agrarische voorraden
-Boekwaarde begin boekjaar, overige immateri&euml;le vaste activa
-Boekwaarde begin boekjaar, overige kortlopende schulden
-Boekwaarde begin boekjaar, overige langlopende schulden
-Boekwaarde begin boekjaar, overige materi&euml;le vaste activa
-Boekwaarde begin boekjaar, overige voorzieningen
-Boekwaarde begin boekjaar, overige vorderingen
-Boekwaarde begin boekjaar, productie&shy;rechten
-Boekwaarde begin boekjaar, productierechten
-Boekwaarde begin boekjaar, schuld loonheffingen
-Boekwaarde begin boekjaar, schuld omzetbelasting
-Boekwaarde begin boekjaar, schulden aan kredietinstellingen
-Boekwaarde begin boekjaar, schulden aan leveranciers en handelskredieten
-Boekwaarde begin boekjaar, terugkeerreserve
-Boekwaarde begin boekjaar, veldinventaris
-Boekwaarde begin boekjaar, vordering omzetbelasting
-Boekwaarde begin boekjaar, vorderingen op handelsdebiteuren
-Boekwaarde einde boekjaar, (Bedrijfs)gebouwen die ter beschikking zijn gesteld en waarop wordt afgeschreven (met bodemwaarde)
-Boekwaarde einde boekjaar, (Bedrijfs)gebouwen in eigen gebruik waarop wordt afgeschreven (met bodemwaarde)
-Boekwaarde einde boekjaar, (Bedrijfs)gebouwen waarop niet wordt afgeschreven
-Boekwaarde einde boekjaar, (Bedrijfs)terreinen
-Boekwaarde einde boekjaar, (bedrijfs)gebouwen en terreinen
-Boekwaarde einde boekjaar, Niet-agrarische voorraden
-Boekwaarde einde boekjaar, Voorraden
-Boekwaarde einde boekjaar, andere agrarische materi&euml;le vaste activa
-Boekwaarde einde boekjaar, bloembollenkraam
-Boekwaarde einde boekjaar, champignons
-Boekwaarde einde boekjaar, dieren
-Boekwaarde einde boekjaar, effecten
-Boekwaarde einde boekjaar, egalisatiereserve
-Boekwaarde einde boekjaar, eigen vermogen
-Boekwaarde einde boekjaar, financi&euml;le vaste activa
-Boekwaarde einde boekjaar, garantievoorziening
-Boekwaarde einde boekjaar, goodwill
-Boekwaarde einde boekjaar, herinvesteringsreserve
-Boekwaarde einde boekjaar, liquide middelen
-Boekwaarde einde boekjaar, machines en installaties
-Boekwaarde einde boekjaar, milieubedrijfsmiddelen (zonder bodemwaarde)
-Boekwaarde einde boekjaar, onderhanden werk
-Boekwaarde einde boekjaar, oudedagsreserve
-Boekwaarde einde boekjaar, overige agrarische voorraden
-Boekwaarde einde boekjaar, overige immateri&euml;le vaste activa
-Boekwaarde einde boekjaar, overige kortlopende schulden
-Boekwaarde einde boekjaar, overige langlopende schulden
-Boekwaarde einde boekjaar, overige materi&euml;le vaste activa
-Boekwaarde einde boekjaar, overige voorzieningen
-Boekwaarde einde boekjaar, overige vorderingen
-Boekwaarde einde boekjaar, plantgoed, pootgoed en boom&shy;opstanden
-Boekwaarde einde boekjaar, plantgoed, pootgoed en boomopstanden
-Boekwaarde einde boekjaar, productie&shy;rechten
-Boekwaarde einde boekjaar, productierechten
-Boekwaarde einde boekjaar, schuld loonheffingen
-Boekwaarde einde boekjaar, schuld omzetbelasting
-Boekwaarde einde boekjaar, schulden aan kredietinstellingen
-Boekwaarde einde boekjaar, schulden aan leveranciers en handelskredieten
-Boekwaarde einde boekjaar, terugkeerreserve
-Boekwaarde einde boekjaar, veldinventaris
-Boekwaarde einde boekjaar, vordering omzetbelasting
-Boekwaarde einde boekjaar, vorderingen op handelsdebiteuren
-Boekwaarde op vervreemdings&shy;moment
 Boetes die niet aftrekbaar zijn
 Betaalde u in 2024 rente over het deel van de woning waarvan 
 Betaalde u voor de hele periode huur aan 
@@ -1656,8 +1531,7 @@ Aantal uur dat uw partner heeft meegewerkt in deze onderneming
 Aanvraag Nationale Hypotheekgarantie
 Aanvragen uitspraak Belastingdienst
 Aanvragen uitspraak van de Belastingdienst
-Add not supported on this collection
-Add not supported on this list
+
 Adjust settings to screen reader
 Adjusting settings to screen reader
 Af: vrijstelling (12% van 
