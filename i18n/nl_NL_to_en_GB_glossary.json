@@ -8,7 +8,7 @@
   "Aangifte inkomstenbelasting 2024 bij emigratie of immigratie": "Personal Income Tax Return 2024 for emigration or immigration",
   "Aangifte inkomstenbelasting 2024 voor buitenlandse belastingplichtigen": "Personal Income Tax Return 2024 for non-resident taxpayers",
   "Aangifte inkomstenbelasting 2024": "Personal Income Tax Return 2024",
-  "Aangifte voor binnenlandse belastingplichtigen": "Tax Return for resident taxpayers"
+  "Aangifte voor binnenlandse belastingplichtigen": "Tax Return for resident taxpayers",
   "Aanvragen of wijzigen voorlopige aanslag": "Request or change Provisional Tax Assessment",
   "Box 1: werk en woning": "Box 1: income from work and owner-occupied home",
   "Box 2: aanmerkelijk belang": "Box 2: substantial interest",
@@ -17,6 +17,7 @@
   "Inkomstenbelasting box 1": "Personal Income Tax Box 1: income from work and owner-occupied home",
   "Inkomstenbelasting box 2": "Personal Income Tax Box 2: substantial shareholding",
   "Inkomstenbelasting box 3": "Personal Income Tax Box 3: savings and investments",
+  "Nederlandse dividendbelasting": "Dutch dividend withholding tax",
   "Persoonsgebonden aftrek te verrekenen in box 2": "personal deductions to be offset in Box 2",
   "Persoonsgebonden aftrek te verrekenen in box 3": "personal deductions to be offset in Box 3",
   "Persoonsgebonden aftrek": "personal deductions",
@@ -25,36 +26,6 @@
   "Saldo op 01-01-2024": "Balance on 01-01-2024",
   "Saldo op 01-01-2025": "Balance on 01-01-2025",
   "Te verrekenen heffingskortingen": "tax credits to be offset",
-  "Totaal Nederlandse dividendbelasting": "total Dutch dividend withholding tax",
-  "Totaal aftrek lijfrente voor de inkomstenbelasting": "total annuity deduction for personal income tax",
-  "Totaal aftrek lijfrente voor de premieheffing": "total annuity deduction for social security contributions",
-  "Totaal aftrek lijfrente": "total annuity deduction",
-  "Totaal aftrekbare uitgaven eigen woning": "total deductible expenses owner-occupied home",
-  "Totaal aftrekbare uitgaven restschuld eigen woning": "total deductible expenses residual debt owner-occupied home",
-  "Totaal aftrekbare uitgaven voor inkomensvoorzieningen": "total deductible expenses for income protection schemes",
-  "Totaal bezittingen": "total assets",
-  "Totaal box 1: werk en woning": "total Box 1: income from work and owner-occupied home",
-  "Totaal box 2: aanmerkelijk belang": "total Box 2: substantial interest",
-  "Totaal box 3: sparen en beleggen": "total Box 3: savings and investments",
-  "Totaal dividendbelasting": "total dividend withholding tax",
-  "Totaal eigen woning": "total owner-occupied home",
-  "Totaal gezamenlijk werkelijk rendement": "total joint actual return",
-  "Totaal heffingskortingen": "total tax credits",
-  "Totaal inkomsten uit eigen woning": "total income from owner-occupied home",
-  "Totaal inkomsten uit werk en woning": "total income from work and owner-occupied home",
-  "Totaal inkomstenbelasting en premie volksverzekeringen": "total personal income tax and social security contributions",
-  "Totaal inkomstenbelasting": "total personal income tax",
-  "Totaal loonheffing": "total payroll withholding tax",
-  "Totaal onttrekking privégebruik auto van de onderneming": "total withdrawal for private use of company car",
-  "Totaal overige privéonttrekkingen": "total other private withdrawals",
-  "Totaal pensioen en andere uitkeringen": "total pension and other benefits",
-  "Totaal persoonsgebonden aftrek": "total personal deductions",
-  "Totaal privéonttrekkingen in natura en in goederen": "total private withdrawals in kind and in goods",
-  "Totaal te betalen": "total payable",
-  "Totaal terug te krijgen": "total refundable",
-  "Totaal teruggekregen bedragen en vergoedingen": "total refunded amounts and reimbursements",
-  "Totaal voordeel uit aanmerkelijk belang": "total benefit from substantial interest",
-  "Totaal werkelijk rendement": "total actual return",
   "Uniform pensioenoverzicht(en)": "Uniform Pension Statement (“Uniform Pensioenoverzicht”)",
   "Vermogensbestanddeel": "asset component",
   "Verzamelinkomen": "aggregate income",
@@ -66,21 +37,39 @@
   "Werkgever of uitkeringsinstantie": "employer or pension/benefits provider",
   "aanmerkelijk belang": "substantial shareholding (shareholdings of 5% or more)",
   "aanslag": "Tax Assessment",
+  "aftrek lijfrente voor de inkomstenbelasting": "annuity deduction for personal income tax",
+  "aftrek lijfrente voor de premieheffing": "annuity deduction for social security contributions",
+  "aftrek lijfrente": "annuity deduction",
+  "aftrekbare uitgaven eigen woning": "deductible expenses owner-occupied home",
+  "aftrekbare uitgaven restschuld eigen woning": "deductible expenses residual debt owner-occupied home",
+  "aftrekbare uitgaven voor inkomensvoorzieningen": "deductible expenses for income protection schemes",
+  "bezittingen": "assets",
+  "box 1: werk en woning": "Box 1: income from work and owner-occupied home",
+  "box 2: aanmerkelijk belang": "Box 2: substantial interest",
+  "box 3: sparen en beleggen": "Box 3: savings and investments",
   "bsn": "BSN → Citizen Service Number",
   "btw": "VAT",
   "commanditaire vennootschap": "limited partnership",
+  "dividendbelasting": "dividend withholding tax",
+  "eigen woning": "owner-occupied home",
   "eigen_woning": "Owner-occupied home",
   "eigenwoning-forfait": "imputed rental value of the owner-occupied home ('eigenwoningforfait')",
   "eigenwoningforfait": "imputed rental value of the owner-occupied home ('eigenwoningforfait')",
-  "erfpachtcanon": "ground rent"
+  "erfpachtcanon": "ground rent",
   "fictief rendement": "notional return",
   "fictieve vervreemding": "deemed sale (treated as if you sold the asset)",
   "geldverstrekker": "lender",
+  "gezamenlijk werkelijk rendement": "joint actual return",
   "giften": "donations (to qualifying organisations)",
   "grondslag rendementsberekening": "tax base for notional return calculation",
+  "heffingskortingen": "tax credits",
   "inkomensafhankelijke regelingen": "income-related schemes",
-  "inkomstenbelasting": "Personal Income Tax",
+  "inkomsten uit eigen woning": "income from owner-occupied home",
+  "inkomsten uit werk en woning": "income from work and owner-occupied home",
+  "inkomstenbelasting en premie volksverzekeringen": "personal income tax and social security contributions",
+  "inkomstenbelasting": "personal income tax",
   "jaarruimte": "annual pension allowance",
+  "kapitaalverzekering": "a capital insurance policy",
   "kapitaalverzekeringen": "capital insurance policies ('kapitaalverzekering')",
   "kleinschaligheidsinvesteringsaftrek": "small-scale investment credit",
   "kortingsfactor": "tax reduction factor",
@@ -93,123 +82,63 @@
   "onroerende zaak": "real estate",
   "onroerende zaken buiten Nederland": "Real estate situated outside the Netherlands",
   "onroerende zaken in box 3": "real estate in Box 3",
+  "onttrekking privégebruik auto van de onderneming": "withdrawal for private use of company car",
+  "overige privéonttrekkingen": "other private withdrawals",
   "partneralimentatie": "spousal alimony",
+  "pensioen en andere uitkeringen": "pension and other benefits",
   "periodieke giften": "periodic donations (to qualifying organisations)",
+  "persoonsgebonden aftrek": "personal deductions",
   "premieheffing": "social security contributions",
+  "privéonttrekkingen in natura en in goederen": "private withdrawals in kind and in goods",
   "rendementsgrondslag (vermogen)": "net wealth tax base (box 3)",
+  "spaarrekening": "savings account"
   "stakingsaftrek": "business discontinuation tax relief",
   "startersaftrek": "tax relief for new businesses",
   "studiekosten": "education expenses",
+  "te betalen": "payable",
+  "terug te krijgen": "refundable",
+  "teruggekregen bedragen en vergoedingen": "refunded amounts and reimbursements",
   "uitgaven tijdelijk verblijf thuis gehandicapten": "expenses for temporary home care of disabled persons",
   "uitkeringen uit een kapitaalverzekering": "payouts from a capital insurance policy ('kapitaalverzekering')",
   "vennootschap onder firma": "general partnership",
+  "voordeel uit aanmerkelijk belang": "benefit from substantial interest",
   "voorlopige aanslag inkomstenbelasting en premie volksverzekeringen": "Provisional Tax Assessment personal income tax and social security contributions",
   "voorlopige aanslag": "Provisional Tax Assessment",
+  "werkelijk rendement": "actual return",
   "winst uit onderneming": "self-employment income (business profit)",
   "zelfstandigenaftrek": "private business ownership allowance",
-  "kapitaalverzekering": "a capital insurance policy",
-  "spaarrekening": "savings account",
-  "beleggingsrecht voor de eigen woning die u als verzekeringnemer hebt een kapitaalverzekering,": "investment right for the owner-occupied home that you have as the policyholder a capital insurance policy,",
-  "spaarrekening of beleggingsrecht voor de eigen woning die u als onherroepelijk begunstigde hebt op het moment dat u in 2024 emigreerde uit Nederland": "savings account, or investment right for the owner-occupied home that you have as the irrevocable beneficiary at the time you emigrated from the Netherlands in 2024"
 }
 
-Zorgkosten waarvoor u (gedeeltelijk) geen vergoeding krijgt
-Woont de (vroegere) fiscale partner van 
-Woont u hier heel 2025?
-Woont uw (vroegere) fiscale partner in deze woning van&nbsp;
-Zijn deze inkomsten belast in Nederland volgens het belastingverdrag dat Nederland heeft gesloten met 
-Zijn deze inkomsten belast in Nederland volgens het belastingverdrag dat uw woonland heeft gesloten met 
-Zijn deze inkomsten volledig belast in Nederland volgens het belastingverdrag dat Nederland heeft gesloten met het woonland van 
-Zijn deze inkomsten volledig in Nederland belast volgens het belastingverdrag dat Nederland heeft gesloten met het woonland van 
-Zijn deze inkomsten&nbsp;belast in Nederland volgens het belastingverdrag dat Nederland heeft gesloten met 
-Zijn er in 2024 transacties geweest tussen&nbsp;
-Zonder inkomensverklaring voldoen u en 
-Zonder inkomensverklaring voldoet 
+Zorgkosten
+belastingverdrag
+inkomensverklaring
 Woning: bewoond door een ander
 Woning: leegstaand of vakantiewoning
 Woningen en andere onroerende zaken
-Woonde de (vroegere) fiscale partner van 
-Winst als medegerechtigde/geldverstrekker
-Winst als medegerechtigde/geldverstrekker 
-Winst die u voor deze onderneming(en) hebt behaald door de afname van de oudedagsreserve, na een geruisloze doorschuiving of omzetting
-Winst die u voor deze onderneming(en) heeft behaald door de afname van de oudedagsreserve, na een geruisloze doorschuiving of omzetting
-Winst op immateri&euml;le activa
-Winst op&nbsp;immateri&euml;le activa
-Winst uit onderneming in Nederland
-Winst uit onderneming n&aacute; ondernemersaftrek
-Winst uit onderneming v&oacute;&oacute;r ondernemersaftrek in 
-Winst uit onderneming, belast in Nederland
-Winst uit onderneming, niet belast in Nederland
-Winst uit zeescheepvaart volgens tonnageregeling
-Winst v&oacute;&oacute;r ondernemersaftrek
-Winst&nbsp;na ondernemersaftrek en mkb-winstvrijstelling
-Winst&nbsp;na ondernemersaftrek en mkb-winstvrijstelling in euro&#39;s
-Winstberekening 
-Winstberekening volgens Winst-en-verliesrekening
-Winstberekening volgens Winstaandeel
-Winstrechten en andere bezittingen
-Winstrechten en rechten op onroerende zaken in Nederland
-Winstrechten in Nederlandse ondernemingen
-Winstrechten in Nederlandse ondernemingen en rechten op onroerende zaken in Nederland op 1 januari 2024
-Winstrechten in Nederlandse ondernemingen en rechten op onroerende zaken in Nederland op 1 januari 2025
-Winstrechten in Nederlandse ondernemingen op 1 januari 2024
-Winstrechten in Nederlandse ondernemingen op 1 januari 2025
-Winstrechten in ondernemingen en rechten op onroerende zaken in Nederland op 1 januari 2024
-Wilt u de helft van de uitkering toerekenen aan 
-Wilt u de helft van de uitkering toerekenen aan 
-Daarom vullen we alleen de gegevens van 
-Wij kunnen het gezamenlijk fictief rendement over 
-Wijze van invullen van winst-en-verliesrekening en de balans
-Wijziging in voorraden gereed product en onderhanden werk
-Wijziging ten opzichte van de laatste voorlopige aanslag inkomstenbelasting
-Wijziging ten opzichte van de laatste voorlopige aanslag inkomstenbelasting en premie volksverzekeringen
-Wijzigingen in toelaatbare reserves
-Wijzigingen in toelaatbare reserves 
-Wijzigingen toelaatbare reserves
-Willekeurig af te schrijven milieubedrijfsmiddelen (zonder bodemwaarde)
-Willekeurige afschrijvingen<br /><br />
-Welk deel van de waarde op 1 januari 2024 was van 
-Welk deel van de waarde op 1 januari 2025 is van 
-Welk deel van het saldo is op 1 januari 2025 van 
-Welk deel van het saldo is op 1 januari 2024 van 
-Welke inkomsten hadden u en 
-Welke uitgaven hadden u en 
-Welke uitgaven hebben u en 
-Werd de woning op 1 januari 
-Werd de woning op 31 december 
-Werd de woning op 
-Werkelijk rendement binnenlandse periode
-Werkelijk rendement buitenlandse periode
-Werkelijk rendement&nbsp;binnenlandse periode
-Werkelijke waarde van deze woning op 1 januari 2023
-Werkgever: 
-Werkt de fiscale partner mee in de onderneming(en) van 
-Waardeverandering van effecten
-Waardeverandering van vorderingen
-Waren de inkomsten die&nbsp;
-Waren de inkomsten die&nbsp;u in Nederland had in&nbsp;de periode dat 
-Waren de inkomsten die&nbsp;u in Nederland had in&nbsp;de periode dat u in&nbsp;
-Waren de inkomsten die&nbsp;u in&nbsp;
-Waren de kosten voor deze auto hoger dan 
-Was (een deel&nbsp;van) de schuld in&nbsp;
-Was 90&#37; of meer van het totale inkomen van 
-Was de waarde van de kapitaal&shy;verzekering op 
-Was de waarde van de kapitaal&shy;verzekering op 
-Was de werkelijke waarde van deze woning lager dan 
-Was deze belegging alleen van 
-Was deze onroerende zaak in 2024 het hoofdverblijf van u of 
-Was deze onroerende zaak in de periode dat het tot&nbsp;het priv&eacute;vermogen hoorde het hoofdverblijf van u of 
-Was deze rekening alleen van 
-Was deze schuld alleen van u en 
-Was deze woning bedoeld als het toekomstige hoofdverblijf van 
-Was deze woning het vroegere hoofdverblijf van 
-Was deze woning het vroegere hoofdverblijf van u of 
-WOZ-waarde 
-WOZ-waarde in 2024 (peildatum 1 januari&nbsp;2023)
-WOZ-waarde in 2025
-WOZ-waarde van de gehele woning
-Waarde APV op 1 januari 2024 bij aanmerkelijk belang
-Waarde APV op 1 januari 2024 bij geen aanmerkelijk belang
+medegerechtigde/geldverstrekker
+geruisloze doorschuiving of omzetting
+ondernemersaftrek
+winst uit zeescheepvaart volgens tonnageregeling
+mkb-winstvrijstelling
+winstrechten en andere bezittingen
+winstrechten en rechten op onroerende zaken in Nederland
+winstrechten in Nederlandse ondernemingen
+winstrechten in Nederlandse ondernemingen en rechten op onroerende zaken in Nederland op 1 januari {year}
+winstrechten in Nederlandse ondernemingen op 1 januari {year}
+gezamenlijk fictief rendement
+wijziging in voorraden gereed product en onderhanden werk
+wijzigingen in toelaatbare reserves
+wijzigingen toelaatbare reserves
+willekeurige afschrijvingen
+werkelijk rendement binnenlandse periode
+werkelijk rendement buitenlandse periode
+werkelijke waarde van deze woning op 1 januari {year}
+werkgever
+WOZ-waarde
+kapitaalverzekering
+waarde APV op 1 januari {year} bij aanmerkelijk belang
+waarde APV op 1 januari {year} bij geen aanmerkelijk belang
+
 Waarde bezittingen en schulden voor deze inkomsten
 Waarde economisch verkeer van opgebouwde kapitaalverzekering
 Waarde economisch verkeer van opgebouwde lijfrenteaanspraken
